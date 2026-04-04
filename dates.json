@@ -1,52 +1,35 @@
 [
   {
     "emoji": "🎭",
-    "category": "Nightlife & Live Music",
-    "title": "Reggae Night + Rooftop Drinks",
-    "description": "Start with live reggae at a rooftop bar in Atlanta. Nothing beats good music and skyline views together.",
+    "category": "comedy",
+    "title": "Best of Atlanta Comedy Showcase",
+    "description": "Support local Atlanta comedians at Laughing Skull Lounge — one of the city's best intimate comedy venues. Saturday night at 8PM (doors 7:30PM), 21+. Grab tickets and split some appetizers.",
     "budget": "$$",
-    "location": "Hotel Row / Westside Provisions",
-    "vibe": "Chill, rhythmic, romantic",
-    "validUntil": "2026-04-06"
+    "location": "Laughing Skull Lounge, 832 Quinn St NW, Atlanta",
+    "vibe": "Intimate, hilarious, casual — great for getting someone to genuinely laugh",
+    "validUntil": "2026-04-05",
+    "link": "https://laughingskulllounge.com/event/best-of-atlanta-comedy-showcase-saturday-april-4-2026-at-800pm/"
   },
   {
     "emoji": "🎨",
-    "category": "Arts & Culture",
-    "title": "EYEDRUM Gallery + Coffee Walk",
-    "description": "Browse the gallery's latest experimental exhibits, then walk through Castleberry Hill with coffee in hand. Great for deep conversations.",
+    "category": "art",
+    "title": "404 Day in Piedmont Park",
+    "description": "Atlanta's signature community celebration — free outdoor festival with live music, food trucks, local vendors, and art installations. Saturday 12–9PM. Great excuse to wander, people-watch, and soak up the city.",
     "budget": "$",
-    "location": "Castleberry Hill",
-    "vibe": "Cultural, thoughtful, intimate",
-    "validUntil": "2026-04-06"
-  },
-  {
-    "emoji": "🍽️",
-    "category": "Food & Drink",
-    "title": "Ponce City Market Evening",
-    "description": "Hit the market for diverse food hall options — vegetarian-friendly. Walk the BeltLine after with gelato from Morelli's.",
-    "budget": "$$",
-    "location": "Ponce City Market → BeltLine",
-    "vibe": "Laid-back, exploratory, lively",
-    "validUntil": "2026-04-06"
-  },
-  {
-    "emoji": "😂",
-    "category": "Entertainment",
-    "title": "Dad's Garage Improv Comedy",
-    "description": "Hilarious, interactive improv. You might end up on stage as a suggestion — embrace the chaos together.",
-    "budget": "$18/person",
-    "location": "Dad's Garage, Inman Park",
-    "vibe": "Fun, spontaneous, laugh-out-loud",
-    "validUntil": "2026-04-06"
+    "location": "Piedmont Park Greystone, Atlanta",
+    "vibe": "Festive, outdoors, relaxed — perfect for a laid-back daytime date",
+    "validUntil": "2026-04-05",
+    "link": "https://404day.com/events"
   },
   {
     "emoji": "🌿",
-    "category": "Outdoor & Adventure",
-    "title": "Atlanta Botanical Garden at Dusk",
-    "description": "Walk the gardens as the sun goes down. The Cascades Garden is especially beautiful in evening light. Quiet, scenic, romantic.",
-    "budget": "$",
-    "location": "Atlanta Botanical Garden",
-    "vibe": "Peaceful, romantic, nature-filled",
-    "validUntil": "2026-04-06"
+    "category": "vegetarian",
+    "title": "Vegetarian Date Night at La Semilla",
+    "description": "Rated 4.9 stars — one of Atlanta's top-rated vegetarian spots. Creative Latin-inspired plant-based dishes, great cocktails, and a cozy vibe in the East Atlanta Village area. Weekend reservations recommended.",
+    "budget": "$$$",
+    "location": "La Semilla, 780 Memorial Dr SE 4a, Atlanta",
+    "vibe": "Romantic, intimate, food-forward — impressive without being pretentious",
+    "validUntil": "2026-04-05",
+    "link": "https://www.opentable.com/r/la-semilla-atlanta"
   }
 ]

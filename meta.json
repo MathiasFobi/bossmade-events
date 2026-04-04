@@ -1,5 +1,7 @@
 {
-  "generated": "2026-04-04T07:00:00-07:00",
+  "generated": "2026-04-04T08:00:00-07:00",
   "source": "Boss Made Cron Jobs",
-  "version": "1.0"
+  "version": "1.0",
+  "type": "date_planner",
+  "weekend": "2026-04-04"
 }
