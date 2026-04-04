@@ -1,47 +1,110 @@
 [
   {
-    "title": "Reggae on the Rooftop",
-    "date": "Saturday, April 4",
-    "time": "10 PM",
-    "location": "Hotel Row, Atlanta",
-    "price": "$15–$25",
-    "description": "Live reggae bands, craft cocktails, and skyline views. Perfect end-of-week vibes.",
-    "category": "Live Music"
+    "title": "Reggae Rewind Atlanta",
+    "date": "2026-04-04",
+    "time": "10:00 PM - 2:00 AM",
+    "location": "The Waiting Room, Atlanta GA",
+    "price": "Varies",
+    "description": "Late-night reggae vibes. Dancing, good music, intimate atmosphere — perfect for couples who love to move together.",
+    "category": "reggae"
   },
   {
-    "title": "Dad's Garage Interactive Improv",
-    "date": "Saturday, April 4",
-    "time": "8 PM",
-    "location": "Dad's Garage Theatre, Inman Park",
-    "price": "$18",
-    "description": "Award-winning improv comedy where every show is made up on the spot. Audience suggestions = the whole show.",
-    "category": "Comedy"
+    "title": "Comedy Throwdown",
+    "date": "2026-04-02",
+    "time": "9:00 PM",
+    "location": "Creative Loafing, Atlanta",
+    "price": "$10",
+    "description": "Comedy competition format with multiple acts. Great energy, share some laughs — solid date night activity.",
+    "category": "comedy"
   },
   {
-    "title": "EYEDRUM Gallery: New Exhibits",
-    "date": "Sunday, April 5",
-    "time": "2–6 PM",
-    "location": "EYEDRUM Art Gallery, Castleberry Hill",
+    "title": "Vegan Soul Sunday",
+    "date": "2026-04-05",
+    "time": "12:00 PM",
+    "location": "Creative Loafing",
     "price": "Free",
-    "description": "Atlanta's experimental art space featuring emerging Southeastern artists. Great for inspiring conversation.",
-    "category": "Art"
+    "description": "Free vegan soul food event. Casual, delicious, no pressure — grab food and enjoy the afternoon together.",
+    "category": "vegetarian"
   },
   {
-    "title": "Atlanta BeltLine Eastside Trail Walk",
-    "date": "Sunday, April 5",
-    "time": "4 PM",
-    "location": "Ponce City Market to Krog Street Tunnel",
+    "title": "Atlanta One Love Reggae Music Fest",
+    "date": "2026-04-11",
+    "time": "3:00 PM - 10:00 PM",
+    "location": "Shirley Clarke Franklin Park, Atlanta",
+    "price": "Varies",
+    "description": "Outdoor reggae festival with multiple artists. Great vibes, outdoor setting, live music — ideal for a day date that turns into evening.",
+    "category": "reggae"
+  },
+  {
+    "title": "Whitney Cummings",
+    "date": "2026-04-10",
+    "time": "7:30 PM",
+    "location": "Creative Loafing, Atlanta",
+    "price": "$38-$119",
+    "description": "Stand-up from established comedian. Well-known for sharp observational humor. Good for couples who appreciate smart comedy.",
+    "category": "comedy"
+  },
+  {
+    "title": "Vegan Nights ATL: Taste the City",
+    "date": "2026-04-11",
+    "time": "5:00 PM - 10:00 PM",
+    "location": "2197 Irvindale Way, Chamblee GA",
+    "price": "Varies",
+    "description": "Atlanta's ultimate vegan food pop-up. Multiple vendors, drinks, music. Fun and different — break from the usual dinner date.",
+    "category": "vegetarian"
+  },
+  {
+    "title": "Helium Presents: Guy Torry",
+    "date": "2026-04-11",
+    "time": "7:00 PM & 9:30 PM",
+    "location": "Helium Comedy Club, Atlanta",
+    "price": "Varies",
+    "description": "Veteran stand-up comedian. Helium has great date night energy — drinks, small room, lots of laughs.",
+    "category": "comedy"
+  },
+  {
+    "title": "Gordon Parks: The South in Color",
+    "date": "2026-04-03",
+    "time": "Gallery hours",
+    "location": "Jackson Fine Art, Atlanta",
     "price": "Free",
-    "description": "Walk the iconic trail, stop for frozen treats at Bigoli, browse the Krog Street Market. Great for couples.",
-    "category": "Outdoor"
+    "description": "Over 40 powerful photographs from the iconic 1950s Civil Rights era series. Culturally rich, conversation-starting — great for an intimate, meaningful date.",
+    "category": "art"
   },
   {
-    "title": "Second Sunday at the High Museum",
-    "date": "Sunday, April 12",
-    "time": "12–5 PM",
-    "location": "High Museum of Art, Midtown",
-    "price": "Free admission",
-    "description": "Free admission on the second Sunday of every month. Featured exhibit: contemporary Southern photography.",
-    "category": "Art"
+    "title": "TRUTH - The Day Experience (April Edition)",
+    "date": "2026-04-11",
+    "time": "4:00 PM - 9:00 PM",
+    "location": "Rock Steady, Atlanta",
+    "price": "Varies",
+    "description": "Afrobeats and Amapiano day party. Good music, good crowd, good vibes — couples can dance or just enjoy the beat together.",
+    "category": "afrobeat"
+  },
+  {
+    "title": "Atlanta Veg Week Kickoff Party",
+    "date": "2026-04-14",
+    "time": "6:00 PM - 8:00 PM",
+    "location": "Patagonia, Atlanta",
+    "price": "Free",
+    "description": "Kickoff for Atlanta Veg Week. Meet the community, sample food, learn something new. Low-key, welcoming atmosphere.",
+    "category": "vegetarian"
+  },
+  {
+    "title": "In The Other Room: Dirty South Comedy",
+    "date": "2026-04-15",
+    "time": "Evening",
+    "location": "Helium Comedy Club, Atlanta",
+    "price": "Varies",
+    "description": "Edgy, bold comedy in Helium's smaller room. Intimate setting — risqué humor, great for couples who like it a little wild.",
+    "category": "comedy"
+  },
+  {
+    "title": "illumine at Oakland Cemetery",
+    "date": "2026-04-18",
+    "time": "Evening",
+    "location": "Oakland Cemetery, Atlanta",
+    "price": "Varies",
+    "description": "Immersive nighttime art installation. Walk through the historic cemetery lit up with art. Unique, memorable, surprisingly romantic.",
+    "category": "art"
   }
 ]
