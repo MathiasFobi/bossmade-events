@@ -1,0 +1,47 @@
+[
+  {
+    "emoji": "🎭",
+    "category": "Nightlife & Live Music",
+    "title": "Reggae Night + Rooftop Drinks",
+    "description": "Start with live reggae at a rooftop bar in Atlanta. Nothing beats good music and skyline views together.",
+    "budget": "$$",
+    "location": "Hotel Row / Westside Provisions",
+    "vibe": "Chill, rhythmic, romantic"
+  },
+  {
+    "emoji": "🎨",
+    "category": "Arts & Culture",
+    "title": "EYEDRUM Gallery + Coffee Walk",
+    "description": "Browse the gallery's latest experimental exhibits, then walk through Castleberry Hill with coffee in hand. Great for deep conversations.",
+    "budget": "$",
+    "location": "Castleberry Hill",
+    "vibe": "Cultural, thoughtful, intimate"
+  },
+  {
+    "emoji": "🍽️",
+    "category": "Food & Drink",
+    "title": "Ponce City Market Evening",
+    "description": "Hit the market for diverse food hall options — vegetarian-friendly. Walk the BeltLine after with gelato from Morell's.",
+    "budget": "$$",
+    "location": "Ponce City Market → BeltLine",
+    "vibe": "Laid-back, exploratory, lively"
+  },
+  {
+    "emoji": "😂",
+    "category": "Entertainment",
+    "title": "Dad's Garage Improv Comedy",
+    "description": "Hilarious, interactive improv. You might end up on stage as a suggestion — embrace the chaos together.",
+    "budget": "$18/person",
+    "location": "Dad's Garage, Inman Park",
+    "vibe": "Fun, spontaneous, laugh-out-loud"
+  },
+  {
+    "emoji": "🌿",
+    "category": "Outdoor & Adventure",
+    "title": "Atlanta Botanical Garden at Dusk",
+    "description": "Walk the gardens as the sun goes down. The Cascades Garden is especially beautiful in evening light. Quiet, scenic, romantic.",
+    "budget": "$",
+    "location": "Atlanta Botanical Garden",
+    "vibe": "Peaceful, romantic, nature-filled"
+  }
+]

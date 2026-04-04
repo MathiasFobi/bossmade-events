@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Reggae on the Rooftop",
+    "date": "Saturday, April 4",
+    "time": "10 PM",
+    "location": "Hotel Row, Atlanta",
+    "price": "$15–$25",
+    "description": "Live reggae bands, craft cocktails, and skyline views. Perfect end-of-week vibes.",
+    "category": "Live Music"
+  },
+  {
+    "title": "Dad's Garage Interactive Improv",
+    "date": "Saturday, April 4",
+    "time": "8 PM",
+    "location": "Dad's Garage Theatre, Inman Park",
+    "price": "$18",
+    "description": "Award-winning improv comedy where every show is made up on the spot. Audience suggestions = the whole show.",
+    "category": "Comedy"
+  },
+  {
+    "title": "EYEDRUM Gallery: New Exhibits",
+    "date": "Sunday, April 5",
+    "time": "2–6 PM",
+    "location": "EYEDRUM Art Gallery, Castleberry Hill",
+    "price": "Free",
+    "description": "Atlanta's experimental art space featuring emerging Southeastern artists. Great for inspiring conversation.",
+    "category": "Art"
+  },
+  {
+    "title": "Atlanta BeltLine Eastside Trail Walk",
+    "date": "Sunday, April 5",
+    "time": "4 PM",
+    "location": "Ponce City Market to Krog Street Tunnel",
+    "price": "Free",
+    "description": "Walk the iconic trail, stop for frozen treats at Bigoli, browse the Krog Street Market. Great for couples.",
+    "category": "Outdoor"
+  },
+  {
+    "title": "Second Sunday at the High Museum",
+    "date": "Sunday, April 12",
+    "time": "12–5 PM",
+    "location": "High Museum of Art, Midtown",
+    "price": "Free admission",
+    "description": "Free admission on the second Sunday of every month. Featured exhibit: contemporary Southern photography.",
+    "category": "Art"
+  }
+]
