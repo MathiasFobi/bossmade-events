@@ -6,7 +6,8 @@
     "description": "Start with live reggae at a rooftop bar in Atlanta. Nothing beats good music and skyline views together.",
     "budget": "$$",
     "location": "Hotel Row / Westside Provisions",
-    "vibe": "Chill, rhythmic, romantic"
+    "vibe": "Chill, rhythmic, romantic",
+    "validUntil": "2026-04-06"
   },
   {
     "emoji": "🎨",
@@ -15,16 +16,18 @@
     "description": "Browse the gallery's latest experimental exhibits, then walk through Castleberry Hill with coffee in hand. Great for deep conversations.",
     "budget": "$",
     "location": "Castleberry Hill",
-    "vibe": "Cultural, thoughtful, intimate"
+    "vibe": "Cultural, thoughtful, intimate",
+    "validUntil": "2026-04-06"
   },
   {
     "emoji": "🍽️",
     "category": "Food & Drink",
     "title": "Ponce City Market Evening",
-    "description": "Hit the market for diverse food hall options — vegetarian-friendly. Walk the BeltLine after with gelato from Morell's.",
+    "description": "Hit the market for diverse food hall options — vegetarian-friendly. Walk the BeltLine after with gelato from Morelli's.",
     "budget": "$$",
     "location": "Ponce City Market → BeltLine",
-    "vibe": "Laid-back, exploratory, lively"
+    "vibe": "Laid-back, exploratory, lively",
+    "validUntil": "2026-04-06"
   },
   {
     "emoji": "😂",
@@ -33,7 +36,8 @@
     "description": "Hilarious, interactive improv. You might end up on stage as a suggestion — embrace the chaos together.",
     "budget": "$18/person",
     "location": "Dad's Garage, Inman Park",
-    "vibe": "Fun, spontaneous, laugh-out-loud"
+    "vibe": "Fun, spontaneous, laugh-out-loud",
+    "validUntil": "2026-04-06"
   },
   {
     "emoji": "🌿",
@@ -42,6 +46,7 @@
     "description": "Walk the gardens as the sun goes down. The Cascades Garden is especially beautiful in evening light. Quiet, scenic, romantic.",
     "budget": "$",
     "location": "Atlanta Botanical Garden",
-    "vibe": "Peaceful, romantic, nature-filled"
+    "vibe": "Peaceful, romantic, nature-filled",
+    "validUntil": "2026-04-06"
   }
 ]
