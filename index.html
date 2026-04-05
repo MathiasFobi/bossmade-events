@@ -272,6 +272,57 @@
       .tabs { padding: 0.75rem 1rem; }
       .event-card { padding: 1rem; }
     }
+
+    /* Search bar */
+    .search-wrap {padding: 1rem 1.5rem; max-width: 800px; margin: 0 auto;}
+    .search-bar {width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border); border-radius: 12px; background: var(--card); color: var(--text); font-size: 0.95rem; outline: none; transition: border-color 0.2s;}
+    .search-bar:focus {border-color: var(--accent);}
+    .search-bar::placeholder {color: var(--muted);}
+
+    /* Filter pills */
+    .filter-wrap {padding: 0 1.5rem 1rem; max-width: 800px; margin: 0 auto; display: flex; gap: 0.5rem; overflow-x: auto; -webkit-overflow-scrolling: touch;}
+    .filter-btn {padding: 0.4rem 0.9rem; border: 1px solid var(--border); background: var(--card); color: var(--muted); border-radius: 99px; font-size: 0.8rem; font-weight: 600; cursor: pointer; white-space: nowrap; transition: all 0.2s;}
+    .filter-btn.active {background: var(--accent); color: white; border-color: var(--accent);}
+    .filter-btn:hover:not(.active) {border-color: var(--accent); color: var(--accent);}
+
+    /* Event card actions */
+    .card-actions {display: flex; gap: 0.5rem; margin-top: 0.75rem; justify-content: flex-end;}
+    .card-btn {padding: 0.35rem 0.65rem; border: 1px solid var(--border); background: var(--card); color: var(--muted); border-radius: 8px; font-size: 0.75rem; cursor: pointer; transition: all 0.2s; text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem;}
+    .card-btn:hover {border-color: var(--accent); color: var(--accent);}
+    .card-btn.saved {border-color: var(--accent2); color: var(--accent2);}
+
+    /* Quiz */
+    .quiz-wrap {max-width: 600px; margin: 0 auto; padding: 2rem 1.5rem;}
+    .quiz-card {background: var(--card); border: 1px solid var(--border); border-radius: 20px; padding: 2rem; text-align: center;}
+    .quiz-q {font-size: 1.2rem; font-weight: 600; margin-bottom: 1.5rem;}
+    .quiz-opts {display: flex; flex-direction: column; gap: 0.75rem;}
+    .quiz-opt {padding: 0.85rem 1.5rem; border: 1px solid var(--border); background: var(--bg); color: var(--text); border-radius: 12px; font-size: 1rem; cursor: pointer; transition: all 0.2s;}
+    .quiz-opt:hover {border-color: var(--accent); background: rgba(108,99,255,0.1);}
+    .quiz-result {text-align: center; margin-top: 1.5rem;}
+    .quiz-result h3 {font-size: 1rem; margin-bottom: 1rem; color: var(--accent);}
+
+    /* Calendar strip */
+    .cal-strip {background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 1rem; margin: 0 1.5rem 1rem; max-width: 800px;}
+    .cal-header {display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;}
+    .cal-nav {background: none; border: none; color: var(--muted); font-size: 1.2rem; cursor: pointer; padding: 0.25rem 0.5rem;}
+    .cal-nav:hover {color: var(--accent);}
+    .cal-month {font-weight: 600; font-size: 0.95rem;}
+    .cal-grid {display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; text-align: center;}
+    .cal-dow {font-size: 0.7rem; color: var(--muted); padding: 0.25rem; font-weight: 600;}
+    .cal-day {padding: 0.35rem; font-size: 0.8rem; border-radius: 8px; cursor: pointer; transition: all 0.2s; position: relative;}
+    .cal-day:hover {background: rgba(108,99,255,0.15);}
+    .cal-day.has-event {font-weight: 700; color: var(--accent);}
+    .cal-day.has-event::after {content: ''; position: absolute; bottom: 2px; left: 50%; transform: translateX(-50%); width: 4px; height: 4px; border-radius: 50%; background: var(--accent);}
+    .cal-day.selected {background: var(--accent); color: white;}
+    .cal-day.other-month {color: var(--muted); opacity: 0.4;}
+
+    /* Saved events tab */
+    .saved-count {background: var(--accent2); color: white; font-size: 0.65rem; padding: 0.1rem 0.4rem; border-radius: 99px; margin-left: 0.25rem;}
+
+    /* Share toast */
+    .toast {position: fixed; bottom: 2rem; left: 50%; transform: translateX(-50%); background: var(--accent); color: white; padding: 0.6rem 1.2rem; border-radius: 99px; font-size: 0.85rem; font-weight: 600; opacity: 0; transition: opacity 0.3s; z-index: 999;}
+    .toast.show {opacity: 1;}
+
   </style>
 </head>
 <body>
@@ -284,20 +335,45 @@
 </header>
 
 <div class="tabs">
-  <button class="tab-btn active" onclick="switchTab('events')">🎭 Atlanta Events</button>
+    <button class="tab-btn active" onclick="switchTab('events')">🎭 Atlanta Events</button>
   <button class="tab-btn" onclick="switchTab('dates')">💑 Date Night</button>
+  <button class="tab-btn" onclick="switchTab('quiz')">🎯 Quiz</button>
 </div>
 
 <main>
   <div id="events" class="tab-content active">
-    <div id="eventsList"></div>
+      <div class="search-wrap">
+    <input class="search-bar" id="searchInput" placeholder="Search events, locations..." oninput="filterEvents()">
+  </div>
+  <div class="filter-wrap" id="filterWrap"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="afrobeat">Afrobeat</button><button class="filter-btn" data-filter="art">Art</button><button class="filter-btn" data-filter="comedy">Comedy</button><button class="filter-btn" data-filter="dancing">Dancing</button><button class="filter-btn" data-filter="music">Music</button><button class="filter-btn" data-filter="vegetarian">Vegetarian</button></div>
+  <div class="cal-strip" id="calStrip">
+    <div class="cal-header">
+      <button class="cal-nav" onclick="calNav(-1)">‹</button>
+      <span class="cal-month" id="calMonthLabel"></span>
+      <button class="cal-nav" onclick="calNav(1)">›</button>
+    </div>
+    <div class="cal-grid" id="calGrid"></div>
+  </div>
+  <div id="eventsList"></div>
   </div>
   <div id="dates" class="tab-content">
     <div id="datesList"></div>
   </div>
-</main>
 
-<footer>
+  <div id="quiz" class="tab-content">
+    <div class="quiz-wrap" id="quizWrap">
+      <div class="quiz-card" id="quizCard">
+        <div class="quiz-q" id="quizQ">What's your vibe?</div>
+        <div class="quiz-opts" id="quizOpts">
+          <button class="quiz-opt" onclick="quizAns(0)">😌 Chill & cozy</button>
+          <button class="quiz-opt" onclick="quizAns(1)">🔥 Active & moving</button>
+          <button class="quiz-opt" onclick="quizAns(2)">🚀 Adventurous</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
   Powered by <a href="https://bossmade.co" target="_blank">Boss Made</a> · Updated daily via cron
 </footer>
 
@@ -455,7 +531,234 @@
   }
 
   loadData();
+
+    // ─── State ────────────────────────────────────────────────────────────
+    let curFilter = 'all';
+    let curSearch = '';
+    let calMonth = new Date().getMonth();
+    let calYear  = new Date().getFullYear();
+    let savedIds = JSON.parse(localStorage.getItem('bossmade_saved') || '[]');
+    let quizStep = -1; // -1 = not started, 0-2 = questions, 3 = result
+    let quizAnswers = [];
+
+    // ─── Init ──────────────────────────────────────────────────────────────
+    window.addEventListener('DOMContentLoaded', () => {
+      renderCal();
+      updateSavedCount();
+      // delegate filter clicks
+      document.getElementById('filterWrap').addEventListener('click', e => {
+        if (e.target.classList.contains('filter-btn')) {
+          document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          e.target.classList.add('active');
+          curFilter = e.target.dataset.filter;
+          filterEvents();
+        }
+      });
+    });
+
+    // ─── Filter + Search ──────────────────────────────────────────────────
+    function filterEvents() {
+      const q = document.getElementById('searchInput').value.toLowerCase().trim();
+      curSearch = q;
+      applyFilters();
+    }
+
+    function applyFilters() {
+      const cards = document.querySelectorAll('.event-card');
+      let visible = 0;
+      cards.forEach(card => {
+        const cat  = (card.dataset.cat || '').toLowerCase();
+        const text = card.dataset.search || '';
+        const day  = card.dataset.day   || '';
+        const matchCat = curFilter === 'all' || cat === curFilter;
+        const matchQ   = !curSearch || text.includes(curSearch) || day.includes(curSearch);
+        const show = matchCat && matchQ;
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+      const empty = document.getElementById('eventsEmpty');
+      if (empty) empty.style.display = visible === 0 ? 'block' : 'none';
+    }
+
+    // ─── Event cards (called by loadData) ─────────────────────────────────
+    const _origLoadData = window.loadData;
+    window.loadData = function(events) {
+      _origLoadData(events);
+      // inject card-actions into each card after rendering
+      setTimeout(injectCardActions, 0);
+      setTimeout(() => { applyFilters(); renderCal(); }, 0);
+    };
+
+    function injectCardActions() {
+      document.querySelectorAll('.event-card').forEach(card => {
+        if (card.querySelector('.card-actions')) return;
+        const id   = card.dataset.id;
+        const url   = encodeURIComponent(window.location.href);
+        const title = encodeURIComponent(card.querySelector('h3')?.textContent || '');
+        const saved = savedIds.includes(id);
+        const actions = document.createElement('div');
+        actions.className = 'card-actions';
+        actions.innerHTML =
+          `<button class="card-btn ${saved ? 'saved' : ''}" onclick="toggleSave(this,'${id}')">${saved ? '♥' : '♡'} Save</button>` +
+          `<a class="card-btn" href="https://twitter.com/intent/tweet?text=${title}&url=${url}" target="_blank" rel="noopener">𝕏</a>` +
+          `<button class="card-btn" onclick="copyLink('${title}')">📋</button>`;
+        card.appendChild(actions);
+      });
+    }
+
+    // ─── Save Events ──────────────────────────────────────────────────────
+    function toggleSave(btn, id) {
+      savedIds = JSON.parse(localStorage.getItem('bossmade_saved') || '[]');
+      const idx = savedIds.indexOf(id);
+      if (idx >= 0) { savedIds.splice(idx, 1); btn.classList.remove('saved'); btn.innerHTML = '♡ Save'; }
+      else           { savedIds.push(id);       btn.classList.add('saved');    btn.innerHTML = '♥ Saved'; }
+      localStorage.setItem('bossmade_saved', JSON.stringify(savedIds));
+      updateSavedCount();
+    }
+
+    function updateSavedCount() {
+      let tab = document.querySelector('[onclick*="saved"]');
+      if (!tab) return;
+      const n = JSON.parse(localStorage.getItem('bossmade_saved') || '[]').length;
+      let badge = tab.querySelector('.saved-count');
+      if (n > 0) {
+        if (!badge) { badge = document.createElement('span'); badge.className = 'saved-count'; tab.appendChild(badge); }
+        badge.textContent = n;
+      } else if (badge) badge.remove();
+    }
+
+    // ─── Copy Link ─────────────────────────────────────────────────────────
+    function copyLink(title) {
+      navigator.clipboard.writeText(window.location.href).then(() => showToast('Link copied!'));
+    }
+
+    // ─── Share API ──────────────────────────────────────────────────────────
+    function shareEvent(title) {
+      if (navigator.share) {
+        navigator.share({ title, url: window.location.href }).catch(() => {});
+      }
+    }
+
+    // ─── Toast ─────────────────────────────────────────────────────────────
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg; t.classList.add('show');
+      setTimeout(() => t.classList.remove('show'), 2000);
+    }
+
+    // ─── Calendar ──────────────────────────────────────────────────────────
+    function renderCal() {
+      const grid = document.getElementById('calGrid');
+      const lbl  = document.getElementById('calMonthLabel');
+      if (!grid) return;
+      const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+      lbl.textContent = months[calMonth] + ' ' + calYear;
+
+      // collect event days this month
+      const eventDays = new Set();
+      document.querySelectorAll('.event-card').forEach(c => {
+        const d = c.dataset.day; if (d) eventDays.add(parseInt(d));
+      });
+
+      const firstDay = new Date(calYear, calMonth, 1).getDay();
+      const daysIn   = new Date(calYear, calMonth + 1, 0).getDate();
+      const today    = new Date();
+      let html = '<div class="cal-dow">Su</div><div class="cal-dow">Mo</div><div class="cal-dow">Tu</div><div class="cal-dow">We</div><div class="cal-dow">Th</div><div class="cal-dow">Fr</div><div class="cal-dow">Sa</div>';
+
+      for (let i = 0; i < firstDay; i++) html += '<div class="cal-day other-month"></div>';
+      for (let d = 1; d <= daysIn; d++) {
+        const isToday  = calMonth === today.getMonth() && calYear === today.getFullYear() && d === today.getDate();
+        const hasEvt   = eventDays.has(d);
+        const selected = false; // could track selected day here
+        html += `<div class="cal-day${hasEvt ? ' has-event' : ''}${isToday ? ' today' : ''}" onclick="calSelect(${d})">${d}</div>`;
+      }
+      grid.innerHTML = html;
+    }
+
+    function calNav(dir) {
+      calMonth += dir;
+      if (calMonth > 11) { calMonth = 0; calYear++; }
+      if (calMonth < 0)  { calMonth = 11; calYear--; }
+      renderCal();
+    }
+
+    function calSelect(day) {
+      // filter events to this day number
+      curSearch = String(day);
+      applyFilters();
+    }
+
+    // ─── Quiz ──────────────────────────────────────────────────────────────
+    const quizData = [
+      { q: "What's your vibe?", opts: ['😌 Chill & cozy','🔥 Active & moving','🚀 Adventurous'] },
+      { q: "Who's this for?",    opts: ['💑 Couples','👯 Friends','🧑 Solo'] },
+      { q: "What's the budget?",opts: ['💚 Free','💛 $','💜 $$'] },
+    ];
+
+    function quizAns(idx) {
+      quizAnswers.push(idx);
+      if (quizAnswers.length < 3) {
+        quizStep = quizAnswers.length;
+        renderQuiz();
+      } else {
+        showQuizResult();
+      }
+    }
+
+    function renderQuiz() {
+      const qEl  = document.getElementById('quizQ');
+      const optsEl = document.getElementById('quizOpts');
+      if (!qEl || !optsEl) return;
+      qEl.textContent = quizData[quizStep].q;
+      optsEl.innerHTML = quizData[quizStep].opts.map((o,i) =>
+        `<button class="quiz-opt" onclick="quizAns(${i})">${o}</button>`).join('');
+    }
+
+    function showQuizResult() {
+      const [vibe, who, budget] = quizAnswers;
+      // score events
+      const scored = events.map(e => {
+        let score = 0;
+        if (vibe === 0 && ['Art','Vegetarian','Comedy'].includes(e.category)) score += 2;
+        if (vibe === 1 && ['Music','Dancing','Afrobeat'].includes(e.category)) score += 2;
+        if (vibe === 2 && ['Afrobeat','Music'].includes(e.category)) score += 2;
+        if (who   === 0 && e.description.toLowerCase().includes('couple')) score += 1;
+        if (budget === 0 && (e.price || '').toLowerCase().includes('free')) score += 1;
+        return { ...e, score };
+      }).sort((a,b) => b.score - a.score);
+      const top = scored.slice(0, 2);
+
+      const card = document.getElementById('quizCard');
+      card.innerHTML = `
+        <div class="quiz-q">🎉 Your perfect matches:</div>
+        <div class="quiz-result">
+          ${top.map(e => `
+            <div style="background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:1rem;margin-bottom:0.75rem;text-align:left;">
+              <strong style="color:var(--accent)">${e.title}</strong><br>
+              <span style="font-size:0.85rem;color:var(--muted)">${e.date} · ${e.location}</span>
+            </div>`).join('')}
+          <button class="quiz-opt" onclick="resetQuiz()" style="margin-top:0.5rem">🔄 Try again</button>
+        </div>`;
+    }
+
+    function resetQuiz() {
+      quizAnswers = [];
+      quizStep = 0;
+      renderQuiz();
+    }
+
+    // expose quiz reset
+    window.resetQuiz = resetQuiz;
+    window.quizAns   = quizAns;
+    window.calSelect = calSelect;
+    window.calNav    = calNav;
+    window.toggleSave = toggleSave;
+    window.copyLink  = copyLink;
+    window.shareEvent = shareEvent;
+    window.filterEvents = filterEvents;
+
 </script>
 
+  <div class="toast" id="toast"></div>
 </body>
 </html>
