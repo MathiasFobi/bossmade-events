@@ -1,128 +1,146 @@
 [
   {
-    "title": "Atlanta One Love Reggae Music Fest",
-    "date": "2026-04-11",
-    "time": "3:00 PM - 10:00 PM",
-    "location": "Shirley Clarke Franklin Park (Birth of Atlanta Lot), Atlanta",
+    "title": "Zara Larsson: Midnight Sun Tour 2026",
+    "date": "April 5, 2026",
+    "time": "8:00 PM",
+    "location": "Tabernacle, Atlanta",
     "price": "Varies",
-    "description": "Outdoor reggae festival with live bands, food vendors, and great vibes. Perfect for couples who love good music in the open air. Arrive early, bring a blanket, and enjoy the sunset vibes together.",
-    "category": "reggae"
+    "description": "Swedish pop star Zara Larsson brings her Midnight Sun Tour to historic Tabernacle. Perfect for couples who love pop music and a lively atmosphere. The venue offers great sightlines and sound throughout.",
+    "category": "live music"
+  },
+  {
+    "title": "The Format with Ben Kweller",
+    "date": "April 4, 2026",
+    "time": "6:50 PM",
+    "location": "The Eastern, Atlanta",
+    "price": "$53+",
+    "description": "Indie rock treat at The Eastern. The Format reunites with Ben Kweller for an intimate night of alternative hits. Great vibes and less crowded than amphitheater shows.",
+    "category": "live music"
+  },
+  {
+    "title": "ATL Blues Festival - Blues Is Alright Tour",
+    "date": "April 11, 2026",
+    "time": "8:00 PM",
+    "location": "Cobb Energy Centre",
+    "price": "Varies",
+    "description": "The 20th Annual ATL Blues Festival featuring the Blues Is Alright Tour. Smooth blues under the stars at the beautiful Cobb Energy Centre. Perfect sophisticated date night.",
+    "category": "live music"
+  },
+  {
+    "title": "Atlanta One Love Reggae Music Fest",
+    "date": "April 11, 2026",
+    "time": "3:00 PM - 10:00 PM",
+    "location": "Shirley Clarke Franklin Park (Birth of Atlanta Lot)",
+    "price": "Varies",
+    "description": "Outdoors reggae festival perfect for couples! Enjoy island vibes, food vendors, and community atmosphere. Bring a blanket and enjoy an afternoon-evening of reggae under the sky.",
+    "category": "Afrobeat/reggae"
+  },
+  {
+    "title": "Gordon Parks Exhibit at Jackson Fine Art",
+    "date": "April 3-30, 2026",
+    "time": "Gallery hours",
+    "location": "Jackson Fine Art, Atlanta",
+    "price": "Free",
+    "description": "Celebrating 70th anniversary of Gordon Parks' iconic Life magazine photo essay. Stunning black and white photography documenting the Jim Crow South. Intellectually stimulating date activity.",
+    "category": "art galleries"
+  },
+  {
+    "title": "To Be Continued - Artist Talk by Juan Miguel Palacios",
+    "date": "April 11, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "location": "Luca Fine Art, Atlanta",
+    "price": "Free",
+    "description": "Solo exhibition artist talk at elegant Luca Fine Art. Engage with contemporary art together and meet the artist. Intimate setting perfect for couples who appreciate culture.",
+    "category": "art galleries"
+  },
+  {
+    "title": "Absurdity Community Exhibition",
+    "date": "Through May 3, 2026",
+    "time": "Gallery hours",
+    "location": "Decatur Arts Alliance",
+    "price": "Free",
+    "description": "Group exhibition exploring absurdism in contemporary art. Extended run through early May - great to pair with a Decatur dinner date.",
+    "category": "art galleries"
   },
   {
     "title": "Vegan Nights ATL: Taste the City",
-    "date": "2026-04-11",
+    "date": "April 11, 2026",
     "time": "5:00 PM - 10:00 PM",
-    "location": "2197 Irvindale Way, Chamblee GA",
-    "price": "$15-$25",
-    "description": "Atlanta's ultimate vegan food pop-up with multiple vendors, craft drinks, and DJ sets. A fun, different vibe for couples tired of the same dinner routine. Great photo ops and delicious food.",
-    "category": "vegetarian"
+    "location": "2197 Irvindale Way, Chamblee",
+    "price": "Varies",
+    "description": "Atlanta's ultimate vegan food event! Sample from multiple vendors, discover new plant-based spots, great drinks. Fun and delicious date night for foodie couples.",
+    "category": "vegetarian food"
   },
   {
-    "title": "The Legends of Laughter",
-    "date": "2026-04-10",
-    "time": "8:00 PM",
-    "location": "Creative Loafing, Atlanta",
-    "price": "$77.80-$120.00",
-    "description": "Multi-comedian showcase featuring veteran stand-up talent. A polished date night with guaranteed laughs. Pair it with dinner nearby for a full evening out.",
-    "category": "comedy"
-  },
-  {
-    "title": "Let's Go Dancing: Paintings by Anna Jensen",
-    "date": "2026-04-09",
-    "time": "6:00 PM - 9:00 PM",
-    "location": "The Sun ATL, Atlanta",
+    "title": "Vegan Soul Sunday",
+    "date": "April 5, 2026",
+    "time": "12:00 PM",
+    "location": "Various Locations",
     "price": "Free",
-    "description": "Gallery opening featuring dance-inspired paintings. The art explores movement and emotion — perfect conversation starter for couples. Intimate venue, wine available.",
-    "category": "art"
+    "description": "Free vegan community event happening TODAY! Earth-friendly eating celebration. Check website for this week's specific location.",
+    "category": "vegetarian food"
   },
   {
-    "title": "SweetWater 420 Fest",
-    "date": "2026-04-17-18",
+    "title": "Atlanta VegWeek 2026",
+    "date": "April 14-20, 2026",
     "time": "Various",
-    "location": "Centennial Park, Atlanta",
-    "price": "Varies",
-    "description": "Two-day outdoor festival with live music, local beer, food vendors, and games. Great for couples who enjoy a laid-back festival atmosphere. Lots of space to wander and discover acts together.",
-    "category": "live_music"
+    "location": "Restaurants across Atlanta",
+    "price": "Price varies by restaurant",
+    "description": "Citywide celebration of plant-powered eating! Restaurants across Atlanta offer special vegan menus. Great opportunity to explore new spots together.",
+    "category": "vegetarian food"
   },
   {
-    "title": "ZO! & Tall Black Guy featuring Deborah Bond",
-    "date": "2026-04-19",
+    "title": "Best of Atlanta Comedy Showcase",
+    "date": "April 5, 2026",
+    "time": "7:30 PM (doors 7:00)",
+    "location": "Laughing Skull Lounge",
+    "price": "Varies",
+    "description": "Top Atlanta comedians in one show! Laughing Skull Lounge is intimate and has a great bar. Must be 21+. Perfect for couples who love to laugh together.",
+    "category": "comedy shows"
+  },
+  {
+    "title": "The Classic Improvisational Show",
+    "date": "April 4, 2026",
     "time": "8:00 PM",
-    "location": "City Winery Atlanta, 650 North Ave NE",
-    "price": "$42+",
-    "description": "Smooth neo-soul and jazz fusion at City Winery. Deborah Bond's vocals over ZO! and Tall Black Guy's production creates an intimate, romantic atmosphere. Book a table, share wine, and enjoy the groove.",
-    "category": "live_music"
-  },
-  {
-    "title": "TRUTH - The Day Experience (April Edition)",
-    "date": "2026-04-11",
-    "time": "4:00 PM - 9:00 PM",
-    "location": "Rock Steady, Atlanta",
-    "price": "$20-$40",
-    "description": "Afrobeats and Amapiano day party. Good music, good crowd, good vibes — couples can dance or just enjoy the beat together. Dress cute, grab a drink, and let the rhythm take over.",
-    "category": "afrobeat"
-  },
-  {
-    "title": "Gordon Parks: The South in Color",
-    "date": "2026-04-05",
-    "time": "Gallery hours (Tue-Sat)",
-    "location": "Jackson Fine Art, Atlanta",
-    "price": "Free",
-    "description": "Over 40 powerful photographs from Gordon Parks' iconic 1956 Civil Rights era series. Culturally rich, conversation-starting — great for an intimate, meaningful date. Very powerful imagery.",
-    "category": "art"
-  },
-  {
-    "title": "Open Studios at Atlanta Contemporary",
-    "date": "2026-04-16",
-    "time": "6:00 PM - 9:00 PM",
-    "location": "Atlanta Contemporary, Atlanta",
-    "price": "Free",
-    "description": "Meet working artists in their studios. Unique, inspiring, and free. Wander through creative spaces together, talk to artists, and discover new perspectives. Great for curious couples.",
-    "category": "art"
-  },
-  {
-    "title": "David and Tamela Mann",
-    "date": "2026-04-17",
-    "time": "8:00 PM",
-    "location": "Coca-Cola Roxy, 800 Battery Ave SE #500",
+    "location": "Whole World Improv Theatre",
     "price": "Varies",
-    "description": "The power couple of gospel and comedy perform live. Tamela's comedy mixed with David's music makes for an entertaining, feel-good show. Great for couples who enjoy gospel, R&B, and laughs.",
-    "category": "live_music"
+    "description": "Award-winning improv comedy at Atlanta's nonprofit improv theater. Interactive show - couples can participate! Different show every time, never the same experience twice.",
+    "category": "comedy shows"
   },
   {
-    "title": "Squids N Giggles Weekly Comedy",
-    "date": "2026-04-15",
-    "time": "8:30 PM",
-    "location": "Argosy, Atlanta",
-    "price": "$10-$15",
-    "description": "Weekly comedy show at Argosy with rotating comics. Fun, casual energy and cheap drinks make this a solid low-key date option. Show up early for good seats.",
-    "category": "comedy"
-  },
-  {
-    "title": "Mimosas with Brunch LIVE",
-    "date": "2026-04-05",
-    "time": "1:00 PM - 4:00 PM",
-    "location": "Studio House Atlanta",
+    "title": "Helium Presents: Guy Torry",
+    "date": "April 11-12, 2026",
+    "time": "7:00 PM / 9:30 PM",
+    "location": "Helium Comedy Club",
     "price": "Varies",
-    "description": "Every 1st Sunday celebration with bubbly, brunch vibes, and live performances. Relaxed, social, and great for couples who want to ease into Sunday together.",
-    "category": "live_music"
+    "description": "Guy Torry (American Comedy Award winner, actor) headlines Helium. Full restaurant and bar, excellent sightlines. Weekend shows perfect for date night.",
+    "category": "comedy shows"
   },
   {
-    "title": "Unbound Narratives: Embodied Language",
-    "date": "2026-04-05",
-    "time": "Gallery hours",
-    "location": "Atlanta Contemporary, Atlanta",
-    "price": "Free",
-    "description": "Group exhibition exploring language through the body. Contemporary art that challenges and inspires — perfect for couples who appreciate modern art and deep conversations.",
-    "category": "art"
+    "title": "Ritmos Del Barrio ft. Salsa Sheila",
+    "date": "April 4, 2026",
+    "time": "9:30 PM - 1:00 AM",
+    "location": "Elements Dance Studio, North Druid Hills",
+    "price": "Varies",
+    "description": "Salsa and Latin dancing all night! Beginner lesson included usually. Dance the night away with your partner. Great energy, DJ playing reggaeton, salsa, bachata.",
+    "category": "dancing"
   },
   {
-    "title": "Atlanta Veg Week Kickoff",
-    "date": "2026-04-14",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "Patagonia, Atlanta",
-    "price": "Free",
-    "description": "Kickoff party for Atlanta Veg Week at Patagonia'sstore. Meet the community, sample plant-based bites, learn about the week's events. Low-key, welcoming — great for foodie couples.",
-    "category": "vegetarian"
+    "title": "TUMBAO Dance Social - April Edition",
+    "date": "April 11, 2026",
+    "time": "Evening",
+    "location": "Atlanta",
+    "price": "Varies",
+    "description": "Two rooms: one salsa, one bachata! Atlanta's premier Latin dance social. Great way to learn or show off your moves together. Couples discount sometimes available.",
+    "category": "dancing"
+  },
+  {
+    "title": "Latin Night Saturday Alpharetta",
+    "date": "April 4, 2026",
+    "time": "Evening",
+    "location": "Brimstone Tavern, Alpharetta",
+    "price": "Varies",
+    "description": "Suburban Latin dance night at local favorite bar. Less crowded, more intimate than city venues. Great for couples in north metro Atlanta.",
+    "category": "dancing"
   }
 ]
