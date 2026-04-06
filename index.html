@@ -319,9 +319,31 @@
     /* Saved events tab */
     .saved-count {background: var(--accent2); color: white; font-size: 0.65rem; padding: 0.1rem 0.4rem; border-radius: 99px; margin-left: 0.25rem;}
 
+    /* Page Agent chat widget */
+    .pa-toggle{position:fixed;bottom:1.5rem;right:1.5rem;width:56px;height:56px;border-radius:50%;background:var(--gradient);border:none;color:white;font-size:1.5rem;cursor:pointer;box-shadow:0 4px 20px rgba(108,99,255,0.4);z-index:998;display:flex;align-items:center;justify-content:center;transition:transform .2s,box-shadow .2s;}
+    .pa-toggle:hover{transform:scale(1.08);box-shadow:0 6px 28px rgba(108,99,255,0.55);}
+    .pa-toggle .pa-icon-close{display:none;}
+    .pa-toggle.open .pa-icon-open{display:none;}
+    .pa-toggle.open .pa-icon-close{display:block;}
+    .pa-panel{position:fixed;bottom:5.5rem;right:1.5rem;width:min(380px,calc(100vw - 2rem));max-height:70vh;background:var(--card);border:1px solid var(--border);border-radius:20px;box-shadow:0 8px 40px rgba(0,0,0,0.5);z-index:999;display:flex;flex-direction:column;overflow:hidden;display:none;}
+    .pa-panel.open{display:flex;}
+    .pa-header{padding:1rem;border-bottom:1px solid var(--border);font-weight:600;font-size:0.9rem;display:flex;align-items:center;gap:0.5rem;}
+    .pa-header .pa-dot{width:8px;height:8px;border-radius:50%;background:#22c55e;}
+    .pa-messages{flex:1;overflow-y:auto;padding:1rem;display:flex;flex-direction:column;gap:0.75rem;}
+    .pa-msg{padding:0.6rem 0.85rem;border-radius:12px;font-size:0.85rem;line-height:1.45;max-width:85%;}
+    .pa-msg.user{background:var(--accent);color:white;align-self:flex-end;border-bottom-right-radius:4px;}
+    .pa-msg.bot{background:var(--border);color:var(--text);align-self:flex-start;border-bottom-left-radius:4px;}
+    .pa-msg.error{background:#3b1a1a;color:#ff8080;align-self:flex-start;}
+    .pa-typing{padding:0.6rem 0.85rem;border-radius:12px;font-size:0.85rem;background:var(--border);align-self:flex-start;border-bottom-left-radius:4px;color:var(--muted);font-style:italic;}
+    .pa-input-row{padding:0.75rem;border-top:1px solid var(--border);display:flex;gap:0.5rem;}
+    .pa-input{flex:1;padding:0.55rem 0.75rem;border:1px solid var(--border);border-radius:99px;background:var(--bg);color:var(--text);font-size:0.85rem;outline:none;}
+    .pa-input:focus{border-color:var(--accent);}
+    .pa-send{background:var(--accent);border:none;color:white;border-radius:50%;width:34px;height:34px;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:0.9rem;flex-shrink:0;}
+    .pa-send:disabled{opacity:0.5;cursor:not-allowed;}
+    .pa-context-note{font-size:0.7rem;color:var(--muted);padding:0.25rem 1rem 0.5rem;text-align:center;}
     /* Share toast */
-    .toast {position: fixed; bottom: 2rem; left: 50%; transform: translateX(-50%); background: var(--accent); color: white; padding: 0.6rem 1.2rem; border-radius: 99px; font-size: 0.85rem; font-weight: 600; opacity: 0; transition: opacity 0.3s; z-index: 999;}
-    .toast.show {opacity: 1;}
+    .toast {position:fixed;bottom:2rem;left:50%;transform:translateX(-50%);background:var(--accent);color:white;padding:0.6rem 1.2rem;border-radius:99px;font-size:0.85rem;font-weight:600;opacity:0;transition:opacity 0.3s;z-index:999;}
+    .toast.show {opacity:1;}
 
   </style>
 </head>
@@ -376,6 +398,23 @@
   <footer>
   Powered by <a href="https://bossmade.co" target="_blank">Boss Made</a> · Updated daily via cron
 </footer>
+
+<!-- Page Agent chat widget -->
+<button class="pa-toggle" id="paToggle" onclick="togglePa()">
+  <span class="pa-icon-open">💬</span>
+  <span class="pa-icon-close">✕</span>
+</button>
+<div class="pa-panel" id="paPanel">
+  <div class="pa-header"><span class="pa-dot"></span>Ask Boss Made Events</div>
+  <div class="pa-context-note">Powered by Mistral via PageAgent · browsing current events</div>
+  <div class="pa-messages" id="paMessages">
+    <div class="pa-msg bot">Hey! 👋 Ask me anything about events — "find free comedy shows", "what's happening April 11", "date night ideas" — I'll search the full list for you.</div>
+  </div>
+  <div class="pa-input-row">
+    <input class="pa-input" id="paInput" placeholder="Ask about events..." onkeydown="if(event.key==='Enter')sendPa()">
+    <button class="pa-send" id="paSend" onclick="sendPa()">➤</button>
+  </div>
+</div>
 
 <script>
   // Parse date string to Date object (handles formats like "Saturday, April 4", "April 5", etc.)
@@ -584,7 +623,7 @@
     const _origLoadData = window.loadData;
     window.loadData = function(events) {
       _origLoadData(events);
-      // inject card-actions into each card after rendering
+      window._events = events;
       setTimeout(injectCardActions, 0);
       setTimeout(() => { applyFilters(); renderCal(); }, 0);
     };
@@ -756,6 +795,74 @@
     window.copyLink  = copyLink;
     window.shareEvent = shareEvent;
     window.filterEvents = filterEvents;
+
+    // ─── Page Agent (Mistral) ───────────────────────────────────────
+    const MISTRAL_API_KEY = 'xN26eRj8gZjHi19JPyCefeJIVfYGDHlk';
+    const MISTRAL_URL = 'https://api.mistral.ai/v1/chat/completions';
+    let paOpen = false;
+
+    function togglePa() {
+      paOpen = !paOpen;
+      document.getElementById('paToggle').classList.toggle('open', paOpen);
+      document.getElementById('paPanel').classList.toggle('open', paOpen);
+      if (paOpen) document.getElementById('paInput').focus();
+    }
+
+    function addMsg(role, text) {
+      const msgs = document.getElementById('paMessages');
+      const el = document.createElement('div');
+      el.className = 'pa-msg ' + role;
+      el.textContent = text;
+      msgs.appendChild(el);
+      msgs.scrollTop = msgs.scrollHeight;
+    }
+
+    function setTyping(show) {
+      const existing = document.getElementById('paTyping');
+      if (show && !existing) {
+        const el = document.createElement('div');
+        el.id = 'paTyping'; el.className = 'pa-typing';
+        el.textContent = 'Thinking...';
+        document.getElementById('paMessages').appendChild(el);
+        document.getElementById('paMessages').scrollTop = 1e9;
+      } else if (!show && existing) existing.remove();
+    }
+
+    async function sendPa() {
+      const input = document.getElementById('paInput');
+      const text = input.value.trim();
+      if (!text) return;
+      input.value = '';
+      addMsg('user', text);
+      setTyping(true);
+      try {
+        // Build context from current events
+        const evList = (window._events || []).map(e =>
+          `${e.title} | ${e.date} | ${e.location} | ${e.price} | ${e.category} | ${e.description}`
+        ).join('\n');
+        const system = `You are a helpful assistant for the Boss Made Events Atlanta website. The user asks about local events. Current events:\n${evList || 'No events loaded.'}\nAnswer based only on the events above. Be concise, friendly, and suggest specific events.`;
+        const res = await fetch(MISTRAL_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + MISTRAL_API_KEY },
+          body: JSON.stringify({ model: 'mistral-small-latest', messages: [{role:'system',content:system},{role:'user',content:text}], max_tokens: 400 })
+        });
+        const data = await res.json();
+        setTyping(false);
+        if (data.choices && data.choices[0]) {
+          addMsg('bot', data.choices[0].message.content.trim());
+        } else if (data.error) {
+          addMsg('error', 'Mistral error: ' + data.error.message);
+        } else {
+          addMsg('bot', 'Got an unexpected response. Try again!');
+        }
+      } catch(err) {
+        setTyping(false);
+        addMsg('error', 'Request failed: ' + err.message);
+      }
+    }
+
+    window.togglePa = togglePa;
+    window.sendPa   = sendPa;
 
 </script>
 
