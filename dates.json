@@ -1,7 +1,7 @@
 [
   {
     "emoji": "🎭",
-    "category": "comedy",
+    "category": "Comedy",
     "title": "Best of Atlanta Comedy Showcase",
     "description": "Support local Atlanta comedians at Laughing Skull Lounge — one of the city's best intimate comedy venues. Saturday night at 8PM (doors 7:30PM), 21+. Grab tickets and split some appetizers.",
     "budget": "$$",
@@ -12,7 +12,7 @@
   },
   {
     "emoji": "🎨",
-    "category": "art",
+    "category": "Art",
     "title": "404 Day in Piedmont Park",
     "description": "Atlanta's signature community celebration — free outdoor festival with live music, food trucks, local vendors, and art installations. Saturday 12–9PM. Great excuse to wander, people-watch, and soak up the city.",
     "budget": "$",
@@ -23,7 +23,7 @@
   },
   {
     "emoji": "🌿",
-    "category": "vegetarian",
+    "category": "Vegetarian",
     "title": "Vegetarian Date Night at La Semilla",
     "description": "Rated 4.9 stars — one of Atlanta's top-rated vegetarian spots. Creative Latin-inspired plant-based dishes, great cocktails, and a cozy vibe in the East Atlanta Village area. Weekend reservations recommended.",
     "budget": "$$$",
