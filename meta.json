@@ -1,8 +1,14 @@
 {
-  "generated": "2026-04-09T07:00:00-07:00",
-  "source": "Boss Made Cron Jobs",
-  "version": "1.0",
-  "type": "date_planner",
-  "weekend": "2026-04-11",
-  "commit": "Events update: 2026-04-09"
+  "generated": "2026-04-10T14:00:00Z",
+  "source": "Atlanta Event Finder Cron",
+  "location": "Atlanta, GA",
+  "dateRange": "April 10-24, 2026",
+  "categories": [
+    "Live Music",
+    "Art Galleries",
+    "Vegetarian Food Events",
+    "Comedy Shows",
+    "Dancing"
+  ],
+  "eventCount": 15
 }

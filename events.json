@@ -1,137 +1,137 @@
 [
   {
-    "title": "Moonchild & Brittney Carter Live",
-    "date": "2026-04-09",
-    "time": "8:00 PM",
-    "location": "Cobb Energy Performing Arts Centre, 2800 Cobb Galleria Pkwy",
-    "price": "$69+",
-    "description": "Smooth soul and jazz fusion from Moonchild trio plus Brittney Carter. Perfect for couples who love intimate, melodic vibes. Medium dress code.",
-    "category": "live-music"
-  },
-  {
-    "title": "Best of Atlanta Comedy Showcase",
-    "date": "2026-04-09",
-    "time": "8:00 PM (doors 7:30 PM)",
-    "location": "Laughing Skull Lounge, Atlanta",
-    "price": "$20-30",
-    "description": "Laugh together at Atlanta's best local comedians. 21+ venue. Great for a fun, low-pressure date night.",
-    "category": "comedy"
-  },
-  {
-    "title": "ATL Art Gals: Embracing the Frivolous",
-    "date": "2026-04-09",
-    "time": "6:00 PM - 8:30 PM",
-    "location": "Callanwolde Fine Arts Center, Atlanta",
-    "price": "Free",
-    "description": "Women-led art social at a beautiful historic venue. Great conversation starter, wine included. Perfect early evening date.",
-    "category": "art"
-  },
-  {
-    "title": "Orion Levine at Helium Comedy Club",
+    "title": "Fernbank After Dark: Booze & Botanicals",
     "date": "2026-04-10",
-    "time": "7:30 PM (doors 7:00 PM)",
-    "location": "Helium Comedy Club, Atlanta",
-    "price": "$15-25",
-    "description": "Award-winning local comic. Perfect for couples who appreciate clever, clean humor. Date night heaven.",
-    "category": "comedy"
+    "time": "7:00 PM - 11:00 PM",
+    "location": "Fernbank Museum of Natural History, 767 Clifton Rd NE, Atlanta",
+    "price": "$24",
+    "description": "Adults-only (21+) after-hours museum experience featuring cocktails, botanical-themed drinks, tapas, live music, and science demos. Perfect for couples who love a sophisticated yet playful date night.",
+    "category": "Dancing"
+  },
+  {
+    "title": "90th Annual Atlanta Dogwood Festival - Day 1",
+    "date": "2026-04-10",
+    "time": "12:00 PM - 9:00 PM",
+    "location": "Piedmont Park, Atlanta",
+    "price": "$5-$10",
+    "description": "Celebrating 90 years! 260+ artists, international music performances, food vendors, Kids Village, and live entertainment. Great for couples who enjoy art, music, and outdoor vibes.",
+    "category": "Art Galleries"
   },
   {
     "title": "Atlanta One Love Reggae Music Fest",
     "date": "2026-04-11",
     "time": "3:00 PM - 10:00 PM",
-    "location": "Shirley Clarke Franklin Park, Atlanta",
-    "price": "$25-45",
-    "description": "Outdoor reggae festival with multiple artists, food trucks, good vibes. Great for couples who love outdoors, music, and dancing under the sky.",
-    "category": "afrobeat-reggae"
-  },
-  {
-    "title": "TUMBAO Dance Social - 2 Rooms Salsa & Bachata",
-    "date": "2026-04-11",
-    "time": "8:00 PM - 2:00 AM",
-    "location": "Atlanta (address with ticket)",
-    "price": "$20-30",
-    "description": "Dance social with live performance by Kiara. Two rooms playing salsa and bachata. Lessons included. Dance, mingle, get close.",
-    "category": "dancing"
+    "location": "Shirley Clarke Franklin Park - Birth of Atlanta Lot, 1660 Johnson Rd NW, Atlanta",
+    "price": "$10",
+    "description": "Inaugural reggae festival with Reggae, Soca, Dancehall & Afrobeat vibes. Features world-class artists, authentic food vendors, art & jewelry, games, and picture booths. Over 3000 expected attendees. Kids 8 & under free.",
+    "category": "Live Music"
   },
   {
     "title": "Vegan Nights ATL: Taste the City",
     "date": "2026-04-11",
     "time": "5:00 PM - 10:00 PM",
-    "location": "2197 Irvindale Way, Chamblee",
-    "price": "$15-30",
-    "description": "Foodie date perfect! Atlanta's ultimate vegan street food festival. Try new dishes together, great Instagram moments, casual romantic vibes.",
-    "category": "vegetarian-food"
+    "location": "2197 Irvindale Way, Chamblee, GA",
+    "price": "Varies",
+    "description": "Atlanta's ultimate plant-based nightlife event with top vegan chefs, food trucks, craft cocktails, zero-proof mocktails, live DJs, fashion & art showcases. Indoor-outdoor experience. All ages welcome.",
+    "category": "Vegetarian Food Events"
   },
   {
-    "title": "SLOW JAMS ATL - Rooftop R&B Day Party",
+    "title": "TUMBAO Dance Social - 2 Rooms: Salsa & Bachata",
     "date": "2026-04-11",
-    "time": "4:00 PM - 10:00 PM",
-    "location": "Rose and Rye, North Druid Hills",
-    "price": "$20-35",
-    "description": "Rooftop day party with slow jams and R&B. Indoor/outdoor space, cocktails, good food. Couples who love music and vibes will love this.",
-    "category": "live-music"
+    "time": "9:30 PM - 2:00 AM",
+    "location": "Academy Ballroom, 800 Miami Cir NE, Atlanta",
+    "price": "$15 cash / $17 credit",
+    "description": "Monthly dance social with two rooms - Salsa room with DJ Mike Arana and Bachata room with Guest DJ Urbane. Complimentary Salsa On2 class at 9:30 PM. BYOB. Great date night for dancing couples!",
+    "category": "Dancing"
   },
   {
-    "title": "Guy Torry at Helium Comedy Club",
+    "title": "The Blues Is Alright Tour - Atlanta Blues Festival",
     "date": "2026-04-11",
-    "time": "7:00 PM (doors 6:30 PM)",
-    "location": "Helium Comedy Club, Atlanta",
-    "price": "$25-40",
-    "description": "Known for standing out on 'Def Comedy Jam'. Hilarious, energetic show. Great for couples who laugh together.",
-    "category": "comedy"
+    "time": "8:00 PM",
+    "location": "Cobb Energy Performing Arts Centre, 2800 Cobb Galleria Pkwy, Atlanta",
+    "price": "$82-$212",
+    "description": "20th Annual ATL Blues Festival featuring The Blues Is Alright Tour. An unforgettable night of blues music at Atlanta's premier intimate concert venue. Perfect for couples who love live music.",
+    "category": "Live Music"
   },
   {
-    "title": "Atlanta Veg Week Kickoff Party",
-    "date": "2026-04-14",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "Patagonia, Atlanta",
-    "price": "Free",
-    "description": "Citywide plant-based celebration kickoff at Patagonia. Meet like-minded foodies, sample treats, learn together.",
-    "category": "vegetarian-food"
+    "title": "90th Annual Atlanta Dogwood Festival - Day 2",
+    "date": "2026-04-11",
+    "time": "10:00 AM - 9:00 PM",
+    "location": "Piedmont Park, Atlanta",
+    "price": "$10",
+    "description": "Day 2 with full entertainment schedule including SALSAtlanta dance performance, Mausiki Scales & Common Ground Collective, Members Only (80s tribute), and more. Mimosa 5K at 7 AM.",
+    "category": "Art Galleries"
   },
   {
-    "title": "Gordon Parks: The South in Color",
-    "date": "2026-04-15",
-    "time": "Gallery hours (call ahead)",
-    "location": "Jackson Fine Art, Atlanta",
-    "price": "Free",
-    "description": "40+ photographs documenting the Black American South in the 1950s-60s. Intellectually stimulating, great conversation. Cultural couples love this.",
-    "category": "art"
+    "title": "90th Annual Atlanta Dogwood Festival - Day 3",
+    "date": "2026-04-12",
+    "time": "10:00 AM - 6:00 PM",
+    "location": "Piedmont Park, Atlanta",
+    "price": "$10",
+    "description": "Final day featuring Nachlanta, Danceando & Friends, Chinese American Cultural Performing Group, Brandon Boone & The Reunion, and the Art Throwdown competition. Great Sunday outing for couples.",
+    "category": "Art Galleries"
   },
   {
-    "title": "Open Studios at Atlanta Contemporary",
-    "date": "2026-04-16",
-    "time": "6:00 PM - 9:00 PM",
-    "location": "Atlanta Contemporary, Atlanta",
-    "price": "Free",
-    "description": "Meet 30+ working artists in their studios. Creative inspiration, wine, mingling. Affordable, inspiring, great for curious couples.",
-    "category": "art"
-  },
-  {
-    "title": "SweetWater 420 Fest",
+    "title": "SweetWater 420 Fest - Day 1",
     "date": "2026-04-17",
-    "time": " Gates 4 PM",
-    "location": "Shirley Clarke Franklin Park, Atlanta",
-    "price": "From $40",
-    "description": "Three stages, Umphrey's McGee + Thievery Corporation headlining. Craft brews, food, games. THE date festival of the year. Buy tickets fast.",
-    "category": "live-music"
+    "time": "TBA",
+    "location": "Centennial Olympic Park, Atlanta",
+    "price": "Varies",
+    "description": "Atlanta's signature spring music festival featuring major touring acts, multiple music stages, local performers, food & beverage vendors. One of the city's best-known annual festivals.",
+    "category": "Live Music"
   },
   {
-    "title": "Spring in Bloom Rooftop Pop-Up",
+    "title": "SweetWater 420 Fest - Day 2",
     "date": "2026-04-18",
-    "time": "5:00 PM - 10:00 PM",
-    "location": "St. Julep Rooftop, Kimpton Sylvan Atlanta - Buckhead",
-    "price": "RSVP required",
-    "description": "Floral-themed rooftop bar. Spring cocktails, beautiful decor. Reservations essential. Romantic, Instagram-worthy, great for couples.",
-    "category": "date-idea"
+    "time": "TBA",
+    "location": "Centennial Olympic Park, Atlanta",
+    "price": "Varies",
+    "description": "Second day of Atlanta's premier spring music festival. Multiple stages, national and regional acts, craft beer from SweetWater Brewing Company, and large-scale outdoor programming.",
+    "category": "Live Music"
   },
   {
-    "title": "SweetWater 420 Fest Day 2",
-    "date": "2026-04-18",
-    "time": "Gates 12 PM",
-    "location": "Shirley Clarke Franklin Park, Atlanta",
-    "price": "From $40",
-    "description": "lespecial, The Moss, Sneezy and more. All-day festival with two stages, craft market, great food. Rain or shine love.",
-    "category": "live-music"
+    "title": "Date Night Painting - Summer Moon River",
+    "date": "2026-04-24",
+    "time": "6:00 PM - 8:00 PM",
+    "location": "Painting with a Twist, Kennesaw, GA",
+    "price": "Varies",
+    "description": "Couples-friendly painting class where you and your partner create beautiful art together. BYOB allowed. Perfect for a creative, relaxed date night with memories to take home.",
+    "category": "Art Galleries"
+  },
+  {
+    "title": "Bachata x Zouk ATL Weekender 2026",
+    "date": "2026-04-24",
+    "time": "8:30 PM",
+    "location": "5522 New Peachtree Rd STE 103, Chamblee, GA",
+    "price": "Varies",
+    "description": "Three-day Bachata and Zouk dance festival with workshops, social dancing, and performances. Great opportunity for couples to learn or improve their dance skills together.",
+    "category": "Dancing"
+  },
+  {
+    "title": "Helium Comedy Club - Guy Torry",
+    "date": "2026-04-11",
+    "time": "7:00 PM - 9:30 PM",
+    "location": "Helium Comedy Club, 1157 Midtown Ave SE, Atlanta",
+    "price": "Varies",
+    "description": "Top Atlanta comedy club featuring nationally touring comedians. Great date night option for couples who enjoy laughing together.",
+    "category": "Comedy Shows"
+  },
+  {
+    "title": "Helium Comedy Club - Orion Levine",
+    "date": "2026-04-12",
+    "time": "7:30 PM",
+    "location": "Helium Comedy Club, 1157 Midtown Ave SE, Atlanta",
+    "price": "Varies",
+    "description": "Weekend comedy show at Atlanta's premier stand-up venue. Perfect for couples looking for a fun night out with great food and laughs.",
+    "category": "Comedy Shows"
+  },
+  {
+    "title": "Let's Go Dancing: Paintings by Anna Jensen",
+    "date": "2026-04-09 onwards",
+    "time": "Ongoing",
+    "location": "The Sun ATL, Atlanta",
+    "price": "Free",
+    "description": "Art exhibition featuring Anna Jensen's dancing-themed paintings at The Sun ATL. A great add-on to a night out or dinner date.",
+    "category": "Art Galleries"
   }
 ]
