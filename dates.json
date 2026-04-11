@@ -1,35 +1,32 @@
 [
   {
-    "emoji": "🎭",
-    "category": "Comedy",
-    "title": "Best of Atlanta Comedy Showcase",
-    "description": "Support local Atlanta comedians at Laughing Skull Lounge — one of the city's best intimate comedy venues. Saturday night at 8PM (doors 7:30PM), 21+. Grab tickets and split some appetizers.",
+    "emoji": "\ud83c\udfa8",
+    "category": "Creative Date",
+    "title": "Paint Night + Tapas",
+    "description": "Start with cocktails at a midtown gallery, then head to a painting class where you and your date create matching canvases. End with late-night tapas downtown.",
     "budget": "$$",
-    "location": "Laughing Skull Lounge, 832 Quinn St NW, Atlanta",
-    "vibe": "Intimate, hilarious, casual — great for getting someone to genuinely laugh",
-    "validUntil": "2026-04-05",
-    "link": "https://laughingskulllounge.com/event/best-of-atlanta-comedy-showcase-saturday-april-4-2026-at-800pm/"
+    "location": "Midtown \u2192 Downtown",
+    "vibe": "Creative & intimate",
+    "validUntil": "2026-04-26"
   },
   {
-    "emoji": "🎨",
-    "category": "Art",
-    "title": "404 Day in Piedmont Park",
-    "description": "Atlanta's signature community celebration — free outdoor festival with live music, food trucks, local vendors, and art installations. Saturday 12–9PM. Great excuse to wander, people-watch, and soak up the city.",
+    "emoji": "\ud83c\udf3f",
+    "category": "Outdoor Adventure",
+    "title": "Piedmont Park Stroll + Rooftop Drinks",
+    "description": "Morning walk through the Botanical Garden or pedal-boats at the park, followed by elevated cocktails at a rooftop bar with skyline views.",
     "budget": "$",
-    "location": "Piedmont Park Greystone, Atlanta",
-    "vibe": "Festive, outdoors, relaxed — perfect for a laid-back daytime date",
-    "validUntil": "2026-04-05",
-    "link": "https://404day.com/events"
+    "location": "Midtown",
+    "vibe": "Fresh & relaxed",
+    "validUntil": "2026-04-26"
   },
   {
-    "emoji": "🌿",
-    "category": "Vegetarian",
-    "title": "Vegetarian Date Night at La Semilla",
-    "description": "Rated 4.9 stars — one of Atlanta's top-rated vegetarian spots. Creative Latin-inspired plant-based dishes, great cocktails, and a cozy vibe in the East Atlanta Village area. Weekend reservations recommended.",
-    "budget": "$$$",
-    "location": "La Semilla, 780 Memorial Dr SE 4a, Atlanta",
-    "vibe": "Romantic, intimate, food-forward — impressive without being pretentious",
-    "validUntil": "2026-04-05",
-    "link": "https://www.opentable.com/r/la-semilla-atlanta"
+    "emoji": "\ud83d\udd7a",
+    "category": "Dance Night",
+    "title": "Salsa Social + Late-night Tacos",
+    "description": "Free salsa lesson at 9:30 PM, then dance the night away at Atlanta's best Latin social. Cap it off with al pastor tacos from a food truck.",
+    "budget": "$$",
+    "location": "Buckhead",
+    "vibe": "Energetic & flirty",
+    "validUntil": "2026-04-26"
   }
 ]

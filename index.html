@@ -285,6 +285,30 @@
     .filter-btn.active {background: var(--accent); color: white; border-color: var(--accent);}
     .filter-btn:hover:not(.active) {border-color: var(--accent); color: var(--accent);}
 
+    /* Image, search highlight, skeletons, weekend filter, back-to-top */
+    .event-card .card-img {width:100%;height:160px;object-fit:cover;border-radius:10px;margin-bottom:0.85rem;}
+    .event-card.today-card .card-img {border-bottom:2px solid var(--accent2);}
+    .event-card mark {background:rgba(255,193,7,0.35);color:inherit;border-radius:2px;padding:0 2px;}
+    @keyframes shimmer {0%{background-position:-400px 0}100%{background-position:400px 0}}
+    .skeleton-card {background:var(--card);border:1px solid var(--border);border-radius:16px;padding:1.25rem;margin-bottom:1rem;overflow:hidden;}
+    .skeleton-card .skel {background:linear-gradient(90deg,var(--border) 25%,rgba(255,255,255,0.04) 50%,var(--border) 75%);background-size:400px 100%;animation:shimmer 1.4s infinite;border-radius:6px;}
+    .skeleton-card .skel-img {height:160px;border-radius:10px;margin-bottom:0.85rem;}
+    .skeleton-card .skel-title {height:18px;width:70%;margin-bottom:0.6rem;}
+    .skeleton-card .skel-meta {height:12px;width:50%;margin-bottom:0.4rem;}
+    .skeleton-card .skel-meta2 {height:12px;width:35%;margin-bottom:0.75rem;}
+    .skeleton-card .skel-desc {height:12px;width:90%;margin-bottom:0.35rem;}
+    .skeleton-card .skel-desc2 {height:12px;width:75%;}
+    .weekend-pills {padding:0 1.5rem 0.75rem;max-width:800px;margin:0 auto;display:flex;gap:0.5rem;}
+    .wknd-btn {padding:0.35rem 0.85rem;border:1px solid var(--border);background:var(--card);color:var(--muted);border-radius:99px;font-size:0.78rem;font-weight:600;cursor:pointer;transition:all 0.2s;}
+    .wknd-btn.active {background:rgba(255,107,107,0.15);color:var(--accent2);border-color:var(--accent2);}
+    .wknd-btn:hover:not(.active) {border-color:var(--accent);color:var(--accent);}
+    .filter-btn .cat-count {margin-left:0.3rem;opacity:0.7;font-size:0.7em;}
+    #backToTop {position:fixed;bottom:5rem;right:1.5rem;width:44px;height:44px;border-radius:50%;background:var(--card);border:1px solid var(--border);color:var(--accent);font-size:1.1rem;cursor:pointer;display:none;align-items:center;justify-content:center;z-index:997;transition:opacity 0.3s,transform 0.2s;box-shadow:0 4px 20px rgba(0,0,0,0.4);}
+    #backToTop:hover {transform:translateY(-2px);border-color:var(--accent);}
+    #backToTop.show {display:flex;}
+    .tab-content {display:none;opacity:0;transition:opacity 0.15s;}
+    .tab-content.active {display:block;opacity:1;}
+
     /* Event card actions */
     .card-actions {display: flex; gap: 0.5rem; margin-top: 0.75rem; justify-content: flex-end;}
     .card-btn {padding: 0.35rem 0.65rem; border: 1px solid var(--border); background: var(--card); color: var(--muted); border-radius: 8px; font-size: 0.75rem; cursor: pointer; transition: all 0.2s; text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem;}
@@ -368,7 +392,12 @@
     <input class="search-bar" id="searchInput" placeholder="Search events, locations..." oninput="filterEvents()">
   </div>
   <div class="filter-wrap" id="filterWrap"><button class="filter-btn active" data-filter="all">All</button><button class="filter-btn" data-filter="afrobeat">Afrobeat</button><button class="filter-btn" data-filter="art">Art</button><button class="filter-btn" data-filter="comedy">Comedy</button><button class="filter-btn" data-filter="dancing">Dancing</button><button class="filter-btn" data-filter="music">Music</button><button class="filter-btn" data-filter="vegetarian">Vegetarian</button></div>
-  <div class="cal-strip" id="calStrip">
+  <div class="weekend-pills" id="weekendPills">
+  <button class="wknd-btn active" data-wknd="all">All Events</button>
+  <button class="wknd-btn" data-wknd="weekend">This Weekend</button>
+  <button class="wknd-btn" data-wknd="nextweek">Next Week</button>
+</div>
+<div class="cal-strip" id="calStrip">
     <div class="cal-header">
       <button class="cal-nav" onclick="calNav(-1)">‹</button>
       <span class="cal-month" id="calMonthLabel"></span>
@@ -396,6 +425,7 @@
   </div>
 
   <footer>
+<button id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#8593;</button>
   Powered by <a href="https://bossmade.co" target="_blank">Boss Made</a> · Updated daily via cron
 </footer>
 
@@ -528,9 +558,19 @@
     }
   }
 
+  function formatDayNum(dateStr) {
+    if (!dateStr) return '';
+    const d = new Date(dateStr);
+    if (isNaN(d)) return '';
+    return String(d.getDate());
+  }
+
   function buildEventCard(ev, isToday) {
+    const img = ev.image ? `<img class="card-img" src="${ev.image}" alt="${ev.title}" loading="lazy">` : '';
+    const searchText = (ev.title + ' ' + (ev.description||'') + ' ' + (ev.location||'')).toLowerCase();
     return `
-      <div class="event-card${isToday ? ' today-card' : ''}">
+      <div class="event-card${isToday ? ' today-card' : ''}" data-id="${ev.title.replace(/"/g,'')}" data-cat="${(ev.category||'').toLowerCase()}" data-search="${searchText.replace(/"/g,'')}" data-day="${formatDayNum(ev.date)}">
+        ${img}
         <div class="title">${ev.title}</div>
         <div class="meta">
           ${ev.date ? `<span>📅 ${ev.date}</span>` : ''}
@@ -563,10 +603,13 @@
   }
 
   function switchTab(tab) {
-    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-    document.querySelector(`[onclick="switchTab('${tab}')"]`).classList.add('active');
-    document.getElementById(tab).classList.add('active');
+    document.querySelectorAll('.tab-btn').forEach(function(b){b.classList.remove('active');});
+    document.querySelectorAll('.tab-content').forEach(function(c){c.classList.remove('active','fade-in');});
+    document.querySelectorAll('.tab-btn').forEach(function(b){if(b.getAttribute('onclick').indexOf(tab)!==-1) b.classList.add('active');});
+    var _tc = document.getElementById(tab);
+    _tc.classList.add('active');
+    void _tc.offsetWidth;
+    _tc.classList.add('fade-in');
   }
 
   loadData();
@@ -584,6 +627,34 @@
     window.addEventListener('DOMContentLoaded', () => {
       renderCal();
       updateSavedCount();
+      // Back to top
+      window.addEventListener('scroll', function() {
+        var _btt = document.getElementById('backToTop');
+        if(_btt) _btt.classList.toggle('show', window.scrollY > 400);
+      });
+      // Weekend pills
+      document.getElementById('weekendPills').addEventListener('click', function(e) {
+        if(!e.target.classList.contains('wknd-btn')) return;
+        document.querySelectorAll('.wknd-btn').forEach(function(b){b.classList.remove('active');});
+        e.target.classList.add('active');
+        window.curWknd = e.target.dataset.wknd;
+        applyWeekendFilter();
+      });
+      // Category counts
+      setTimeout(function() {
+        var _c = {};
+        document.querySelectorAll('.event-card').forEach(function(c) {
+          var _cat = c.dataset.cat || '';
+          _c[_cat] = (_c[_cat]||0) + 1;
+        });
+        document.querySelectorAll('.filter-btn[data-filter]').forEach(function(btn) {
+          var _cat = btn.dataset.filter;
+          var _n = _cat === 'all' ? document.querySelectorAll('.event-card').length : (_c[_cat]||0);
+          var _sp = btn.querySelector('.cat-count');
+          if(!_sp && _n > 0) { _sp = document.createElement('span'); _sp.className = 'cat-count'; btn.appendChild(_sp); }
+          if(_sp) _sp.textContent = '(' + _n + ')';
+        });
+      }, 150);
       // delegate filter clicks
       document.getElementById('filterWrap').addEventListener('click', e => {
         if (e.target.classList.contains('filter-btn')) {
@@ -596,10 +667,35 @@
     });
 
     // ─── Filter + Search ──────────────────────────────────────────────────
+    var _curWknd = 'all';
+    function applyWeekendFilter() {
+      var cards = document.querySelectorAll('.event-card');
+      var now = new Date();
+      var dow = now.getDay();
+      var fri = new Date(now); fri.setDate(now.getDate() + ((5 - dow + 7) % 7 || 7));
+      var sun = new Date(fri); sun.setDate(fri.getDate() + 2);
+      var nMon = new Date(sun); nMon.setDate(sun.getDate() + 1);
+      var nSun = new Date(nMon); nSun.setDate(nMon.getDate() + 6);
+      cards.forEach(function(card) {
+        if (window.curWknd === 'all') { card.style.display = ''; return; }
+        var ds = card.dataset.day || '';
+        if (!ds) { card.style.display = ''; return; }
+        var dn = parseInt(ds);
+        var cd = new Date(2026, 3, dn);
+        var ok = false;
+        if (window.curWknd === 'weekend') ok = cd >= fri && cd <= sun;
+        else if (window.curWknd === 'nextweek') ok = cd >= nMon && cd <= nSun;
+        card.style.display = ok ? '' : 'none';
+      });
+    }
+    var _debounceTimer;
     function filterEvents() {
-      const q = document.getElementById('searchInput').value.toLowerCase().trim();
-      curSearch = q;
-      applyFilters();
+      clearTimeout(_debounceTimer);
+      _debounceTimer = setTimeout(function() {
+        const q = document.getElementById('searchInput').value.toLowerCase().trim();
+        curSearch = q;
+        applyFilters();
+      }, 200);
     }
 
     function applyFilters() {
@@ -610,8 +706,9 @@
         const text = card.dataset.search || '';
         const day  = card.dataset.day   || '';
         const matchCat = curFilter === 'all' || cat === curFilter;
-        const matchQ   = !curSearch || text.includes(curSearch) || day.includes(curSearch);
-        const show = matchCat && matchQ;
+        var calMatch = !curSearch.startsWith('DAY:') || day === curSearch.slice(4);
+        var matchQ   = !curSearch.startsWith('DAY:') && (!curSearch || text.includes(curSearch) || day.includes(curSearch));
+        var show = matchCat && matchQ && calMatch;
         card.style.display = show ? '' : 'none';
         if (show) visible++;
       });
@@ -623,6 +720,7 @@
     const _origLoadData = window.loadData;
     window.loadData = function(events) {
       _origLoadData(events);
+      window.events = events;
       window._events = events;
       setTimeout(injectCardActions, 0);
       setTimeout(() => { applyFilters(); renderCal(); }, 0);
@@ -631,7 +729,7 @@
     function injectCardActions() {
       document.querySelectorAll('.event-card').forEach(card => {
         if (card.querySelector('.card-actions')) return;
-        const id   = card.dataset.id;
+        const id = card.dataset.id || card.querySelector(".title")?.textContent || "";
         const url   = encodeURIComponent(window.location.href);
         const title = encodeURIComponent(card.querySelector('h3')?.textContent || '');
         const saved = savedIds.includes(id);
@@ -782,7 +880,7 @@
 
     function resetQuiz() {
       quizAnswers = [];
-      quizStep = 0;
+      quizStep = -1;
       renderQuiz();
     }
 

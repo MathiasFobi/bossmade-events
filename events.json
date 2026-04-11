@@ -6,7 +6,8 @@
     "location": "Fernbank Museum of Natural History, 767 Clifton Rd NE, Atlanta",
     "price": "$24",
     "description": "Adults-only (21+) after-hours museum experience featuring cocktails, botanical-themed drinks, tapas, live music, and science demos. Perfect for couples who love a sophisticated yet playful date night.",
-    "category": "Dancing"
+    "category": "Dancing",
+    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop"
   },
   {
     "title": "90th Annual Atlanta Dogwood Festival - Day 1",
@@ -15,7 +16,8 @@
     "location": "Piedmont Park, Atlanta",
     "price": "$5-$10",
     "description": "Celebrating 90 years! 260+ artists, international music performances, food vendors, Kids Village, and live entertainment. Great for couples who enjoy art, music, and outdoor vibes.",
-    "category": "Art Galleries"
+    "category": "Art Galleries",
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
   },
   {
     "title": "Atlanta One Love Reggae Music Fest",
@@ -24,7 +26,8 @@
     "location": "Shirley Clarke Franklin Park - Birth of Atlanta Lot, 1660 Johnson Rd NW, Atlanta",
     "price": "$10",
     "description": "Inaugural reggae festival with Reggae, Soca, Dancehall & Afrobeat vibes. Features world-class artists, authentic food vendors, art & jewelry, games, and picture booths. Over 3000 expected attendees. Kids 8 & under free.",
-    "category": "Live Music"
+    "category": "Live Music",
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop"
   },
   {
     "title": "Vegan Nights ATL: Taste the City",
@@ -33,7 +36,8 @@
     "location": "2197 Irvindale Way, Chamblee, GA",
     "price": "Varies",
     "description": "Atlanta's ultimate plant-based nightlife event with top vegan chefs, food trucks, craft cocktails, zero-proof mocktails, live DJs, fashion & art showcases. Indoor-outdoor experience. All ages welcome.",
-    "category": "Vegetarian Food Events"
+    "category": "Vegetarian Food Events",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=250&fit=crop"
   },
   {
     "title": "TUMBAO Dance Social - 2 Rooms: Salsa & Bachata",
@@ -42,7 +46,8 @@
     "location": "Academy Ballroom, 800 Miami Cir NE, Atlanta",
     "price": "$15 cash / $17 credit",
     "description": "Monthly dance social with two rooms - Salsa room with DJ Mike Arana and Bachata room with Guest DJ Urbane. Complimentary Salsa On2 class at 9:30 PM. BYOB. Great date night for dancing couples!",
-    "category": "Dancing"
+    "category": "Dancing",
+    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop"
   },
   {
     "title": "The Blues Is Alright Tour - Atlanta Blues Festival",
@@ -51,7 +56,8 @@
     "location": "Cobb Energy Performing Arts Centre, 2800 Cobb Galleria Pkwy, Atlanta",
     "price": "$82-$212",
     "description": "20th Annual ATL Blues Festival featuring The Blues Is Alright Tour. An unforgettable night of blues music at Atlanta's premier intimate concert venue. Perfect for couples who love live music.",
-    "category": "Live Music"
+    "category": "Live Music",
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop"
   },
   {
     "title": "90th Annual Atlanta Dogwood Festival - Day 2",
@@ -60,7 +66,8 @@
     "location": "Piedmont Park, Atlanta",
     "price": "$10",
     "description": "Day 2 with full entertainment schedule including SALSAtlanta dance performance, Mausiki Scales & Common Ground Collective, Members Only (80s tribute), and more. Mimosa 5K at 7 AM.",
-    "category": "Art Galleries"
+    "category": "Art Galleries",
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
   },
   {
     "title": "90th Annual Atlanta Dogwood Festival - Day 3",
@@ -69,7 +76,8 @@
     "location": "Piedmont Park, Atlanta",
     "price": "$10",
     "description": "Final day featuring Nachlanta, Danceando & Friends, Chinese American Cultural Performing Group, Brandon Boone & The Reunion, and the Art Throwdown competition. Great Sunday outing for couples.",
-    "category": "Art Galleries"
+    "category": "Art Galleries",
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
   },
   {
     "title": "SweetWater 420 Fest - Day 1",
@@ -78,7 +86,8 @@
     "location": "Centennial Olympic Park, Atlanta",
     "price": "Varies",
     "description": "Atlanta's signature spring music festival featuring major touring acts, multiple music stages, local performers, food & beverage vendors. One of the city's best-known annual festivals.",
-    "category": "Live Music"
+    "category": "Live Music",
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop"
   },
   {
     "title": "SweetWater 420 Fest - Day 2",
@@ -87,7 +96,8 @@
     "location": "Centennial Olympic Park, Atlanta",
     "price": "Varies",
     "description": "Second day of Atlanta's premier spring music festival. Multiple stages, national and regional acts, craft beer from SweetWater Brewing Company, and large-scale outdoor programming.",
-    "category": "Live Music"
+    "category": "Live Music",
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop"
   },
   {
     "title": "Date Night Painting - Summer Moon River",
@@ -96,7 +106,8 @@
     "location": "Painting with a Twist, Kennesaw, GA",
     "price": "Varies",
     "description": "Couples-friendly painting class where you and your partner create beautiful art together. BYOB allowed. Perfect for a creative, relaxed date night with memories to take home.",
-    "category": "Art Galleries"
+    "category": "Art Galleries",
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
   },
   {
     "title": "Bachata x Zouk ATL Weekender 2026",
@@ -105,7 +116,8 @@
     "location": "5522 New Peachtree Rd STE 103, Chamblee, GA",
     "price": "Varies",
     "description": "Three-day Bachata and Zouk dance festival with workshops, social dancing, and performances. Great opportunity for couples to learn or improve their dance skills together.",
-    "category": "Dancing"
+    "category": "Dancing",
+    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop"
   },
   {
     "title": "Helium Comedy Club - Guy Torry",
@@ -114,7 +126,8 @@
     "location": "Helium Comedy Club, 1157 Midtown Ave SE, Atlanta",
     "price": "Varies",
     "description": "Top Atlanta comedy club featuring nationally touring comedians. Great date night option for couples who enjoy laughing together.",
-    "category": "Comedy Shows"
+    "category": "Comedy Shows",
+    "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=400&h=250&fit=crop"
   },
   {
     "title": "Helium Comedy Club - Orion Levine",
@@ -123,15 +136,17 @@
     "location": "Helium Comedy Club, 1157 Midtown Ave SE, Atlanta",
     "price": "Varies",
     "description": "Weekend comedy show at Atlanta's premier stand-up venue. Perfect for couples looking for a fun night out with great food and laughs.",
-    "category": "Comedy Shows"
+    "category": "Comedy Shows",
+    "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=400&h=250&fit=crop"
   },
   {
     "title": "Let's Go Dancing: Paintings by Anna Jensen",
-    "date": "2026-04-09 onwards",
+    "date": "2026-04-09",
     "time": "Ongoing",
     "location": "The Sun ATL, Atlanta",
     "price": "Free",
     "description": "Art exhibition featuring Anna Jensen's dancing-themed paintings at The Sun ATL. A great add-on to a night out or dinner date.",
-    "category": "Art Galleries"
+    "category": "Art Galleries",
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
   }
 ]
