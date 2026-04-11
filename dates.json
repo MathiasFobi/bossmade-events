@@ -1,38 +1,32 @@
 [
   {
+    "emoji": "🎶",
+    "category": "live_music",
+    "title": "Soul Train Live Music Cookout at Historic Fourth Ward Park",
+    "description": "Outdoor cookout with live soul, R&B and funk acts. Pack a blanket, grab some BBQ, and soak in the vibes. Great energy, totally free to attend, food vendors on site.",
+    "budget": "Free–$20",
+    "location": "Historic Fourth Ward Park, Atlanta — Sat Apr 11, 2–10 PM",
+    "vibe": "Outdoor, energetic, community cookout energy",
+    "validUntil": "2026-04-12"
+  },
+  {
     "emoji": "🎨",
-    "category": "Creative Date",
-    "title": "Paint Night + Tapas",
-    "description": "Start with cocktails at a midtown gallery, then head to a painting class where you and your date create matching canvases. End with late-night tapas downtown.",
-    "budget": "$$",
-    "location": "Midtown \u2192 Downtown",
-    "vibe": "Creative & intimate",
-    "validUntil": "2026-04-26",
-    "ticketUrl": "https://www.eventbrite.com/e/paint-night-tapas-atlanta",
-    "priceLevel": "$$"
+    "category": "art",
+    "title": "To Be Continued — Juan Miguel Palacios Solo Exhibition + Artist Talk",
+    "description": "Intimate solo exhibition at Luca Fine Art with a live artist talk. Follow it up with a walk through the surrounding Virginia-Highland neighborhood and dinner somewhere nearby.",
+    "budget": "Free–$50",
+    "location": "Luca Fine Art, Atlanta — Sat Apr 11, 6–8 PM (talk starts 6 PM)",
+    "vibe": "Cultural, intimate, sophisticated",
+    "validUntil": "2026-04-12"
   },
   {
-    "emoji": "🌿",
-    "category": "Outdoor Adventure",
-    "title": "Piedmont Park Stroll + Rooftop Drinks",
-    "description": "Morning walk through the Botanical Garden or pedal-boats at the park, followed by elevated cocktails at a rooftop bar with skyline views.",
-    "budget": "$",
-    "location": "Midtown",
-    "vibe": "Fresh & relaxed",
-    "validUntil": "2026-04-26",
-    "ticketUrl": "https://www.eventbrite.com/e/piedmont-park-rooftop-atlanta",
-    "priceLevel": "$"
-  },
-  {
-    "emoji": "💿",
-    "category": "Dance Night",
-    "title": "Salsa Social + Late-night Tacos",
-    "description": "Free salsa lesson at 9:30 PM, then dance the night away at Atlanta's best Latin social. Cap it off with al pastor tacos from a food truck.",
-    "budget": "$$",
-    "location": "Buckhead",
-    "vibe": "Energetic & flirty",
-    "validUntil": "2026-04-26",
-    "ticketUrl": "https://www.eventbrite.com/e/salsa-social-tacos-atlanta",
-    "priceLevel": "$$"
+    "emoji": "😂",
+    "category": "comedy",
+    "title": "Ali Wong Live at The Tabernacle",
+    "description": "Hilarious, sharp standup from Ali Wong (Baby Cobra / Hard Knock Wife). The Tabernacle is a gorgeous historic venue in the heart of downtown Atlanta.",
+    "budget": "$55–$90",
+    "location": "The Tabernacle, Atlanta — Sat Apr 11, 7 PM",
+    "vibe": "Funny, intimate, unforgettable",
+    "validUntil": "2026-04-12"
   }
 ]
