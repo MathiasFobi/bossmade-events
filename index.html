@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Boss Made Events | Atlanta</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -19,7 +22,7 @@
     }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
@@ -314,6 +317,15 @@
     .card-btn {padding: 0.35rem 0.65rem; border: 1px solid var(--border); background: var(--card); color: var(--muted); border-radius: 8px; font-size: 0.75rem; cursor: pointer; transition: all 0.2s; text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem;}
     .card-btn:hover {border-color: var(--accent); color: var(--accent);}
     .card-btn.saved {border-color: var(--accent2); color: var(--accent2);}
+    .ticket-btn {background: rgba(108,99,255,0.15); color: var(--accent); border-color: var(--accent);}
+    .ticket-btn:hover {background: var(--accent); color: white;}
+    .price-badge {padding: 0.2rem 0.5rem; background: rgba(255,107,107,0.15); color: var(--accent2); border-radius: 6px; font-size: 0.72rem; font-weight: 600;}
+    .age-badge {padding: 0.2rem 0.5rem; background: rgba(255,215,0,0.1); color: #ffd700; border-radius: 6px; font-size: 0.72rem; font-weight: 600;}
+    .venue-notes {display: block; width: 100%; font-size: 0.75rem; color: var(--muted); margin-top: 0.25rem; padding: 0.2rem 0;}
+    .past-events-toggle {display: flex; align-items: center; justify-content: center; gap: 0.5rem; padding: 1rem; margin: 1rem 0; color: var(--muted); cursor: pointer; font-size: 0.9rem; background: var(--card); border: 1px solid var(--border); border-radius: 12px;}
+    .past-events-toggle:hover {color: var(--text); border-color: var(--accent);}
+    .past-events-section {display: none;}
+    .past-events-section.open {display: block;}
 
     /* Quiz */
     .quiz-wrap {max-width: 600px; margin: 0 auto; padding: 2rem 1.5rem;}
@@ -404,6 +416,8 @@
     </div>
     <div class="cal-grid" id="calGrid"></div>
   </div>
+  <div id="pastEventsToggle" class="past-events-toggle" onclick="togglePastEvents()">▼ Past Events</div>
+  <div id="pastEventsSection" class="past-events-section"></div>
   <div id="eventsList"></div>
   </div>
   <div id="quiz" class="tab-content">
@@ -526,6 +540,18 @@
       }
 
       eventsList.innerHTML = html;
+
+      // Past events accordion
+      const pastEvents = events.filter(ev => isPast(ev.date));
+      const pastSection = document.getElementById('pastEventsSection');
+      const pastToggle = document.getElementById('pastEventsToggle');
+      if (pastEvents.length > 0) {
+        pastToggle.style.display = 'flex';
+        pastSection.innerHTML = '<div class="section-header"><h2>📜 Past Events</h2></div>' +
+          pastEvents.map(ev => buildEventCard(ev, false)).join('');
+      } else {
+        pastToggle.style.display = 'none';
+      }
     } else {
       eventsList.innerHTML = '<div class="empty-state"><div class="emoji">🎭</div><p>No events loaded yet.<br>Check back soon!</p></div>';
     }
@@ -687,17 +713,30 @@
     function injectCardActions() {
       document.querySelectorAll('.event-card').forEach(card => {
         if (card.querySelector('.card-actions')) return;
-        const id = card.dataset.id || card.querySelector(".title")?.textContent || "";
+        const id = card.dataset.id || card.querySelector('.title')?.textContent || '';
+        const ev = (window._events||[]).find(e => e.title === id) || {};
         const url   = encodeURIComponent(window.location.href);
-        const title = encodeURIComponent(card.querySelector('h3')?.textContent || '');
+        const title = encodeURIComponent(card.querySelector('.title')?.textContent || '');
         const saved = savedIds.includes(id);
         const actions = document.createElement('div');
         actions.className = 'card-actions';
+        const ticketBtn = ev.ticketUrl ? `<a class="card-btn ticket-btn" href="${ev.ticketUrl}" target="_blank" rel="noopener">🎟 Tickets</a>` : '';
+        const priceLbl = ev.priceLevel ? `<span class="price-badge">${ev.priceLevel}</span>` : '';
+        const ageLbl = ev.ageRating ? `<span class="age-badge">${ev.ageRating}</span>` : '';
+        const venueLbl = ev.venueNotes ? `<span class="venue-notes">${ev.venueNotes}</span>` : '';
         actions.innerHTML =
           `<button class="card-btn ${saved ? 'saved' : ''}" onclick="toggleSave(this,'${id}')">${saved ? '♥' : '♡'} Save</button>` +
+          ticketBtn +
+          priceLbl + ageLbl +
           `<a class="card-btn" href="https://twitter.com/intent/tweet?text=${title}&url=${url}" target="_blank" rel="noopener">𝕏</a>` +
-          `<button class="card-btn" onclick="copyLink('${title}')">📋</button>`;
+          `<button class="card-btn" onclick="copyLink('${title}')">📋</button>` +
+          `<button class="card-btn" onclick="shareWhatsApp('${title}')">📱</button>` +
+          `<button class="card-btn" onclick="downloadICS('${(ev.title||'').replace(/'/g,"\\'")}','${ev.date||''}','${(ev.time||'').replace(/'/g,"\\'")}','${(ev.location||'').replace(/'/g,"\\'")}')">📅</button>`;
         card.appendChild(actions);
+        if (venueLbl) {
+          const locEl = card.querySelector('.meta');
+          if (locEl) locEl.insertAdjacentHTML('beforeend', venueLbl);
+        }
       });
     }
 
@@ -734,7 +773,36 @@
       }
     }
 
-    // ─── Toast ─────────────────────────────────────────────────────────────
+    // ─── WhatsApp Share ─────────────────────────────────────────────────────
+    function shareWhatsApp(title) {
+      const url = encodeURIComponent(window.location.href);
+      const text = encodeURIComponent(title + ' — ' + url);
+      window.open('https://wa.me/?text=' + text, '_blank');
+    }
+
+    // ─── ICS Calendar Export ─────────────────────────────────────────────────
+    function downloadICS(title, date, time, location) {
+      const start = date.replace(/-/g,'') + 'T' + (time ? time.split('-')[0].trim().replace(/[^0-9]/g,'').padEnd(6,'0') : '120000');
+      const end   = date.replace(/-/g,'') + 'T' + (time && time.includes('-') ? time.split('-')[1].trim().replace(/[^0-9]/g,'').padEnd(6,'0') : '230000');
+      const ics = ['BEGIN:VCALENDAR','VERSION:2.0','BEGIN:VEVENT',
+        'DTSTART:'+start,'DTEND:'+end,
+        'SUMMARY:'+title,'LOCATION:'+(location||''),
+        'END:VEVENT','END:VCALENDAR'].join('\r\n');
+      const blob = new Blob([ics],{type:'text/calendar'});
+      const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+      a.download = title.replace(/[^a-z0-9]/gi,'_')+'.ics'; a.click();
+      showToast('Calendar event downloaded!');
+    }
+
+    // ─── Past Events Accordion ──────────────────────────────────────────────
+    function togglePastEvents() {
+      const el = document.getElementById('pastEventsSection');
+      const btn = document.getElementById('pastEventsToggle');
+      el.classList.toggle('open');
+      btn.textContent = el.classList.contains('open') ? '▲ Past Events' : '▼ Past Events';
+    }
+
+    // ─── Toast ──────────────────────────────────────────────────────────────
     function showToast(msg) {
       const t = document.getElementById('toast');
       t.textContent = msg; t.classList.add('show');
@@ -851,6 +919,9 @@
     window.copyLink  = copyLink;
     window.shareEvent = shareEvent;
     window.filterEvents = filterEvents;
+    window.shareWhatsApp = shareWhatsApp;
+    window.downloadICS = downloadICS;
+    window.togglePastEvents = togglePastEvents;
 
     // ─── Page Agent (Mistral) ───────────────────────────────────────
     const MISTRAL_API_KEY = 'xN26eRj8gZjHi19JPyCefeJIVfYGDHlk';

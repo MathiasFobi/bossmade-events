@@ -7,7 +7,15 @@
     "price": "$24",
     "description": "Adults-only (21+) after-hours museum experience featuring cocktails, botanical-themed drinks, tapas, live music, and science demos. Perfect for couples who love a sophisticated yet playful date night.",
     "category": "Dancing",
-    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/fernbank-after-dark-booze-botanicals",
+    "priceLevel": "$$",
+    "ageRating": "21+",
+    "venueNotes": "Use rideshare — no on-site parking",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null,
+    "past": true
   },
   {
     "title": "90th Annual Atlanta Dogwood Festival - Day 1",
@@ -17,7 +25,15 @@
     "price": "$5-$10",
     "description": "Celebrating 90 years! 260+ artists, international music performances, food vendors, Kids Village, and live entertainment. Great for couples who enjoy art, music, and outdoor vibes.",
     "category": "Art Galleries",
-    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/atlanta-dogwood-festival-2026",
+    "priceLevel": "$",
+    "ageRating": "All Ages",
+    "venueNotes": "Free parking on Piedmont Park",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": "dogwood-2026",
+    "past": true
   },
   {
     "title": "Atlanta One Love Reggae Music Fest",
@@ -27,7 +43,14 @@
     "price": "$10",
     "description": "Inaugural reggae festival with Reggae, Soca, Dancehall & Afrobeat vibes. Features world-class artists, authentic food vendors, art & jewelry, games, and picture booths. Over 3000 expected attendees. Kids 8 & under free.",
     "category": "Live Music",
-    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/atlanta-one-love-reggae-music-fest",
+    "priceLevel": "$",
+    "ageRating": "18+",
+    "venueNotes": "Use rideshare — limited on-site parking",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null
   },
   {
     "title": "Vegan Nights ATL: Taste the City",
@@ -37,7 +60,14 @@
     "price": "Varies",
     "description": "Atlanta's ultimate plant-based nightlife event with top vegan chefs, food trucks, craft cocktails, zero-proof mocktails, live DJs, fashion & art showcases. Indoor-outdoor experience. All ages welcome.",
     "category": "Vegetarian Food Events",
-    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/vegan-nights-atl",
+    "priceLevel": "$",
+    "ageRating": "All Ages",
+    "venueNotes": "Limited street parking — use MARTA",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null
   },
   {
     "title": "TUMBAO Dance Social - 2 Rooms: Salsa & Bachata",
@@ -47,7 +77,14 @@
     "price": "$15 cash / $17 credit",
     "description": "Monthly dance social with two rooms - Salsa room with DJ Mike Arana and Bachata room with Guest DJ Urbane. Complimentary Salsa On2 class at 9:30 PM. BYOB. Great date night for dancing couples!",
     "category": "Dancing",
-    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/tumbao-dance-social-atlanta",
+    "priceLevel": "$",
+    "ageRating": "18+",
+    "venueNotes": "Free lot parking",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null
   },
   {
     "title": "The Blues Is Alright Tour - Atlanta Blues Festival",
@@ -57,7 +94,14 @@
     "price": "$82-$212",
     "description": "20th Annual ATL Blues Festival featuring The Blues Is Alright Tour. An unforgettable night of blues music at Atlanta's premier intimate concert venue. Perfect for couples who love live music.",
     "category": "Live Music",
-    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.ticketmaster.com/blues-is-alright-tour-atlanta",
+    "priceLevel": "$$$",
+    "ageRating": "18+",
+    "venueNotes": "Free lot parking",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null
   },
   {
     "title": "90th Annual Atlanta Dogwood Festival - Day 2",
@@ -67,7 +111,14 @@
     "price": "$10",
     "description": "Day 2 with full entertainment schedule including SALSAtlanta dance performance, Mausiki Scales & Common Ground Collective, Members Only (80s tribute), and more. Mimosa 5K at 7 AM.",
     "category": "Art Galleries",
-    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/atlanta-dogwood-festival-2026",
+    "priceLevel": "$",
+    "ageRating": "All Ages",
+    "venueNotes": "Free parking on Piedmont Park",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": "dogwood-2026"
   },
   {
     "title": "90th Annual Atlanta Dogwood Festival - Day 3",
@@ -77,7 +128,14 @@
     "price": "$10",
     "description": "Final day featuring Nachlanta, Danceando & Friends, Chinese American Cultural Performing Group, Brandon Boone & The Reunion, and the Art Throwdown competition. Great Sunday outing for couples.",
     "category": "Art Galleries",
-    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/atlanta-dogwood-festival-2026",
+    "priceLevel": "$",
+    "ageRating": "All Ages",
+    "venueNotes": "Free parking on Piedmont Park",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": "dogwood-2026"
   },
   {
     "title": "SweetWater 420 Fest - Day 1",
@@ -87,7 +145,14 @@
     "price": "Varies",
     "description": "Atlanta's signature spring music festival featuring major touring acts, multiple music stages, local performers, food & beverage vendors. One of the city's best-known annual festivals.",
     "category": "Live Music",
-    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop",
+    "ticketUrl": "https://sweetwater420fest.com/tickets/",
+    "priceLevel": "$$$",
+    "ageRating": "18+",
+    "venueNotes": "Use rideshare — limited parking downtown",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": "sweetwater-2026"
   },
   {
     "title": "SweetWater 420 Fest - Day 2",
@@ -97,7 +162,14 @@
     "price": "Varies",
     "description": "Second day of Atlanta's premier spring music festival. Multiple stages, national and regional acts, craft beer from SweetWater Brewing Company, and large-scale outdoor programming.",
     "category": "Live Music",
-    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&h=250&fit=crop",
+    "ticketUrl": "https://sweetwater420fest.com/tickets/",
+    "priceLevel": "$$$",
+    "ageRating": "18+",
+    "venueNotes": "Use rideshare — limited parking downtown",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": "sweetwater-2026"
   },
   {
     "title": "Date Night Painting - Summer Moon River",
@@ -107,7 +179,14 @@
     "price": "Varies",
     "description": "Couples-friendly painting class where you and your partner create beautiful art together. BYOB allowed. Perfect for a creative, relaxed date night with memories to take home.",
     "category": "Art Galleries",
-    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/date-night-painting-atlanta",
+    "priceLevel": "$$",
+    "ageRating": "21+",
+    "venueNotes": "Free parking lot",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null
   },
   {
     "title": "Bachata x Zouk ATL Weekender 2026",
@@ -117,7 +196,14 @@
     "price": "Varies",
     "description": "Three-day Bachata and Zouk dance festival with workshops, social dancing, and performances. Great opportunity for couples to learn or improve their dance skills together.",
     "category": "Dancing",
-    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1504609813442-a8924c83f3c1?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/bachata-x-zouk-atl-weekender-2026",
+    "priceLevel": "$$$",
+    "ageRating": "18+",
+    "venueNotes": "Free parking lot",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null
   },
   {
     "title": "Helium Comedy Club - Guy Torry",
@@ -127,7 +213,14 @@
     "price": "Varies",
     "description": "Top Atlanta comedy club featuring nationally touring comedians. Great date night option for couples who enjoy laughing together.",
     "category": "Comedy Shows",
-    "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/helium-comedy-club-guy-torry",
+    "priceLevel": "$$",
+    "ageRating": "18+",
+    "venueNotes": "Valet parking available",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null
   },
   {
     "title": "Helium Comedy Club - Orion Levine",
@@ -137,7 +230,14 @@
     "price": "Varies",
     "description": "Weekend comedy show at Atlanta's premier stand-up venue. Perfect for couples looking for a fun night out with great food and laughs.",
     "category": "Comedy Shows",
-    "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/helium-comedy-club-orion-levine",
+    "priceLevel": "$$",
+    "ageRating": "18+",
+    "venueNotes": "Valet parking available",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null
   },
   {
     "title": "Let's Go Dancing: Paintings by Anna Jensen",
@@ -147,6 +247,14 @@
     "price": "Free",
     "description": "Art exhibition featuring Anna Jensen's dancing-themed paintings at The Sun ATL. A great add-on to a night out or dinner date.",
     "category": "Art Galleries",
-    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop"
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=400&h=250&fit=crop",
+    "ticketUrl": "https://www.eventbrite.com/e/lets-go-dancing-anna-jensen",
+    "priceLevel": "Free",
+    "ageRating": "All Ages",
+    "venueNotes": "",
+    "soldOut": false,
+    "ticketsRemaining": null,
+    "groupId": null,
+    "past": true
   }
 ]

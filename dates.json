@@ -1,32 +1,38 @@
 [
   {
-    "emoji": "\ud83c\udfa8",
+    "emoji": "🎨",
     "category": "Creative Date",
     "title": "Paint Night + Tapas",
     "description": "Start with cocktails at a midtown gallery, then head to a painting class where you and your date create matching canvases. End with late-night tapas downtown.",
     "budget": "$$",
     "location": "Midtown \u2192 Downtown",
     "vibe": "Creative & intimate",
-    "validUntil": "2026-04-26"
+    "validUntil": "2026-04-26",
+    "ticketUrl": "https://www.eventbrite.com/e/paint-night-tapas-atlanta",
+    "priceLevel": "$$"
   },
   {
-    "emoji": "\ud83c\udf3f",
+    "emoji": "🌿",
     "category": "Outdoor Adventure",
     "title": "Piedmont Park Stroll + Rooftop Drinks",
     "description": "Morning walk through the Botanical Garden or pedal-boats at the park, followed by elevated cocktails at a rooftop bar with skyline views.",
     "budget": "$",
     "location": "Midtown",
     "vibe": "Fresh & relaxed",
-    "validUntil": "2026-04-26"
+    "validUntil": "2026-04-26",
+    "ticketUrl": "https://www.eventbrite.com/e/piedmont-park-rooftop-atlanta",
+    "priceLevel": "$"
   },
   {
-    "emoji": "\ud83d\udd7a",
+    "emoji": "💿",
     "category": "Dance Night",
     "title": "Salsa Social + Late-night Tacos",
     "description": "Free salsa lesson at 9:30 PM, then dance the night away at Atlanta's best Latin social. Cap it off with al pastor tacos from a food truck.",
     "budget": "$$",
     "location": "Buckhead",
     "vibe": "Energetic & flirty",
-    "validUntil": "2026-04-26"
+    "validUntil": "2026-04-26",
+    "ticketUrl": "https://www.eventbrite.com/e/salsa-social-tacos-atlanta",
+    "priceLevel": "$$"
   }
 ]
