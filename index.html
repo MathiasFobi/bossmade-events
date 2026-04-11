@@ -706,39 +706,12 @@
       _origLoadData(events);
       window.events = events;
       window._events = events;
-      setTimeout(injectCardActions, 0);
-      setTimeout(() => { applyFilters(); renderCal(); }, 0);
+      // buildEventCard renders all actions inline — injectCardActions no longer needed
+      applyFilters();
+      renderCal();
     };
 
-    function injectCardActions() {
-      document.querySelectorAll('.event-card').forEach(card => {
-        if (card.querySelector('.card-actions')) return;
-        const id = card.dataset.id || card.querySelector('.title')?.textContent || '';
-        const ev = (window._events||[]).find(e => e.title === id) || {};
-        const url   = encodeURIComponent(window.location.href);
-        const title = encodeURIComponent(card.querySelector('.title')?.textContent || '');
-        const saved = savedIds.includes(id);
-        const actions = document.createElement('div');
-        actions.className = 'card-actions';
-        const ticketBtn = ev.ticketUrl ? `<a class="card-btn ticket-btn" href="${ev.ticketUrl}" target="_blank" rel="noopener">🎟 Tickets</a>` : '';
-        const priceLbl = ev.priceLevel ? `<span class="price-badge">${ev.priceLevel}</span>` : '';
-        const ageLbl = ev.ageRating ? `<span class="age-badge">${ev.ageRating}</span>` : '';
-        const venueLbl = ev.venueNotes ? `<span class="venue-notes">${ev.venueNotes}</span>` : '';
-        actions.innerHTML =
-          `<button class="card-btn ${saved ? 'saved' : ''}" onclick="toggleSave(this,'${id}')">${saved ? '♥' : '♡'} Save</button>` +
-          ticketBtn +
-          priceLbl + ageLbl +
-          `<a class="card-btn" href="https://twitter.com/intent/tweet?text=${title}&url=${url}" target="_blank" rel="noopener">𝕏</a>` +
-          `<button class="card-btn" onclick="copyLink('${title}')">📋</button>` +
-          `<button class="card-btn" onclick="shareWhatsApp('${title}')">📱</button>` +
-          `<button class="card-btn" onclick="downloadICS('${(ev.title||'').replace(/'/g,"\\'")}','${ev.date||''}','${(ev.time||'').replace(/'/g,"\\'")}','${(ev.location||'').replace(/'/g,"\\'")}')">📅</button>`;
-        card.appendChild(actions);
-        if (venueLbl) {
-          const locEl = card.querySelector('.meta');
-          if (locEl) locEl.insertAdjacentHTML('beforeend', venueLbl);
-        }
-      });
-    }
+    
 
     // ─── Save Events ──────────────────────────────────────────────────────
     function toggleSave(btn, id) {
