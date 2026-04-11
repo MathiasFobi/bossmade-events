@@ -382,7 +382,6 @@
 
 <div class="tabs">
     <button class="tab-btn active" onclick="switchTab('events')">🎭 Atlanta Events</button>
-  <button class="tab-btn" onclick="switchTab('dates')">💑 Date Night</button>
   <button class="tab-btn" onclick="switchTab('quiz')">🎯 Quiz</button>
 </div>
 
@@ -407,10 +406,6 @@
   </div>
   <div id="eventsList"></div>
   </div>
-  <div id="dates" class="tab-content">
-    <div id="datesList"></div>
-  </div>
-
   <div id="quiz" class="tab-content">
     <div class="quiz-wrap" id="quizWrap">
       <div class="quiz-card" id="quizCard">
@@ -535,27 +530,7 @@
       eventsList.innerHTML = '<div class="empty-state"><div class="emoji">🎭</div><p>No events loaded yet.<br>Check back soon!</p></div>';
     }
 
-    // ── DATES ────────────────────────────────────────────────
-    const datesList = document.getElementById('datesList');
-    if (dates && dates.length) {
-      // Filter: show if no validUntil, or validUntil hasn't passed
-      const now = new Date();
-      const active = dates.filter(date => {
-        if (!date.validUntil) return true;
-        const d = parseDate(date.validUntil);
-        return d && d >= now;
-      });
-
-      if (active.length) {
-        datesList.innerHTML =
-          '<div class="section-header"><h2>✨ This Weekend\'s Picks</h2><span class="badge today">CURATED</span></div>' +
-          active.map(date => buildDateCard(date)).join('');
-      } else {
-        datesList.innerHTML = '<div class="expired-notice"><div class="emoji">💑</div><p>This week\'s dates have passed.<br>New ideas drop every Saturday!</p></div>';
-      }
-    } else {
-      datesList.innerHTML = '<div class="empty-state"><div class="emoji">💑</div><p>No date ideas yet.<br>Check back on Saturdays!</p></div>';
-    }
+    // Date Night tab removed
   }
 
   function formatDayNum(dateStr) {
@@ -584,23 +559,6 @@
     `;
   }
 
-  function buildDateCard(date) {
-    return `
-      <div class="date-card">
-        <div class="emoji">${date.emoji || '💑'}</div>
-        <div class="category">${date.category || 'Date Night'}</div>
-        <div class="title">${date.title}</div>
-        ${date.description ? `<div class="description">${date.description}</div>` : ''}
-        ${date.budget || date.location || date.vibe ? `
-          <div class="details">
-            ${date.budget ? `<div><span>Budget</span><span>${date.budget}</span></div>` : ''}
-            ${date.location ? `<div><span>Location</span><span>${date.location}</span></div>` : ''}
-            ${date.vibe ? `<div><span>Vibe</span><span>${date.vibe}</span></div>` : ''}
-          </div>
-        ` : ''}
-      </div>
-    `;
-  }
 
   function switchTab(tab) {
     document.querySelectorAll('.tab-btn').forEach(function(b){b.classList.remove('active');});
