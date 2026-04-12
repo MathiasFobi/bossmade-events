@@ -569,18 +569,36 @@
   function buildEventCard(ev, isToday) {
     const img = ev.image ? `<img class="card-img" src="${ev.image}" alt="${ev.title}" loading="lazy">` : '';
     const searchText = (ev.title + ' ' + (ev.description||'') + ' ' + (ev.location||'')).toLowerCase();
+    const saved = (window._savedIds||[]).includes(ev.title);
+    const ticketBtn = ev.ticketUrl ? `<a class="card-btn ticket-btn" href="${ev.ticketUrl}" target="_blank" rel="noopener">&#127881; Tickets</a>` : '';
+    const priceLbl = ev.priceLevel ? `<span class="price-badge">${ev.priceLevel}</span>` : '';
+    const ageLbl = (ev.ageRating && ev.ageRating !== 'All Ages') ? `<span class="age-badge">${ev.ageRating}</span>` : '';
+    const soldBadge = ev.soldOut ? `<span style="background:#dc2626;color:white;font-size:0.68rem;padding:0.15rem 0.45rem;border-radius:5px;margin-right:0.4rem;font-weight:600;">&#10060; Sold Out</span>` : (ev.ticketsRemaining && ev.ticketsRemaining < 20 ? `<span style="background:#f59e0b;color:white;font-size:0.68rem;padding:0.15rem 0.45rem;border-radius:5px;margin-right:0.4rem;font-weight:600;">&#127881; Few Left!</span>` : '');
+    const venueLbl = ev.venueNotes ? `<div style="font-size:0.78rem;color:var(--muted);margin:0.2rem 0.5rem 0 0;">&#8505;&#65039; ${ev.venueNotes}</div>` : '';
     return `
       <div class="event-card${isToday ? ' today-card' : ''}" data-id="${ev.title.replace(/"/g,'')}" data-cat="${(ev.category||'').toLowerCase()}" data-search="${searchText.replace(/"/g,'')}" data-day="${formatDayNum(ev.date)}">
         ${img}
+        ${soldBadge}
+        ${ev.category ? `<span class="tag">${ev.category}</span>` : ''}
+        ${ageLbl}
         <div class="title">${ev.title}</div>
         <div class="meta">
-          ${ev.date ? `<span>📅 ${ev.date}</span>` : ''}
-          ${ev.time ? `<span>🕐 ${ev.time}</span>` : ''}
-          ${ev.location ? `<span>📍 ${ev.location}</span>` : ''}
-          ${ev.price ? `<span>💰 ${ev.price}</span>` : ''}
+          ${ev.date ? `<span>&#128197; ${ev.date}</span>` : ''}
+          ${ev.time ? `<span>&#128337; ${ev.time}</span>` : ''}
+          ${ev.location ? `<span>&#128205; ${ev.location}</span>` : ''}
+          ${ev.price ? `<span>&#129382; ${ev.price}</span>` : ''}
+          ${priceLbl}
         </div>
+        ${venueLbl}
         ${ev.description ? `<div class="description">${ev.description}</div>` : ''}
-        ${ev.category ? `<span class="tag">${ev.category}</span>` : ''}
+        <div class="card-actions">
+          <button class="card-btn ${saved ? 'saved' : ''}" onclick="toggleSave(this,'${ev.title.replace(/'/g,"\'")}')">${saved ? '♥' : '♡'} Save</button>
+          ${ticketBtn}
+          <a class="card-btn" href="https://twitter.com/intent/tweet?text=${encodeURIComponent(ev.title)}&url=${encodeURIComponent(window.location.href)}" target="_blank" rel="noopener">&#119888;</a>
+          <button class="card-btn" onclick="copyLink('${encodeURIComponent(ev.title)}')">&#128203;</button>
+          <button class="card-btn" onclick="shareWhatsApp('${encodeURIComponent(ev.title)}')">&#128241;</button>
+          <button class="card-btn" onclick="downloadICS('${(ev.title||'').replace(/'/g,"\'")}','${ev.date||''}','${(ev.time||'').replace(/'/g,"\'")}','${(ev.location||'').replace(/'/g,"\'")}')">&#128197;</button>
+        </div>
       </div>
     `;
   }
