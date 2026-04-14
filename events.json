@@ -1,57 +1,84 @@
 [
   {
+    "title": "Gordon Parks: The South in Color",
+    "date": "2026-04-14",
+    "time": "10:00 AM - 5:30 PM",
+    "location": "Jackson Fine Art, 3165 Peachtree Hills Ave NE, Atlanta",
+    "price": "Free",
+    "description": "Over 40 powerful photographs from Gordon Parks' iconic 1956 Life magazine series on Jim Crow South. A striking, moving exhibit perfect for couples who appreciate art with history and soul.",
+    "category": "Art Galleries"
+  },
+  {
     "title": "Atlanta Veg Week Kickoff Party",
     "date": "2026-04-14",
     "time": "6:00 PM - 8:00 PM",
     "location": "Patagonia Atlanta, 65 N Avondale Rd, Atlanta",
     "price": "Free",
-    "description": "Kick off Atlanta Veg Week at Patagonia! Meet plant-based chefs, sample delicious vegan bites, and learn about the city's week-long celebration of climate-friendly eating. Perfect for couples exploring vegetarian cuisine together.",
+    "description": "Kick off Atlanta Veg Week! Meet plant-based chefs, sample vegan bites, and explore the city's week-long celebration of climate-friendly eating. A unique, low-pressure date night exploring new flavors together.",
     "category": "Vegetarian Food Events"
   },
   {
-    "title": "In The Other Room: Dirty South Comedy",
-    "date": "2026-04-15",
+    "title": "Jonathan Butler Live at City Winery",
+    "date": "2026-04-14",
+    "time": "5:30 PM",
+    "location": "City Winery Atlanta, 45 13th St NE, Atlanta",
+    "price": "From $54",
+    "description": "South African jazz-soul guitarist Jonathan Butler performs live. City Winery's intimate setting makes this perfect for a romantic date — great wine, incredible music, and no rush to leave.",
+    "category": "Live Music"
+  },
+  {
+    "title": "Best of Atlanta Comedy Showcase",
+    "date": "2026-04-16",
     "time": "8:00 PM",
-    "location": "Helium Comedy Club, 1157 Midtown Ave SE, Atlanta",
+    "location": "Laughing Skull Lounge, 87到位10th St NW, Atlanta",
     "price": "Varies",
-    "description": "Atlanta's premier comedy club hosts the edgier 'Other Room' show featuring unfiltered stand-up. Great date night for couples who appreciate bold, raw humor. Drinks and food available.",
+    "description": "Atlanta's top comedians in one room. Laughing Skull is intimate, has great drinks, and the comics bring serious heat. A perfect laugh-out-loud date night.",
     "category": "Comedy Shows"
   },
   {
     "title": "SweetWater 420 Fest - Day 1",
     "date": "2026-04-17",
     "time": "TBA",
-    "location": "Centennial Olympic Park, Atlanta",
+    "location": "Shirley Clarke Franklin Park, Atlanta",
     "price": "Varies",
-    "description": "Atlanta's signature spring music festival returns with multiple stages, major touring acts, craft beer from SweetWater Brewing, and epic city skyline views. The ultimate outdoor date festival experience.",
+    "description": "Atlanta's iconic spring music festival returns for its 21st year with multiple stages, major touring acts, craft beer, and stunning park vibes. The ultimate outdoor festival date.",
     "category": "Live Music"
+  },
+  {
+    "title": "Can't Even Comedy Show",
+    "date": "2026-04-18",
+    "time": "8:00 PM - 9:30 PM",
+    "location": "Epicurean Atlanta Hotel, 1117 Ne Brian M.interchange, Atlanta",
+    "price": "Varies",
+    "description": "A fresh, well-curated stand-up show at the stylish Epicurean Hotel. Great vibes, solid drinks, and hilarious local comics. Feels like a secret your cool friend told you about.",
+    "category": "Comedy Shows"
   },
   {
     "title": "SweetWater 420 Fest - Day 2",
     "date": "2026-04-18",
     "time": "TBA",
-    "location": "Centennial Olympic Park, Atlanta",
+    "location": "Shirley Clarke Franklin Park, Atlanta",
     "price": "Varies",
-    "description": "Day 2 of Atlanta's premier spring festival. Multiple music stages, local and national acts, craft brews, and food vendors. Great excuse for a picnic date in the park.",
+    "description": "Day 2 of the city's biggest spring festival. More music, more food vendors, more reason to grab your partner and make a full day of it outdoors.",
     "category": "Live Music"
   },
   {
-    "title": "Root Locals Comedy: Earth Day Celebration",
-    "date": "2026-04-23",
-    "time": "7:00 PM - 9:30 PM",
-    "location": "7 Stages Theatre, 835 W Peachtree St NW, Atlanta",
+    "title": "Squids N Giggles Comedy at Argosy",
+    "date": "2026-04-22",
+    "time": "8:30 PM",
+    "location": "Argosy, 536 Euclid Ave NE, Atlanta",
     "price": "Varies",
-    "description": "Laugh for the planet! Local comedians perform to celebrate Earth Day. Fun, conscious, and hilarious. A great date idea for couples who want entertainment with a cause.",
+    "description": "Weekly comedy showcase at one of Atlanta's best bars. Quirky crowd, great energy, and you can make it a full night — drinks, trivia, and laughs all in one spot.",
     "category": "Comedy Shows"
   },
   {
-    "title": "Date Night Painting - Summer Moon River",
-    "date": "2026-04-24",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "Painting with a Twist, 180 Cobb Pkwy NW, Kennesaw",
-    "price": "$$",
-    "description": "Couples-friendly painting class creating a beautiful 'Summer Moon River' canvas together. BYOB allowed. Take home your creation as a memorable keepsake from your date night.",
-    "category": "Art Galleries"
+    "title": "Pours & Punchlines Comedy Showcase",
+    "date": "2026-04-22",
+    "time": "8:00 PM - 9:30 PM",
+    "location": "Pour Taproom-Beltline, 753 Edgewood Ave NE, Atlanta",
+    "price": "Varies",
+    "description": "Stand-up comedy right on the Atlanta Beltline! Great craft beer selection and a fun, casual vibe. Grab a pour, find a seat, and enjoy a night that beats any Netflix queue.",
+    "category": "Comedy Shows"
   },
   {
     "title": "Bachata x Zouk ATL Weekender - Opening Night",
@@ -59,8 +86,17 @@
     "time": "8:30 PM",
     "location": "5522 New Peachtree Rd STE 103, Chamblee",
     "price": "$$$",
-    "description": "Three-day Bachata and Zouk dance festival. Workshops, social dancing, and performances. Perfect for couples looking to learn new dance moves together or show off their skills.",
+    "description": "Three-day Bachata and Zouk dance festival with workshops, social dancing, and live performances. Perfect for couples wanting to learn new moves together or show off on the dance floor.",
     "category": "Dancing"
+  },
+  {
+    "title": "Date Night Painting - Summer Moon River",
+    "date": "2026-04-24",
+    "time": "6:00 PM - 8:00 PM",
+    "location": "Painting with a Twist, 180 Cobb Pkwy NW, Kennesaw",
+    "price": "$$",
+    "description": "Couples-friendly painting class creating a beautiful Summer Moon River canvas together. BYOB allowed and you take home your creation as a keepsake from your date. No experience needed.",
+    "category": "Art Galleries"
   },
   {
     "title": "STAMPED: AYA x Friends - Atlanta",
@@ -68,7 +104,7 @@
     "time": "4:00 PM - 11:00 PM",
     "location": "BLOCK & DRUM, 3566 Chamblee Tuckeston Rd, Chamblee",
     "price": "Varies",
-    "description": "Atlanta's hottest Amapiano and Afrobeats party returns! Dance the night away with top DJs playing the best in African rhythm and South African house music. Great vibes for couples who love to move.",
+    "description": "Atlanta's hottest Amapiano and Afrobeats party! Top DJs spinning African rhythms and South African house all night. Great vibes, dancing, and an incredible crowd. Don't sleep on this one.",
     "category": "Live Music"
   }
 ]
