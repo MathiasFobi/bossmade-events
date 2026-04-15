@@ -1,110 +1,128 @@
 [
   {
-    "title": "Gordon Parks: The South in Color",
-    "date": "2026-04-14",
-    "time": "10:00 AM - 5:30 PM",
-    "location": "Jackson Fine Art, 3165 Peachtree Hills Ave NE, Atlanta",
-    "price": "Free",
-    "description": "Over 40 powerful photographs from Gordon Parks' iconic 1956 Life magazine series on Jim Crow South. A striking, moving exhibit perfect for couples who appreciate art with history and soul.",
-    "category": "Art Galleries"
-  },
-  {
-    "title": "Atlanta Veg Week Kickoff Party",
-    "date": "2026-04-14",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "Patagonia Atlanta, 65 N Avondale Rd, Atlanta",
-    "price": "Free",
-    "description": "Kick off Atlanta Veg Week! Meet plant-based chefs, sample vegan bites, and explore the city's week-long celebration of climate-friendly eating. A unique, low-pressure date night exploring new flavors together.",
-    "category": "Vegetarian Food Events"
-  },
-  {
-    "title": "Jonathan Butler Live at City Winery",
-    "date": "2026-04-14",
-    "time": "5:30 PM",
-    "location": "City Winery Atlanta, 45 13th St NE, Atlanta",
-    "price": "From $54",
-    "description": "South African jazz-soul guitarist Jonathan Butler performs live. City Winery's intimate setting makes this perfect for a romantic date — great wine, incredible music, and no rush to leave.",
-    "category": "Live Music"
-  },
-  {
-    "title": "Best of Atlanta Comedy Showcase",
-    "date": "2026-04-16",
+    "title": "ADULT. with Plaque, Nightmare - Live at The EARL",
+    "date": "2026-04-15",
     "time": "8:00 PM",
-    "location": "Laughing Skull Lounge, 87到位10th St NW, Atlanta",
-    "price": "Varies",
-    "description": "Atlanta's top comedians in one room. Laughing Skull is intimate, has great drinks, and the comics bring serious heat. A perfect laugh-out-loud date night.",
-    "category": "Comedy Shows"
+    "location": "The EARL, 488 Flat Shoals Ave SE, Atlanta, GA 30316",
+    "price": "Free / Donate",
+    "description": "Post-punk/new wave duo ADULT. brings their driving rhythms and anxious electronic textures to The EARL. A great intro to live music for couples who like something darker and more atmospheric.",
+    "category": "live music"
+  },
+  {
+    "title": "Poetry vs. Hip-Hop Live Show - National Poetry Month Tour",
+    "date": "2026-04-15",
+    "time": "6:30 PM",
+    "location": "City Winery Atlanta, 650 North Ave NE, Atlanta, GA 30308",
+    "price": "From $42",
+    "description": "Queen Sheba, Malik Yusef and Jessica Care Moore perform. Intimate venue, wine, spoken word meets hip-hop. Sophisticated date night energy.",
+    "category": "live music"
+  },
+  {
+    "title": "Open Studios at Atlanta Contemporary",
+    "date": "2026-04-16",
+    "time": "6:00 PM - 9:00 PM",
+    "location": "Atlanta Contemporary, 724 Peachtree St NE, Atlanta, GA 30308",
+    "price": "Free",
+    "description": "Walk through working artist studios, meet creatives, explore the space. Great low-pressure cultural date that's also free.",
+    "category": "art galleries"
   },
   {
     "title": "SweetWater 420 Fest - Day 1",
     "date": "2026-04-17",
-    "time": "TBA",
-    "location": "Shirley Clarke Franklin Park, Atlanta",
-    "price": "Varies",
-    "description": "Atlanta's iconic spring music festival returns for its 21st year with multiple stages, major touring acts, craft beer, and stunning park vibes. The ultimate outdoor festival date.",
-    "category": "Live Music"
-  },
-  {
-    "title": "Can't Even Comedy Show",
-    "date": "2026-04-18",
-    "time": "8:00 PM - 9:30 PM",
-    "location": "Epicurean Atlanta Hotel, 1117 Ne Brian M.interchange, Atlanta",
-    "price": "Varies",
-    "description": "A fresh, well-curated stand-up show at the stylish Epicurean Hotel. Great vibes, solid drinks, and hilarious local comics. Feels like a secret your cool friend told you about.",
-    "category": "Comedy Shows"
+    "time": " Gates 4 PM",
+    "location": "Shirley Clarke Franklin Park, Atlanta, GA",
+    "price": "From $40",
+    "description": "Atlanta's iconic spring festival moves to new park venue. Headliners: Umphrey's McGee + Thievery Corporation. Craft brews, skyline views, great vibes. Perfect for couples who love outdoor festivals.",
+    "category": "live music"
   },
   {
     "title": "SweetWater 420 Fest - Day 2",
     "date": "2026-04-18",
-    "time": "TBA",
-    "location": "Shirley Clarke Franklin Park, Atlanta",
-    "price": "Varies",
-    "description": "Day 2 of the city's biggest spring festival. More music, more food vendors, more reason to grab your partner and make a full day of it outdoors.",
-    "category": "Live Music"
+    "time": "Gates 12 PM",
+    "location": "Shirley Clarke Franklin Park, Atlanta, GA",
+    "price": "From $40",
+    "description": "Day 2 of the fest with lespecial, The Moss, Sneezy and more. Outdoor dancing, food vendors, relaxed atmosphere. Great spring date under the open sky.",
+    "category": "live music"
   },
   {
-    "title": "Squids N Giggles Comedy at Argosy",
-    "date": "2026-04-22",
-    "time": "8:30 PM",
-    "location": "Argosy, 536 Euclid Ave NE, Atlanta",
+    "title": "Helium Presents: John Caparulo",
+    "date": "2026-04-18",
+    "time": "6:00 PM & 10:30 PM",
+    "location": "Helium Comedy Club, 4930 Old National Hwy #4, College Park, GA 30337",
     "price": "Varies",
-    "description": "Weekly comedy showcase at one of Atlanta's best bars. Quirky crowd, great energy, and you can make it a full night — drinks, trivia, and laughs all in one spot.",
-    "category": "Comedy Shows"
+    "description": "Sharp-witted stand-up from the 'Mad Max' comedian. Helium has great drinks and appetizers. Low-key funny date night.",
+    "category": "comedy shows"
   },
   {
-    "title": "Pours & Punchlines Comedy Showcase",
+    "title": "\"15 MINUTES\" Opening Reception at Gallery Anderson Smith",
+    "date": "2026-04-18",
+    "time": "7:00 PM - 10:00 PM",
+    "location": "1401 Peachtree St NE, Ste. A200, Atlanta, GA 30309",
+    "price": "Free",
+    "description": "Contemporary art exhibit opening with wine and light bites. Submission-based show with rotating themes. Sophisticated, Instagram-worthy art date.",
+    "category": "art galleries"
+  },
+  {
+    "title": "Atlanta Contemporary Open Studios",
+    "date": "2026-04-16",
+    "time": "6:00 PM - 9:00 PM",
+    "location": "Atlanta Contemporary Art Center, 724 Peachtree St NE, Atlanta, GA 30308",
+    "price": "Free",
+    "description": "Tour working artist studios, meet working creatives, explore installations. Low-pressure cultural date.",
+    "category": "art galleries"
+  },
+  {
+    "title": "Pours & Punchlines | Stand-Up Comedy Showcase",
     "date": "2026-04-22",
     "time": "8:00 PM - 9:30 PM",
-    "location": "Pour Taproom-Beltline, 753 Edgewood Ave NE, Atlanta",
+    "location": "Pour Taproom-Beltline, Atlanta, GA",
     "price": "Varies",
-    "description": "Stand-up comedy right on the Atlanta Beltline! Great craft beer selection and a fun, casual vibe. Grab a pour, find a seat, and enjoy a night that beats any Netflix queue.",
-    "category": "Comedy Shows"
+    "description": "Comedy show + drinks at the Beltline's favorite taproom. Local comics, solid craft beers. Casual, fun, low-key date vibe.",
+    "category": "comedy shows"
   },
   {
-    "title": "Bachata x Zouk ATL Weekender - Opening Night",
-    "date": "2026-04-24",
+    "title": "Fantastic Cat with Duuuuse",
+    "date": "2026-04-22",
+    "time": "8:00 PM",
+    "location": "TBA venue Atlanta",
+    "price": "$47-$55",
+    "description": "Indie rock quartet known for hooky songs and theatrical live shows. Great pick for couples into discovery-type music dates.",
+    "category": "live music"
+  },
+  {
+    "title": "King Tuff at TBA",
+    "date": "2026-04-22",
     "time": "8:30 PM",
-    "location": "5522 New Peachtree Rd STE 103, Chamblee",
-    "price": "$$$",
-    "description": "Three-day Bachata and Zouk dance festival with workshops, social dancing, and live performances. Perfect for couples wanting to learn new moves together or show off on the dance floor.",
-    "category": "Dancing"
+    "location": "TBA Atlanta venue",
+    "price": "$25-$28",
+    "description": "Psychedelic rock and roll from Kyle Thomas. Catchy, colorful, fun live show. Affordable and energetic.",
+    "category": "live music"
   },
   {
-    "title": "Date Night Painting - Summer Moon River",
-    "date": "2026-04-24",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "Painting with a Twist, 180 Cobb Pkwy NW, Kennesaw",
-    "price": "$$",
-    "description": "Couples-friendly painting class creating a beautiful Summer Moon River canvas together. BYOB allowed and you take home your creation as a keepsake from your date. No experience needed.",
-    "category": "Art Galleries"
-  },
-  {
-    "title": "STAMPED: AYA x Friends - Atlanta",
+    "title": "STAMPED: AYA x Friends - Amapiano, Afrobeats & More",
     "date": "2026-04-26",
     "time": "4:00 PM - 11:00 PM",
-    "location": "BLOCK & DRUM, 3566 Chamblee Tuckeston Rd, Chamblee",
+    "location": "Block & Drum, Chamblee, GA",
     "price": "Varies",
-    "description": "Atlanta's hottest Amapiano and Afrobeats party! Top DJs spinning African rhythms and South African house all night. Great vibes, dancing, and an incredible crowd. Don't sleep on this one.",
-    "category": "Live Music"
+    "description": "Atlanta's hottest Afrobeat/Amapiano party. Dancing, vibes, good crowd. Perfect for couples who love to dance and enjoy global Black music.",
+    "category": "Afrobeat/reggae"
+  },
+  {
+    "title": "Atlanta Veg Week - Various Partner Restaurants",
+    "date": "2026-04-14-20 (ongoing)",
+    "time": "Varies by venue",
+    "location": "Multiple Atlanta restaurants",
+    "price": "Menu pricing varies",
+    "description": "Citywide celebration of plant-based eating. Dozens of restaurants offer special vegan menus. Great opportunity to explore new vegetarian spots together.",
+    "category": "vegetarian food events"
+  },
+  {
+    "title": "Open Mic Night at Helium Comedy Club",
+    "date": "2026-04-15",
+    "time": "8:00 PM",
+    "location": "Helium Comedy Club, 4930 Old National Hwy #4, College Park, GA",
+    "price": "Free / Low cost",
+    "description": "Discover rising local comedians. Cheap drinks, casual atmosphere. Spontaneous and fun for couples who like to laugh.",
+    "category": "comedy shows"
   }
 ]
