@@ -1,15 +1,6 @@
 {
-  "generated": "2026-04-15T14:00:00Z",
-  "source": "Atlanta Event Finder Cron",
-  "location": "Atlanta, GA",
-  "dateRange": "April 15-29, 2026",
-  "categories": [
-    "Live Music",
-    "Art Galleries",
-    "Vegetarian Food Events",
-    "Comedy Shows",
-    "Afrobeat/Reggae",
-    "Dancing"
-  ],
-  "eventCount": 14
+  "generated": "2026-04-16T14:00:00Z",
+  "source": "Atlanta Event Finder cron",
+  "focus": "couples, live music, Afrobeat/reggae, art galleries, vegetarian food events, comedy shows, dancing, date ideas",
+  "range": "April 16-30, 2026"
 }

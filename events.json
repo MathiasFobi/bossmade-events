@@ -1,38 +1,38 @@
 [
   {
-    "title": "ADULT. with Plaque, Nightmare - Live at The EARL",
-    "date": "2026-04-15",
-    "time": "8:00 PM",
-    "location": "The EARL, 488 Flat Shoals Ave SE, Atlanta, GA 30316",
-    "price": "Free / Donate",
-    "description": "Post-punk/new wave duo ADULT. brings their driving rhythms and anxious electronic textures to The EARL. A great intro to live music for couples who like something darker and more atmospheric.",
-    "category": "live music"
-  },
-  {
-    "title": "Poetry vs. Hip-Hop Live Show - National Poetry Month Tour",
-    "date": "2026-04-15",
-    "time": "6:30 PM",
-    "location": "City Winery Atlanta, 650 North Ave NE, Atlanta, GA 30308",
-    "price": "From $42",
-    "description": "Queen Sheba, Malik Yusef and Jessica Care Moore perform. Intimate venue, wine, spoken word meets hip-hop. Sophisticated date night energy.",
-    "category": "live music"
-  },
-  {
     "title": "Open Studios at Atlanta Contemporary",
     "date": "2026-04-16",
     "time": "6:00 PM - 9:00 PM",
     "location": "Atlanta Contemporary, 724 Peachtree St NE, Atlanta, GA 30308",
     "price": "Free",
-    "description": "Walk through working artist studios, meet creatives, explore the space. Great low-pressure cultural date that's also free.",
+    "description": "Walk through working artist studios, meet creatives, explore installations. Low-pressure cultural date with wine and good energy.",
+    "category": "art galleries"
+  },
+  {
+    "title": "Atlanta Contemporary Open Studios",
+    "date": "2026-04-16",
+    "time": "6:00 PM - 9:00 PM",
+    "location": "Atlanta Contemporary Art Center, 724 Peachtree St NE, Atlanta, GA 30308",
+    "price": "Free",
+    "description": "Tour working artist studios, meet the creatives behind the art, explore cutting-edge installations. Intimate and free — perfect for couples who love culture.",
     "category": "art galleries"
   },
   {
     "title": "SweetWater 420 Fest - Day 1",
     "date": "2026-04-17",
-    "time": " Gates 4 PM",
+    "time": "Gates 4 PM",
     "location": "Shirley Clarke Franklin Park, Atlanta, GA",
     "price": "From $40",
-    "description": "Atlanta's iconic spring festival moves to new park venue. Headliners: Umphrey's McGee + Thievery Corporation. Craft brews, skyline views, great vibes. Perfect for couples who love outdoor festivals.",
+    "description": "Atlanta's iconic spring festival at its new park home. Headliners: Umphrey's McGee + Thievery Corporation. Craft brews, skyline views, outdoor dancing. Great for couples who love outdoor festivals.",
+    "category": "live music"
+  },
+  {
+    "title": "BLUME... The Spring Rooftop Affair",
+    "date": "2026-04-18",
+    "time": "4:00 PM - 10:00 PM",
+    "location": "Grand Hyatt Atlanta Rooftop Terrace, 3300 Peachtree Rd NE, Buckhead",
+    "price": "$12 - $162",
+    "description": "Upscale rooftop soirée with premium cocktails, classy crowd, and refined vibes. Spring attire encouraged. Perfect for couples who want an elegant date with skyline views and great energy.",
     "category": "live music"
   },
   {
@@ -41,7 +41,7 @@
     "time": "Gates 12 PM",
     "location": "Shirley Clarke Franklin Park, Atlanta, GA",
     "price": "From $40",
-    "description": "Day 2 of the fest with lespecial, The Moss, Sneezy and more. Outdoor dancing, food vendors, relaxed atmosphere. Great spring date under the open sky.",
+    "description": "Day 2 with lespecial, The Moss, Sneezy and more. Outdoor dancing, food vendors, relaxed spring atmosphere. Great date under the open sky with live music and food.",
     "category": "live music"
   },
   {
@@ -50,7 +50,7 @@
     "time": "6:00 PM & 10:30 PM",
     "location": "Helium Comedy Club, 4930 Old National Hwy #4, College Park, GA 30337",
     "price": "Varies",
-    "description": "Sharp-witted stand-up from the 'Mad Max' comedian. Helium has great drinks and appetizers. Low-key funny date night.",
+    "description": "Sharp-witted stand-up from the 'Mad Max' comedian. Helium has great drinks and appetizers. Low-key, funny date night with good food and laughs.",
     "category": "comedy shows"
   },
   {
@@ -63,13 +63,22 @@
     "category": "art galleries"
   },
   {
-    "title": "Atlanta Contemporary Open Studios",
-    "date": "2026-04-16",
-    "time": "6:00 PM - 9:00 PM",
-    "location": "Atlanta Contemporary Art Center, 724 Peachtree St NE, Atlanta, GA 30308",
-    "price": "Free",
-    "description": "Tour working artist studios, meet working creatives, explore installations. Low-pressure cultural date.",
-    "category": "art galleries"
+    "title": "Mimosa Fest Live! at The Battery",
+    "date": "2026-04-18",
+    "time": "2:00 PM",
+    "location": "Live! at The Battery, 260 Peachtree Rd NE, Atlanta, GA",
+    "price": "Free entry",
+    "description": "Day party with live DJ, mimosa samplings, outdoor games, and local vendors. Perfect for couples who want a fun, lively daytime date with day-drinking vibes and good music.",
+    "category": "live music"
+  },
+  {
+    "title": "In The Other Room: Dirty South Comedy at Helium",
+    "date": "2026-04-19",
+    "time": "8:00 PM",
+    "location": "Helium Comedy Club, 4930 Old National Hwy #4, College Park, GA",
+    "price": "Varies",
+    "description": "Atlanta's filthiest comedians hit the stage for a no-holds-barred show. Great drinks, loud laughs, no-filter humor. For couples who don't mind getting a little dirty.",
+    "category": "comedy shows"
   },
   {
     "title": "Pours & Punchlines | Stand-Up Comedy Showcase",
@@ -84,19 +93,28 @@
     "title": "Fantastic Cat with Duuuuse",
     "date": "2026-04-22",
     "time": "8:00 PM",
-    "location": "TBA venue Atlanta",
+    "location": "TBA Atlanta venue",
     "price": "$47-$55",
     "description": "Indie rock quartet known for hooky songs and theatrical live shows. Great pick for couples into discovery-type music dates.",
     "category": "live music"
   },
   {
-    "title": "King Tuff at TBA",
+    "title": "King Tuff",
     "date": "2026-04-22",
     "time": "8:30 PM",
     "location": "TBA Atlanta venue",
     "price": "$25-$28",
-    "description": "Psychedelic rock and roll from Kyle Thomas. Catchy, colorful, fun live show. Affordable and energetic.",
+    "description": "Psychedelic rock and roll from Kyle Thomas. Catchy, colorful, fun live show. Affordable and energetic date night for music lovers.",
     "category": "live music"
+  },
+  {
+    "title": "Roaring 20s Latin Night @ Brimstone Tavern",
+    "date": "2026-04-24",
+    "time": "8:00 PM",
+    "location": "Brimstone Tavern, Alpharetta, GA",
+    "price": "Varies",
+    "description": "Salsa ATL brings Latin dancing energy to Alpharetta. Roaring 20s theme adds flair. Dancing, good music, great date night for couples who want to move.",
+    "category": "dancing"
   },
   {
     "title": "STAMPED: AYA x Friends - Amapiano, Afrobeats & More",
@@ -108,21 +126,12 @@
     "category": "Afrobeat/reggae"
   },
   {
-    "title": "Atlanta Veg Week - Various Partner Restaurants",
-    "date": "2026-04-14-20 (ongoing)",
-    "time": "Varies by venue",
-    "location": "Multiple Atlanta restaurants",
-    "price": "Menu pricing varies",
-    "description": "Citywide celebration of plant-based eating. Dozens of restaurants offer special vegan menus. Great opportunity to explore new vegetarian spots together.",
-    "category": "vegetarian food events"
-  },
-  {
-    "title": "Open Mic Night at Helium Comedy Club",
-    "date": "2026-04-15",
-    "time": "8:00 PM",
-    "location": "Helium Comedy Club, 4930 Old National Hwy #4, College Park, GA",
-    "price": "Free / Low cost",
-    "description": "Discover rising local comedians. Cheap drinks, casual atmosphere. Spontaneous and fun for couples who like to laugh.",
-    "category": "comedy shows"
+    "title": "Atlanta Contemporary - Sunday Studio Sessions",
+    "date": "2026-04-26",
+    "time": "2:00 PM - 5:00 PM",
+    "location": "Atlanta Contemporary, 724 Peachtree St NE, Atlanta, GA",
+    "price": "Free",
+    "description": "Free afternoon at Atlanta Contemporary with optional art-making activities. Great for couples who want a chill cultural afternoon without breaking the bank.",
+    "category": "art galleries"
   }
 ]
