@@ -1,146 +1,110 @@
 [
   {
-    "title": "Cimafunk at SweetWater 420 Fest",
-    "date": "2026-04-17",
-    "time": "1:00 PM - 10:00 PM",
-    "location": "Georgia World Congress Center, Atlanta, GA",
-    "price": "$$-$$$",
-    "description": "Atlanta's premier 420 Fest featuring Cimafunk - the Cuban-American funk sensation. High-energy live music, food trucks, vendors. Great vibes for couples who love live funk and good times.",
-    "category": "live-music"
-  },
-  {
-    "title": "AfroBashment Fridays",
-    "date": "2026-04-17",
-    "time": "10:00 PM - 2:00 AM",
-    "location": "LUX CAFE Atlanta, GA",
-    "price": "$",
-    "description": "Atlanta's hottest Afrobeats and Amapiano night. Expect infectious African rhythms, great dancing, and a stylish crowd. Perfect for couples who love to dance and enjoy vibrant nightlife.",
-    "category": "afrobeats"
-  },
-  {
-    "title": "Best of Atlanta Comedy Showcase",
-    "date": "2026-04-17",
-    "time": "8:00 PM (Doors 7:30 PM)",
-    "location": "Laughing Skull Lounge, Atlanta, GA",
-    "price": "$$",
-    "description": "Top Atlanta comedians in one show. Laughing Skull is intimate, the drinks are good, and the laughs are guaranteed. 21+ only. Great for couples who appreciate dark humor and a good time.",
-    "category": "comedy"
-  },
-  {
-    "title": "Don't Tell Comedy: Brookhaven",
-    "date": "2026-04-17",
-    "time": "8:00 PM - 10:00 PM",
-    "location": "Brookhaven, GA",
-    "price": "$",
-    "description": "Hidden gem comedy show in a casual setting. Surprising lineup and a intimate vibe make this perfect for couples looking for something different and memorable.",
-    "category": "comedy"
+    "title": "SweetWater 420 Fest - Day 2",
+    "date": "April 18, 2026",
+    "time": "1 PM - 11 PM",
+    "location": "Atlanta, GA (Multiple venues)",
+    "price": "$47 general, higher for VIP",
+    "description": "Atlanta's beloved annual music festival returns for its 21st year! Day 2 features headliners Umphrey's McGee, Thievery Corporation, and Chromeo. Great for couples who love live music, craft beer, and a festival atmosphere. Multiple stages with diverse acts including Cimafunk. Perfect for a full day date - grab food, drinks, and dance together.",
+    "category": "live music"
   },
   {
     "title": "Can't Even Comedy Show",
-    "date": "2026-04-18",
-    "time": "8:00 PM - 9:30 PM",
-    "location": "Epicurean Atlanta, Autograph Collection, GA",
-    "price": "$$",
-    "description": "Hip comedy show at the stylish Epicurean Hotel. Upscale setting with great cocktails and laughs. Perfect for a date that balances fun and sophistication.",
+    "date": "April 18, 2026",
+    "time": "8 PM - 9:30 PM",
+    "location": "Epicurean Atlanta, Autograph Collection",
+    "price": "Tickets available on Eventbrite",
+    "description": "Stand-up comedy show at one of Atlanta's trendy boutique hotels. Perfect for a date night - grab dinner at the hotel restaurant before or after the show. Intimate setting ideal for couples who love to laugh together. Beer, wine, and cocktails available.",
     "category": "comedy"
   },
   {
-    "title": "Best of Atlanta Comedy Showcase (Saturday)",
-    "date": "2026-04-18",
-    "time": "8:00 PM (Doors 7:30 PM)",
-    "location": "Laughing Skull Lounge, Atlanta, GA",
-    "price": "$$",
-    "description": "Saturday night comedy at its finest. Atlanta's best comics deliver a killer show. Great for couples - laugh together and you're guaranteed a good connection.",
+    "title": "Helium Comedy Club - John Caparulo",
+    "date": "April 18, 2026",
+    "time": "6 PM & 8:30 PM shows",
+    "location": "Helium Comedy Club, Atlanta",
+    "price": "Around $20-25 per person",
+    "description": "Atlanta's premier comedy club hosting veteran stand-up John Caparulo. Two showtimes available - catch the early or late show. Full bar service, appetizer menu. Great low-key date idea - close seating encourages conversation, and laughing together is proven to increase attraction!",
     "category": "comedy"
   },
   {
-    "title": "A Live Response to Unbound Narratives",
-    "date": "2026-04-18",
-    "time": "12:00 PM - 2:00 PM",
-    "location": "Atlanta Contemporary, Atlanta, GA",
-    "price": "Free",
-    "description": "Spelman College Department of Dance performance exploring embodied language through dance. Intellectually stimulating and visually stunning. Perfect cultural date that sparks conversation.",
-    "category": "art"
+    "title": "Dueling Pianos at Park Bench",
+    "date": "April 18, 2026",
+    "time": "7:30 PM - 11:30 PM",
+    "location": "The Battery Atlanta, Park Bench",
+    "price": "Free to watch, drinks extra",
+    "description": "Rockin' dueling pianos show - audience requests, sing-alongs, and high energy! Located at The Battery Atlanta, so you can make a full evening of it with dinner at any of the nearby restaurants. Fun, interactive date - no cover charge makes it budget-friendly. Prepare to be dragged up on stage if you're lucky!",
+    "category": "live music"
   },
   {
-    "title": "Electro Sutra Volume 5",
-    "date": "2026-04-18",
-    "time": "10:00 PM - 2:00 AM",
-    "location": "District Atlanta, GA",
-    "price": "$$-$$$",
-    "description": "Atlanta's most immersive electronic music and cultural experience. Fusion of electronic beats with cultural elements. Great energy, beautiful crowd, perfect for couples who love to dance.",
+    "title": "Love is Love Plant Sale at Peachtree Road Farmers Market",
+    "date": "April 18, 2026",
+    "time": "8:30 AM - 12 PM",
+    "location": "Peachtree Road Farmers Market, Atlanta",
+    "price": "Free admission, plants priced individually",
+    "description": "Love is Love Cooperative Farm brings certified organic spring plants. Support local agriculture while picking out something green for your home together. The market also has prepared foods, baked goods, coffee - perfect for a Saturday morning date. Great photo ops among the plants and flowers!",
+    "category": "vegetarian food"
+  },
+  {
+    "title": "Atlanta VegWeek - Week-Long",
+    "date": "April 14-20, 2026",
+    "time": "Various times at participating restaurants",
+    "location": "Multiple restaurants across Atlanta",
+    "price": "Varies by restaurant",
+    "description": "Citywide celebration of plant-powered eating! Multiple Atlanta restaurants offer special vegan/vegetarian menus throughout the week. Great opportunity to try new spots together - browse participating restaurants and make a reservation. More than 30 restaurants involved. Search 'Atlanta VegWeek 2026' for the full list.",
+    "category": "vegetarian food"
+  },
+  {
+    "title": "STAMPED: AYA x Friends - Atlanta",
+    "date": "April 26, 2026",
+    "time": "4 PM - 11 PM (7 hours)",
+    "location": "BLOCK & DRUM, 5105 Peachtree Blvd Building B, Chamblee, GA",
+    "price": "Tickets at door (~$20-30 estimated)",
+    "description": "The #UnapologeticallyAfrican experience returns! Amapiano, Afrobeats, and more with DJ AYA and friends. 7-hour party in a cool Chamblee venue. 21+ event with a strong community vibe. Great for couples who love dancing, African music culture, and energetic nightlife. Parking $20 at venue or free at nearby Walmart/Keswick Park.",
+    "category": "Afrobeats"
+  },
+  {
+    "title": "Roaring 20s Latin Night - Salsa & Bachata",
+    "date": "April 25, 2026",
+    "time": "8 PM - midnight",
+    "location": "Brimstone Tavern, Alpharetta, GA",
+    "price": "Varies, check at door",
+    "description": "Dancing For Fun LLC hosts this retro-styled Latin night featuring Salsa and Bachata. Dress in your 1920s best for extra fun! Two rooms - one Salsa, one Bachata. Beginners welcome - great opportunity for couples to learn a new dance style together. Alpharetta location means parking is usually easy.",
     "category": "dancing"
   },
   {
-    "title": "PR Experience at City Winery Atlanta",
-    "date": "2026-04-17",
-    "time": "8:00 PM",
-    "location": "City Winery Atlanta, GA",
-    "price": "$$",
-    "description": "Jazz duo featuring trumpeter Nelson Render and trombonist Marvin Pryor with 50+ years combined experience. Intimate wine bar setting - perfect for a romantic date over great wine and live jazz.",
-    "category": "live-music"
-  },
-  {
-    "title": "Jazz on the Rooftop - Virtue Rooftop",
-    "date": "2026-04-21",
-    "time": "5:00 PM - 10:00 PM",
-    "location": "Virtue Rooftop, Midtown Atlanta",
-    "price": "$$",
-    "description": "Weekly Tuesday jazz series with stunning city views. Romantic rooftop setting, craft cocktails, and smooth live jazz. A quintessential Atlanta date night experience.",
-    "category": "live-music"
-  },
-  {
-    "title": "Latin Night at Sebastián Pintxos Bar",
-    "date": "2026-04-24",
-    "time": "10:00 PM - 2:00 AM",
-    "location": "Sebastián Pintxos Bar, Atlanta, GA",
-    "price": "Free",
-    "description": "Salsa lesson followed by salsa and bachata social dancing. Free lesson at 10 PM gets you warmed up, then dance the night away. Great for couples wanting to learn to dance together.",
+    "title": "Bachata Class + Latin Night at Tortugas Cuban Grill",
+    "date": "April 27, 2026",
+    "time": "Doors open 7 PM, class 7:30 PM, dancing after",
+    "location": "Tortugas Cuban Grill, Atlanta",
+    "price": "~$15-20 per person",
+    "description": "2-hour Bachata class followed by Latin night dancing. Start with the lesson (no partner needed - they'll rotate you in!), then stay for the party. Tortugas Cuban Grill is a beloved Atlanta institution with great Cuban food and mojitos. Budget-friendly date idea that includes dinner and dancing in one.",
     "category": "dancing"
   },
   {
-    "title": "Havana Club ATL - Latin Night",
-    "date": "2026-04-18",
-    "time": "10:00 PM - 2:00 AM",
-    "location": "Havana Club ATL, Buckhead, GA",
-    "price": "$$",
-    "description": "High-energy Latin nightclub in Buckhead with multiple rooms playing salsa, bachata, merengue, and reggaeton. VIP areas available. Perfect for couples ready to turn up.",
-    "category": "dancing"
+    "title": "Improvability Theory's April Showers You With Laughter",
+    "date": "April 16-30 (runs select dates)",
+    "time": "Check schedule",
+    "location": "Academy Theatre Atlanta",
+    "price": "Varies",
+    "description": "Local improv comedy group performs original interactive shows. Perfect for couples who enjoy spontaneous humor and don't mind the unexpected. More intimate than big comedy clubs - great if you like improvisational theater and supporting local arts.",
+    "category": "comedy"
   },
   {
-    "title": "STAMPED: AYA x Friends - Amapiano & Afrobeats",
-    "date": "2026-04-26",
-    "time": "4:00 PM - 11:00 PM",
-    "location": "BLOCK & DRUM, Chamblee, GA",
-    "price": "$$",
-    "description": "Atlanta's premier Amapiano and Afrobeats party. @MANLIKEAYA and friends deliver an unforgettable afternoon of African rhythms. Outdoor venue, great vibes - perfect for a sundown date.",
-    "category": "afrobeats"
+    "title": "Celestial Perspectives Exhibition",
+    "date": "Through June 21, 2026 (runs April-April)",
+    "time": "Museum hours (Tue-Sat 10 AM-5 PM)",
+    "location": "Marietta Cobb Museum of Art, 30 Atlanta Street SE, Marietta",
+    "price": "$10 general, Members free",
+    "description": "Jess Self's installation-based solo exhibition of hand-woven textile art reimagines the museum as a multi-dimensional portal. The Art Institute describes it as 'a cosmic map and textile labyrinth.' Make a trip of it - see the exhibit, then grab dinner in historic Marietta Square. Great rainy day or evening date option.",
+    "category": "art gallery"
   },
   {
-    "title": "Atlanta Veg Week Kickoff Party",
-    "date": "2026-04-14",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "Patagonia, Atlanta, GA",
+    "title": "ULTRARUIN Photography Exhibition",
+    "date": "Through May 8, 2026",
+    "time": "10 AM - 4 PM daily",
+    "location": "Atlanta Photography Group, Atlanta",
     "price": "Free",
-    "description": "Citywide plant-based celebration kickoff at Patagonia. Meet local vegan chefs, sample food, and enjoy good vibes. Great for health-conscious couples looking to explore new cuisines together.",
-    "category": "vegetarian"
-  },
-  {
-    "title": "Vegan Nights ATL: Taste the City",
-    "date": "2026-04-25",
-    "time": "5:00 PM - 10:00 PM",
-    "location": "2197 Irvindale Way, Chamblee, GA",
-    "price": "$",
-    "description": "Atlanta's ultimate vegan food festival. Multiple vendors, live music, and an amazing community vibe. Perfect for couples - you can share dishes and discover new favorites together.",
-    "category": "vegetarian"
-  },
-  {
-    "title": "Jazz in the Sky - Colony Square",
-    "date": "2026-05-05",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "Colony Square Helipad, Midtown Atlanta",
-    "price": "$$",
-    "description": "Atlanta Jazz Festival presents live jazz on top of Colony Square's helipad with breathtaking skyline views. A unique experience that's perfect for a memorable date night.",
-    "category": "live-music"
+    "description": "Contemporary photography exhibition exploring themes of decay, urban exploration, and the beauty in destruction. Atlanta Photography Group venue. Great for couples interested in visual arts, urban photography, or architecture. Short show - runs only through early May, so catch it soon.",
+    "category": "art gallery"
   }
 ]
