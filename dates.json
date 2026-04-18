@@ -2,31 +2,31 @@
   {
     "emoji": "🎶",
     "category": "live_music",
-    "title": "Soul Train Live Music Cookout at Historic Fourth Ward Park",
-    "description": "Outdoor cookout with live soul, R&B and funk acts. Pack a blanket, grab some BBQ, and soak in the vibes. Great energy, totally free to attend, food vendors on site.",
-    "budget": "Free–$20",
-    "location": "Historic Fourth Ward Park, Atlanta — Sat Apr 11, 2–10 PM",
-    "vibe": "Outdoor, energetic, community cookout energy",
-    "validUntil": "2026-04-12"
+    "title": "ZA Palooza Festival — Live Music & Food",
+    "description": "Third annual ZA Palooza brings together live music, food vendors, and a full day party atmosphere in the heart of Atlanta. Two days of performances — catch Sunday for the prime afternoon/evening slot. Great energy, diverse crowd, and lots of photo ops.",
+    "budget": "Free–$25",
+    "location": "183 Forsyth St SW, Atlanta — Sun Apr 19, 3 PM onwards",
+    "vibe": "Energetic, festival, social — good for couples who love music and street food vibes",
+    "validUntil": "2026-04-20"
   },
   {
-    "emoji": "🎨",
-    "category": "art",
-    "title": "To Be Continued — Juan Miguel Palacios Solo Exhibition + Artist Talk",
-    "description": "Intimate solo exhibition at Luca Fine Art with a live artist talk. Follow it up with a walk through the surrounding Virginia-Highland neighborhood and dinner somewhere nearby.",
-    "budget": "Free–$50",
-    "location": "Luca Fine Art, Atlanta — Sat Apr 11, 6–8 PM (talk starts 6 PM)",
-    "vibe": "Cultural, intimate, sophisticated",
-    "validUntil": "2026-04-12"
+    "emoji": "🌞",
+    "category": "live_music",
+    "title": "The South Got Something To Say — ATL Day Party",
+    "description": "An afternoon day party with live music, good vibes, and Atlanta energy. Runs 2–7 PM so you can make a day of it, then grab dinner after. Dress cute, bring your crew, or keep it intimate for two.",
+    "budget": "$15–$30",
+    "location": "Rock Steady, Atlanta — Sun Apr 19, 2–7 PM",
+    "vibe": "Chill day party, outdoor-friendly, social and fun",
+    "validUntil": "2026-04-20"
   },
   {
-    "emoji": "😂",
-    "category": "comedy",
-    "title": "Ali Wong Live at The Tabernacle",
-    "description": "Hilarious, sharp standup from Ali Wong (Baby Cobra / Hard Knock Wife). The Tabernacle is a gorgeous historic venue in the heart of downtown Atlanta.",
-    "budget": "$55–$90",
-    "location": "The Tabernacle, Atlanta — Sat Apr 11, 7 PM",
-    "vibe": "Funny, intimate, unforgettable",
-    "validUntil": "2026-04-12"
+    "emoji": "🍆",
+    "category": "vegetarian_food",
+    "title": "Lov'n It Live — Raw Vegan Date Night",
+    "description": "No-compromises raw-food vegan restaurant in East Point. Creative nut-based dishes, cold-pressed juices, and an entirely plant-based menu. Unique and memorable — great for a couple who loves food adventures and eating well.",
+    "budget": "$20–$45",
+    "location": "2796 E Point St, East Point — Open Sat & Sun, call ahead for hours (404-765-9220)",
+    "vibe": "Intimate, health-conscious, adventurous eats",
+    "validUntil": "2026-04-20"
   }
 ]
