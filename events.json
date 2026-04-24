@@ -1,48 +1,39 @@
 [
   {
-    "title": "Glenn Hughes - Deep Purple Live",
-    "date": "April 21, 2026",
-    "time": "8:00 PM",
-    "location": "Variety Playhouse, Atlanta",
-    "price": "$35-$70",
-    "description": "Glenn Hughes, the legendary Deep Purple bassist and vocalist, performs live in Atlanta! Perfect date night for rock fans - Variety Playhouse has an intimate atmosphere with great sightlines. Full bar inside, restaurants nearby on Euclid Ave. High energy show with classic rock hits.",
+    "title": "No Tables, No Chairs Parade & Concert",
+    "date": "April 25, 2026",
+    "time": "1:00 PM - 8:00 PM",
+    "location": "Shirley Clarke Franklin Park, Atlanta",
+    "price": "Free",
+    "description": "Mausiki Scales & the Common Ground Collective's iconic funk-filled journey through the rhythms of the African Diaspora. All-day festival with DJs, parade, food vendors, and an evening concert on the meadow. Perfect for couples who love music, culture, and outdoor vibes. Wear your dancing shoes and join the Funk-line parade!",
     "category": "live music"
   },
   {
     "title": "Pours & Punchlines Comedy Showcase",
     "date": "April 22, 2026",
     "time": "8:00 PM - 9:30 PM",
-    "location": "Pour Taproom-Beltline, Atlanta",
-    "price": "Check Eventbrite for tickets",
-    "description": "Stand-up comedy show right on the Atlanta Beltline! Bring your date for drinks and laughs at this intimate taproom. Great for couples who enjoy comedy and craft beer. Limited capacity - grab tickets early. Food available from rotating food trucks.",
+    "location": "Pour Taproom-Beltline, 661 Auburn Ave NE, Atlanta",
+    "price": "$8-$54",
+    "description": "The Beltline's hottest comedy show returns! Atlanta's best comedians (network TV, famous clubs, social media) perform at this intimate taproom. Pay-by-the-oz craft beer (no two-item minimum), plus NY-style pizza from Pizza Dynamo. Great date night for couples who love to laugh.",
     "category": "comedy"
   },
   {
-    "title": "King Tuff / Fantastic Cat Concert",
-    "date": "April 22, 2026",
-    "time": "8:30 PM",
-    "location": "The Earl, Atlanta",
-    "price": "$25-$43",
-    "description": "Two excellent indie rock acts in one night at Atlanta's iconic The Earl bar. King Tuff and Fantastic Cat bring psychedelic rock and garage vibes. Budget-friendly concert date - buy drinks at the bar, enjoy the back patio. Easy parking in Little 5 Points.",
-    "category": "live music"
+    "title": "STAMPED: AYA x Friends - Atlanta",
+    "date": "April 26, 2026",
+    "time": "4:00 PM - 11:00 PM",
+    "location": "BLOCK & DRUM, 5105 Peachtree Blvd Bldg B, Chamblee, GA",
+    "price": "Tickets at door (21+)",
+    "description": "The #UnapologeticallyAfrican experience returns to Atlanta! Amapiano, Afrobeats & more with DJs NANI, POKO, TKRUNDAT, NECII. Seven hours of African music & culture. Free parking at Walmart or Keswick Park (short walk). Great vibes for couples who love to dance and celebrate African music.",
+    "category": "Afrobeat/reggae"
   },
   {
-    "title": "Atlanta miniFEST at Dark Horse Tavern",
-    "date": "April 22, 2026",
-    "time": "5:45 PM - 11:45 PM",
-    "location": "Dark Horse Tavern, 816 N Highland Ave NE, Atlanta",
-    "price": "Free admission",
-    "description": "Multi-band indie music fest on N Highland - catch several acts for free! Make it a bar crawl date along Highland Avenue. Start early, catch the bands, walk to other bars or grab pizza at Amalfi. Great way to discover new music together.",
-    "category": "live music"
-  },
-  {
-    "title": "Best of Atlanta Comedy Showcase",
-    "date": "April 23, 2026",
+    "title": "The Black Keys: PEACHES 'N KREAM",
+    "date": "April 26, 2026",
     "time": "8:00 PM",
-    "location": "Laughing Skull Lounge, Atlanta",
-    "price": "Varies",
-    "description": "Top local comedians in one night at Atlanta's premier comedy dive. 21+ show with full bar. Perfect for couples who love raw, unfiltered comedy. Laughing Skull is intimate - you're close enough to hear every word. Thursday nights are when locals come out.",
-    "category": "comedy"
+    "location": "Tabernacle, Atlanta",
+    "price": "$108+",
+    "description": "Legendary rock duo The Black Keys perform at Atlanta's historic Tabernacle with special guest Miles Kane. Iconic venue with great acoustics and sightlines. Perfect date night for rock fans - tickets are pricy but it's a memorable live music experience. Dress up, make a night of it.",
+    "category": "live music"
   },
   {
     "title": "Bachata X Zouk ATL Weekender 2026",
@@ -50,26 +41,35 @@
     "time": "Friday 8:30 PM - Sunday 8:00 PM",
     "location": "5522 New Peachtree Rd STE 103, Chamblee, GA",
     "price": "$165 full weekend pass",
-    "description": "Three days of Bachata and Zouk dancing! Workshops, social dancing, performances. Great for couples who want to learn or improve their dancing together. Weekend pass gives access to all events. Chamblee has great Cuban and Asian food nearby.",
+    "description": "Three days of Bachata and Zouk dancing! Workshops, socials, performances. Great for couples who want to learn or improve dancing together. Full pass gives access to all events. Chamblee has great Cuban and Asian food nearby. Day passes available.",
     "category": "dancing"
   },
   {
-    "title": "Vegan Nights ATL: Taste the City",
-    "date": "April 25, 2026",
-    "time": "5:00 PM - 10:00 PM",
-    "location": "2197 Irvindale Way, Chamblee, GA",
+    "title": "Atlanta Contemporary - Free Art Exhibitions",
+    "date": "Through May 17, 2026",
+    "time": "Wed-Sun, check website for hours",
+    "location": "Atlanta Contemporary, 724 Peachtree St NE, Atlanta",
+    "price": "Free",
+    "description": "Free admission to world-class contemporary art. Current shows include Brittany Adeline King's 'Dokafleh' and the Johnson Publishing Company Archives 'Rejoice, Resist, Rest' (Images of Black Liberation). Great couples activity - explore together, then grab coffee in West Midtown.",
+    "category": "art gallery"
+  },
+  {
+    "title": "Natalie Rose Eddings: A Litany for Shelter",
+    "date": "Through May 17, 2026",
+    "time": "Check Atlanta Contemporary for hours",
+    "location": "Atlanta Contemporary, Atlanta",
+    "price": "Free",
+    "description": "Outdoor installation at Atlanta Contemporary. Thought-provoking, site-specific work. The outdoor setting makes it a unique gallery experience - great for couples who enjoy combining art with a walk through the sculpture garden area.",
+    "category": "art gallery"
+  },
+  {
+    "title": "Whole World Improv Theatre - Classic Improv Show",
+    "date": "April 24, 2026",
+    "time": "8:00 PM - 9:30 PM",
+    "location": "Whole World Improv Theatre, Atlanta",
     "price": "Varies",
-    "description": "Atlanta's ultimate vegan food event! Sample plant-based dishes from multiple vendors, grab drinks, enjoy the vibes. Perfect for foodie couples interested in vegetarian/vegan cuisine. Cash and card accepted. Great photo opportunities with creative food presentations.",
-    "category": "vegetarian food"
-  },
-  {
-    "title": "Art + Salsa Dance Class & Social",
-    "date": "April 26, 2026",
-    "time": "5:00 PM - 8:00 PM",
-    "location": "3063 Bogie Rd, Buckhead Art Gallery, Atlanta",
-    "price": "Check Eventbrite",
-    "description": "Two-hour event: guided Salsa class followed by social dancing in a Buckhead art gallery setting! Learn basic steps together, then practice on the dance floor. No partner required - they rotate during the lesson. Wine and refreshments available. Unique date night combining culture, movement, and art.",
-    "category": "dancing"
+    "description": "Award-winning improv comedy show! Spontaneous laughter at Atlanta's nonprofit improv theater. Perfect for couples who think on their feet and enjoy interactive comedy. Great date night that supports local arts.",
+    "category": "comedy"
   },
   {
     "title": "Bachata Class + Latin Night at Tortugas",
@@ -81,48 +81,12 @@
     "category": "dancing"
   },
   {
-    "title": "Bachata & Zouk Weekend Pass - Day 3",
-    "date": "April 26, 2026",
-    "time": "All day workshops and socials",
-    "location": "5522 New Peachtree Rd, Chamblee, GA",
-    "price": "Included in $165 weekend pass",
-    "description": "Final day of the Bachata X Zouk ATL Weekender! Continue learning or put your new skills to the test on the social dance floor. Great couples activity - learn something new together and meet the dance community. Day passes available if not attending full weekend.",
-    "category": "dancing"
-  },
-  {
-    "title": "Best of Atlanta Comedy Showcase",
-    "date": "April 30, 2026",
-    "time": "8:00 PM",
-    "location": "Laughing Skull Lounge, Atlanta",
-    "price": "Varies",
-    "description": "End-of-month comedy showcase at Atlanta's best comedy dive. Another chance to catch top local talent in an intimate setting. 21+ only, full bar, no food but you're near dozens of Highland Ave restaurants. Perfect late-April date night.",
-    "category": "comedy"
-  },
-  {
-    "title": "To Be Continued - Juan Miguel Palacios Exhibition",
-    "date": "Through May (check gallery for hours)",
-    "time": "Gallery hours",
-    "location": "Luca Fine Art, Atlanta",
-    "price": "Free",
-    "description": "Solo exhibition featuring vibrant work by Juan Miguel Palacios. Great for couples interested in contemporary art - wander the gallery together, discuss the pieces over coffee afterward. Free admission makes this an easy weekday date option.",
-    "category": "art gallery"
-  },
-  {
-    "title": "Celestial Perspectives Textile Exhibition",
-    "date": "Through June 21, 2026",
-    "time": "Tue-Sat 10 AM-5 PM",
-    "location": "Marietta Cobb Museum of Art, 30 Atlanta Street SE, Marietta",
-    "price": "$10 general, members free",
-    "description": "Jess Self's installation-based solo exhibition reimagines the museum as a 'cosmic map and textile labyrinth.' Beautiful hand-woven pieces create an immersive experience. Make a day of it - see the exhibit, then explore historic Marietta Square for dinner.",
-    "category": "art gallery"
-  },
-  {
-    "title": "Brittany Adeline King: Dokafleh",
-    "date": "Through May 17, 2026",
-    "time": "Check Atlanta Contemporary for hours",
-    "location": "Atlanta Contemporary, Atlanta",
-    "price": "Free",
-    "description": "Contemporary art exhibition at Atlanta Contemporary - free admission, always. Great for couples who want to support local arts without spending money. The exhibition runs through mid-May so plenty of time to catch it. Located in the West Midtown arts district.",
-    "category": "art gallery"
+    "title": "Atlanta Veg Week 2026",
+    "date": "April 14-20, 2026",
+    "time": "Various times/locations",
+    "location": "Various restaurants across Atlanta",
+    "price": "Varies by event",
+    "description": "Citywide celebration of plant-powered eating! Dozens of Atlanta restaurants offer special vegan menus. Great for couples exploring vegetarian/vegan cuisine together. Check website for participating restaurants and events throughout the week.",
+    "category": "vegetarian food"
   }
 ]
