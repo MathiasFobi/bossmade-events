@@ -1,32 +1,32 @@
 [
   {
-    "emoji": "🎶",
-    "category": "live_music",
-    "title": "ZA Palooza Festival — Live Music & Food",
-    "description": "Third annual ZA Palooza brings together live music, food vendors, and a full day party atmosphere in the heart of Atlanta. Two days of performances — catch Sunday for the prime afternoon/evening slot. Great energy, diverse crowd, and lots of photo ops.",
-    "budget": "Free–$25",
-    "location": "183 Forsyth St SW, Atlanta — Sun Apr 19, 3 PM onwards",
-    "vibe": "Energetic, festival, social — good for couples who love music and street food vibes",
-    "validUntil": "2026-04-20"
+    "emoji": "🎤",
+    "category": "comedy",
+    "title": "Best of Atlanta Comedy Showcase — Laughing Skull Lounge",
+    "description": "Laugh until your face hurts at Atlanta's premier comedy club. The Saturday night showcase features 4–6 of the city's best stand-up comics. Doors open at 7:30 PM, show starts at 8 PM. 21+ only. Great date energy — close tables, dark room, big laughs. Afterparty potential at nearby East Atlanta Village bars.",
+    "budget": "$20–$35 per person",
+    "location": "Laughing Skull Lounge, 878-1 Main St, Atlanta (East Atlanta Village) — Sat Apr 25, 8 PM",
+    "vibe": "Intimate, hilarious, high-energy — perfect for a couple who loves to laugh",
+    "validUntil": "2026-04-27"
   },
   {
-    "emoji": "🌞",
-    "category": "live_music",
-    "title": "The South Got Something To Say — ATL Day Party",
-    "description": "An afternoon day party with live music, good vibes, and Atlanta energy. Runs 2–7 PM so you can make a day of it, then grab dinner after. Dress cute, bring your crew, or keep it intimate for two.",
-    "budget": "$15–$30",
-    "location": "Rock Steady, Atlanta — Sun Apr 19, 2–7 PM",
-    "vibe": "Chill day party, outdoor-friendly, social and fun",
-    "validUntil": "2026-04-20"
+    "emoji": "🪩",
+    "category": "dancing",
+    "title": "Nonsense ATL — Atlanta Disco Society Night",
+    "description": "Atlanta Disco Society is back with a glamour-and-disco night at Wild Heaven Beer. Dress to impress, hit the dance floor, lose yourself in 70s–80s disco grooves. 10 PM – 3 AM. Pull up with your best moves or learn on the floor — either way, it's a memorable night out. Great for couples who love to dance and dress up.",
+    "budget": "$10–$20",
+    "location": "Wild Heaven Beer, 1200 Innovation Dr, Atlanta — Sat Apr 25, 10 PM–3 AM",
+    "vibe": "Glamorous, retro-disco, high-energy dancing — velvet rope energy",
+    "validUntil": "2026-04-27"
   },
   {
-    "emoji": "🍆",
-    "category": "vegetarian_food",
-    "title": "Lov'n It Live — Raw Vegan Date Night",
-    "description": "No-compromises raw-food vegan restaurant in East Point. Creative nut-based dishes, cold-pressed juices, and an entirely plant-based menu. Unique and memorable — great for a couple who loves food adventures and eating well.",
-    "budget": "$20–$45",
-    "location": "2796 E Point St, East Point — Open Sat & Sun, call ahead for hours (404-765-9220)",
-    "vibe": "Intimate, health-conscious, adventurous eats",
-    "validUntil": "2026-04-20"
+    "emoji": "🎨",
+    "category": "art",
+    "title": "Paint a Butterfly Together — Painting with a Twist",
+    "description": "A guided 2-hour painting session where you and your partner create matching 16x20 canvases. No experience needed — the instructor walks you through every step. BYOB friendly. "Wildflowers with a Butterfly" is Saturday at noon, "A New Beginning" is Sunday at 7 PM — take your pick. Super low-pressure, super cute date activity.",
+    "budget": "$40 per person",
+    "location": "Painting with a Twist, 1230 Caroline St NE, Atlanta — Sat Apr 25, 12 PM or Sun Apr 26, 7 PM",
+    "vibe": "Creative, chill, wholesome — couples who create together, stay together",
+    "validUntil": "2026-04-27"
   }
 ]
