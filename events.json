@@ -1,92 +1,101 @@
 [
   {
-    "title": "No Tables, No Chairs Parade & Concert",
+    "title": "Atlanta Disco Society",
     "date": "April 25, 2026",
+    "time": "10:00 PM - 3:00 AM",
+    "location": "The Garden Club at Wild Heaven West End, 1010 White St SW, Atlanta",
+    "price": "~$20-25 (general admission)",
+    "description": "The 17th semi-annual disco dance party at Atlanta's newest hot spot on the Beltline's Lee + White corridor. Kimber spins late-70s disco into nu-disco all night on Atlanta's largest light-up dance floor. Red carpet, photo booth by Hellacurious, and free on-site parking. Perfect for a glam date night — dress up, bring your partner or friend, and dance till 3AM. 21+ only.",
+    "category": "dancing"
+  },
+  {
+    "title": "Illumine 2026 at Oakland Cemetery",
+    "date": "April 25, 2026",
+    "time": "7:30 PM - 11:00 PM",
+    "location": "Historic Oakland Cemetery, 248 Oakland Ave SE, Atlanta",
+    "price": "$10-$25",
+    "description": "The 19th annual illuminated art experience transforms Atlanta's historic Oakland Cemetery into a nighttime wonderland of colorful light installations and art by local innovators. Stroll hand-in-hand through beautifully lit pathways. Self-guided evening experience — one of Atlanta's most romantic and unique date ideas. Runs through April 26.",
+    "category": "art gallery"
+  },
+  {
+    "title": "No Tables, No Chairs Festival",
+    "date": "April 26, 2026",
     "time": "1:00 PM - 8:00 PM",
-    "location": "Shirley Clarke Franklin Park, Atlanta",
+    "location": "Westside Park (Meadow), 1660 Johnson Rd NW, Atlanta",
     "price": "Free",
-    "description": "Mausiki Scales & the Common Ground Collective's iconic funk-filled journey through the rhythms of the African Diaspora. All-day festival with DJs, parade, food vendors, and an evening concert on the meadow. Perfect for couples who love music, culture, and outdoor vibes. Wear your dancing shoes and join the Funk-line parade!",
+    "description": "Mausiki Scales & the Common Ground Collective's iconic funk-filled celebration of African Diaspora culture. Sunday afternoon at Westside Park with a parade tailgate (DJ Ear Dr., face painting, costume crafting), performances by Atlanta All-Stars students, a Funk-line parade, Frankie’s Blues Mission, and Mausiki Scales & the Common Ground Collective closing concert. FREE, family-friendly, outdoors. Sunday FUNDay date idea.",
     "category": "live music"
   },
   {
-    "title": "Pours & Punchlines Comedy Showcase",
-    "date": "April 22, 2026",
-    "time": "8:00 PM - 9:30 PM",
-    "location": "Pour Taproom-Beltline, 661 Auburn Ave NE, Atlanta",
-    "price": "$8-$54",
-    "description": "The Beltline's hottest comedy show returns! Atlanta's best comedians (network TV, famous clubs, social media) perform at this intimate taproom. Pay-by-the-oz craft beer (no two-item minimum), plus NY-style pizza from Pizza Dynamo. Great date night for couples who love to laugh.",
+    "title": "Die Laughing Comedy Show",
+    "date": "April 26, 2026",
+    "time": "7:30 PM",
+    "location": "Roaring Social, Alpharetta",
+    "price": "Varies",
+    "description": "Stand-up comedy headlined by Nathan Loe, Justin Lawson and Khalid Elchoufi at Roaring Social's intimate social club. Drinks, limited food menu, and great laughs. Alpharetta location — combine with dinner nearby for a full evening. Great low-key date for couples who love humor.",
     "category": "comedy"
   },
   {
-    "title": "STAMPED: AYA x Friends - Atlanta",
-    "date": "April 26, 2026",
-    "time": "4:00 PM - 11:00 PM",
-    "location": "BLOCK & DRUM, 5105 Peachtree Blvd Bldg B, Chamblee, GA",
-    "price": "Tickets at door (21+)",
-    "description": "The #UnapologeticallyAfrican experience returns to Atlanta! Amapiano, Afrobeats & more with DJs NANI, POKO, TKRUNDAT, NECII. Seven hours of African music & culture. Free parking at Walmart or Keswick Park (short walk). Great vibes for couples who love to dance and celebrate African music.",
+    "title": "Earth Day Celebration at Ponce City Market",
+    "date": "April 25, 2026",
+    "time": "10:00 AM - 4:00 PM",
+    "location": "Ponce City Market, Atlanta",
+    "price": "Free",
+    "description": "Free community Earth Day event at Ponce City Market celebrating sustainability with local eco-organizations, hands-on activities, and environmental education. Stroll the market, grab food from one of PCM's great vendors, and learn together. Low-key, free, and feel-good — perfect for a laid-back Saturday daytime date.",
+    "category": "vegetarian food"
+  },
+  {
+    "title": "Florence + The Machine - Everybody Scream Tour",
+    "date": "May 1, 2026",
+    "time": "7:30 PM (doors 6:30 PM)",
+    "location": "State Farm Arena, 191 Peachtree St NE, Atlanta",
+    "price": "$$$ (tickets via Ticketmaster)",
+    "description": "Florence Welch and her band bring the Everybody Scream North American Tour to State Farm Arena. A breathtaking live spectacle — soaring vocals, theatrical staging, and anthems like 'Dog Days Are Over' and 'Kiss with a Fist.' Make it a special occasion: dress up, grab dinner downtown before, and soak in one of the most powerful live performances in music. Big date night energy.",
+    "category": "live music"
+  },
+  {
+    "title": "Disclosure Live at The Eastern",
+    "date": "May 1, 2026",
+    "time": "8:00 PM",
+    "location": "The Eastern, 800 Old Flat Shoals Rd SE, Atlanta",
+    "price": "$$",
+    "description": "British electronic duo Disclosure perform two nights at The Eastern (May 1 & 2). Live showcase of their house music hits — 'Latch,' 'You Know How to Love Me,' 'Motordrome' set. Intimate venue, incredible sound system. Ideal for couples who love to dance, Electronic music, or want a club-style date night without the club chaos.",
+    "category": "live music"
+  },
+  {
+    "title": "Atlanta Film Festival 2026",
+    "date": "Through May 3, 2026",
+    "time": "Various showtimes",
+    "location": "Plaza Theatre & Tara Theatre, Atlanta",
+    "price": "Varies (check website)",
+    "description": "The 50th Atlanta Film Festival screening 150+ films plus filmmaker panels, Creative Conference workshops, and special events including a Danielle Brooks Q&A on April 29. Great cultural date — catch a film together, grab dinner near Plaza Theatre in Virginia-Highland. Runs through May 3.",
+    "category": "art gallery"
+  },
+  {
+    "title": "R.A.S Memorial Weekend ATL - 100% Reggae Afrobeats Soca",
+    "date": "May 23, 2026",
+    "time": "10:00 PM - 4:00 AM",
+    "location": "Underground Atlanta",
+    "price": "TBA",
+    "description": "Memorial Weekend blowout featuring 100% reggae, Afrobeats, and Soca. One of Atlanta's premier Caribbean music events, 10PM-4AM at Underground Atlanta. Great for couples who love Caribbean culture and dancing. Memorial Weekend kickoff — book early! Note: this is the Saturday of Memorial Day weekend (May 23).",
     "category": "Afrobeat/reggae"
   },
   {
-    "title": "The Black Keys: PEACHES 'N KREAM",
-    "date": "April 26, 2026",
-    "time": "8:00 PM",
-    "location": "Tabernacle, Atlanta",
-    "price": "$108+",
-    "description": "Legendary rock duo The Black Keys perform at Atlanta's historic Tabernacle with special guest Miles Kane. Iconic venue with great acoustics and sightlines. Perfect date night for rock fans - tickets are pricy but it's a memorable live music experience. Dress up, make a night of it.",
-    "category": "live music"
+    "title": "Caribbean Heat - Memorial Weekend Day Party",
+    "date": "May 23, 2026",
+    "time": "4:00 PM - 10:00 PM",
+    "location": "Rose and Rye, Atlanta",
+    "price": "TBA",
+    "description": "Island vibes day party with DJ Reese spinning Caribbean hits. Outdoor rooftop/atmosphere at Rose and Rye. Memorial Day weekend, 4-10PM — perfect afternoon date. Come for the island energy, stay for the vibes. Great for couples wanting a taste of the islands without leaving Atlanta.",
+    "category": "Afrobeat/reggae"
   },
   {
-    "title": "Bachata X Zouk ATL Weekender 2026",
-    "date": "April 24-26, 2026",
-    "time": "Friday 8:30 PM - Sunday 8:00 PM",
-    "location": "5522 New Peachtree Rd STE 103, Chamblee, GA",
-    "price": "$165 full weekend pass",
-    "description": "Three days of Bachata and Zouk dancing! Workshops, socials, performances. Great for couples who want to learn or improve dancing together. Full pass gives access to all events. Chamblee has great Cuban and Asian food nearby. Day passes available.",
-    "category": "dancing"
-  },
-  {
-    "title": "Atlanta Contemporary - Free Art Exhibitions",
-    "date": "Through May 17, 2026",
-    "time": "Wed-Sun, check website for hours",
-    "location": "Atlanta Contemporary, 724 Peachtree St NE, Atlanta",
-    "price": "Free",
-    "description": "Free admission to world-class contemporary art. Current shows include Brittany Adeline King's 'Dokafleh' and the Johnson Publishing Company Archives 'Rejoice, Resist, Rest' (Images of Black Liberation). Great couples activity - explore together, then grab coffee in West Midtown.",
-    "category": "art gallery"
-  },
-  {
-    "title": "Natalie Rose Eddings: A Litany for Shelter",
-    "date": "Through May 17, 2026",
-    "time": "Check Atlanta Contemporary for hours",
-    "location": "Atlanta Contemporary, Atlanta",
-    "price": "Free",
-    "description": "Outdoor installation at Atlanta Contemporary. Thought-provoking, site-specific work. The outdoor setting makes it a unique gallery experience - great for couples who enjoy combining art with a walk through the sculpture garden area.",
-    "category": "art gallery"
-  },
-  {
-    "title": "Whole World Improv Theatre - Classic Improv Show",
-    "date": "April 24, 2026",
-    "time": "8:00 PM - 9:30 PM",
-    "location": "Whole World Improv Theatre, Atlanta",
-    "price": "Varies",
-    "description": "Award-winning improv comedy show! Spontaneous laughter at Atlanta's nonprofit improv theater. Perfect for couples who think on their feet and enjoy interactive comedy. Great date night that supports local arts.",
-    "category": "comedy"
-  },
-  {
-    "title": "Bachata Class + Latin Night at Tortugas",
-    "date": "April 27, 2026",
-    "time": "Doors 7 PM, class 7:30 PM, dancing after",
-    "location": "Tortugas Cuban Grill, Atlanta",
-    "price": "~$15-20 per person",
-    "description": "2-hour Bachata lesson followed by Latin dancing at Atlanta's beloved Cuban institution. Start with the dance lesson (no partner needed), then stay for the party. Tortugas has amazing Cuban food, mojitos, and a lively atmosphere. Budget-friendly date that includes dinner and dancing.",
-    "category": "dancing"
-  },
-  {
-    "title": "Atlanta Veg Week 2026",
-    "date": "April 14-20, 2026",
-    "time": "Various times/locations",
-    "location": "Various restaurants across Atlanta",
-    "price": "Varies by event",
-    "description": "Citywide celebration of plant-powered eating! Dozens of Atlanta restaurants offer special vegan menus. Great for couples exploring vegetarian/vegan cuisine together. Check website for participating restaurants and events throughout the week.",
+    "title": "Springfest at Round Trip Brewing Co.",
+    "date": "May 9, 2026",
+    "time": "TBA",
+    "location": "Round Trip Brewing Co., East Cobb",
+    "price": "Free entry",
+    "description": "German-inspired spring beer festival at Round Trip Brewing Co.'s East Cobb location. Craft beers, outdoor patio vibes, live music in the evening, and food trucks. Great for couples who enjoy craft beer, outdoor hangouts, and local brewery culture. Late spring date that's budget-friendly and fun.",
     "category": "vegetarian food"
   }
 ]
