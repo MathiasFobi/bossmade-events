@@ -7,6 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -394,6 +395,7 @@
 
 <div class="tabs">
     <button class="tab-btn active" onclick="switchTab('events')">🎭 Atlanta Events</button>
+  <button class="tab-btn" onclick="switchTab('map')">📍 Map</button>
   <button class="tab-btn" onclick="switchTab('quiz')">🎯 Quiz</button>
 </div>
 
@@ -419,6 +421,18 @@
   <div id="pastEventsToggle" class="past-events-toggle" onclick="togglePastEvents()">▼ Past Events</div>
   <div id="pastEventsSection" class="past-events-section"></div>
   <div id="eventsList"></div>
+  </div>
+  <div id="map" class="tab-content">
+    <div style="padding:1rem 0 0.5rem;font-size:0.85rem;color:var(--muted);text-align:center;">📍 Showing events near Atlanta, GA</div>
+    <div id="mapContainer" style="width:100%;height:420px;border-radius:16px;overflow:hidden;position:relative;background:var(--card);">
+      <div id="mapPlaceholder" style="display:flex;align-items:center;justify-content:center;height:100%;flex-direction:column;gap:0.75rem;color:var(--muted);">
+        <div style="font-size:3rem;">🗺️</div>
+        <div style="font-size:0.9rem;text-align:center;padding:0 1rem;">Events map loads below — make sure you're connected to the internet.</div>
+        <button onclick="initMap()" style="padding:0.5rem 1rem;background:var(--accent);color:white;border:none;border-radius:8px;cursor:pointer;font-size:0.85rem;">Load Map</button>
+      </div>
+      <div id="mapLoaded" style="display:none;width:100%;height:100%;"></div>
+    </div>
+    <div id="mapEventsList" style="margin-top:1rem;display:flex;flex-direction:column;gap:0.75rem;"></div>
   </div>
   <div id="quiz" class="tab-content">
     <div class="quiz-wrap" id="quizWrap">
@@ -457,16 +471,24 @@
 
 <script>
   // Parse date string to Date object (handles formats like "Saturday, April 4", "April 5", etc.)
+  // Parse date string to Date object
+  // Handles: "Saturday, April 4, 2026", "April 5, 2026", "YYYY-MM-DD"
   function parseDate(str) {
     if (!str) return null;
-    // Try to parse "Weekday, Month Day" format
+    // ISO "YYYY-MM-DD" — detect and handle first
+    if (/^\d{4}-\d{2}-\d{2}$/.test(str)) {
+      const [y, m, d] = str.split('-').map(Number);
+      const nd = new Date(y, m - 1, d);
+      if (!isNaN(nd.getTime())) return nd;
+    }
+    // Try "Weekday, Month Day, Year" format
+    const d = new Date(str);
+    if (!isNaN(d.getTime())) return d;
+    // Try "Month Day, Year"
     const thisYear = new Date().getFullYear();
     const withYear = str + ', ' + thisYear;
-    let d = new Date(withYear);
-    if (!isNaN(d.getTime())) return d;
-    // Try just "Month Day"
-    d = new Date(str + ' ' + thisYear);
-    if (!isNaN(d.getTime())) return d;
+    let d2 = new Date(withYear);
+    if (!isNaN(d2.getTime())) return d2;
     return null;
   }
 
@@ -913,9 +935,50 @@
     window.shareWhatsApp = shareWhatsApp;
     window.downloadICS = downloadICS;
     window.togglePastEvents = togglePastEvents;
+    window.initMap = initMap;
+
+    // ─── Map Tab (Leaflet) ───────────────────────────────────────────
+    async function initMap() {
+      if (window._mapInitialized) return;
+      window._mapInitialized = true;
+      document.getElementById('mapPlaceholder').style.display = 'none';
+      document.getElementById('mapLoaded').style.display = 'block';
+
+      // Load Leaflet
+      const script = document.createElement('script');
+      script.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+      document.head.appendChild(script);
+      await new Promise(r => script.onload = r);
+
+      const mapEl = document.getElementById('mapLoaded');
+      const map = L.map(mapEl).setView([33.749, -84.388], 11);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        maxZoom: 18
+      }).addTo(map);
+
+
+      // Custom markers
+      const icon = L.divIcon({ className: '', html: '<div style="background:#6c63ff;width:14px;height:14px;border-radius:50%;border:2px solid white;box-shadow:0 0 6px rgba(0,0,0,0.4)"></div>', iconSize: [14,14], iconAnchor: [7,7] });
+
+      const events = window._events || [];
+      const listEl = document.getElementById('mapEventsList');
+      let listHtml = '';
+
+
+      events.forEach(ev => {
+        if (!ev.lat || !ev.lng) return;
+        const popup = `<strong>${ev.title}</strong><br>${ev.date}<br>${ev.location}<br>${ev.price ? ev.price : ''}`;
+        L.marker([ev.lat, ev.lng], { icon }).bindPopup(popup).addTo(map);
+
+        listHtml += `<div class="event-card" style="cursor:pointer" onclick="L.marker([${ev.lat},${ev.lng}]).addTo(map).openPopup()">
+          <div class="date-card"><div class="day">${new Date(ev.date).getDate()}</div><div class="month">${new Date(ev.date).toLocaleString('default',{month:'short'})}</div></div>
+          <div style="flex:1"><div class="title">${ev.title}</div><div class="meta">${ev.location}</div></div></div>`;
+      });
+      listEl.innerHTML = listHtml;
+    }
 
     // ─── Page Agent (Mistral) ───────────────────────────────────────
-    const MISTRAL_API_KEY = 'xN26eRj8gZjHi19JPyCefeJIVfYGDHlk';
     const MISTRAL_URL = 'https://api.mistral.ai/v1/chat/completions';
     let paOpen = false;
 
