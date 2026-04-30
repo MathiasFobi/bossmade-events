@@ -1,74 +1,128 @@
 [
   {
-    "title": "WigWag Art & Music Fest",
+    "title": "Florence + The Machine — Everybody Scream Tour",
+    "date": "2026-05-01",
+    "time": "7:30 PM",
+    "location": "State Farm Arena, 1 State Farm Dr, Atlanta, GA 30303",
+    "price": "Varies (tickets via Live Nation)",
+    "description": "Florence + The Machine brings their theatrical, breathtaking performance to State Farm Arena. Perfect for couples who love indie pop, dramatic vocals, and an unforgettable concert experience. Arrive early, dress fancy, and let her voice sweep you off your feet.",
+    "category": "live-music"
+  },
+  {
+    "title": "Green Market — Piedmont Park Farmers Market",
     "date": "2026-05-02",
-    "time": "All Day",
-    "location": "Washington St, Avondale Estates, GA",
+    "time": "9:00 AM - 1:00 PM",
+    "location": "Piedmont Park, 1345 Piedmont Ave NE, Atlanta, GA 30309",
     "price": "Free",
-    "description": "A vibrant art and music festival featuring local artists, live music, food vendors, and family-friendly activities. Great atmosphere for couples who love art and outdoor vibes.",
-    "category": "art"
+    "description": "Atlanta's beloved weekly farmers market with fresh produce, local artisan goods, and good coffee. Great Saturday morning date — stroll the park, grab fresh food, and support local vendors. Arrive early to beat the crowd.",
+    "category": "vegetarian-food"
   },
   {
-    "title": "Comedy & Candles Rooftop Night — Love In The Dark",
+    "title": "BAILAtlanta — Cuban Dance Weekend",
+    "date": "2026-05-02",
+    "time": "Varies (schedule on salsacasino.com)",
+    "location": "Academy Ballroom ATL, 800 Miami Cir NE, Atlanta, GA 30324",
+    "price": "Varies (registration required)",
+    "description": "Atlanta's premier Cuban salsa and dance weekend featuring 14 dance workshops, 4 DJs, professional instructors, and multiple parties. Whether you're seasoned dancers or curious beginners, this is a vibrant, sexy, and welcoming scene — perfect for couples who want to learn to dance together.",
+    "category": "dancing"
+  },
+  {
+    "title": "Garden Grooves — Atlanta Botanical Garden",
     "date": "2026-05-03",
-    "time": "7:00 PM - 10:30 PM",
-    "location": "REVERB Downtown Atlanta, 89 Centennial Olympic Park Dr NW, Atlanta, GA 30313",
-    "price": "From ~$35 (candle making add-on extra)",
-    "description": "Candlelit rooftop comedy show with a candle making class at 7PM followed by stand-up at 9PM, plus a live dating game show. Stunning city views, cocktails, and guaranteed laughs — perfect for couples who want a fun, memorable night out.",
-    "category": "comedy"
+    "time": "10:00 AM",
+    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE, Atlanta, GA 30309",
+    "price": "Included with Garden Admission",
+    "description": "A morning of live music and good vibes in one of Atlanta's most beautiful settings. Bring your partner, walk through the gardens, and enjoy the curated tunes. A calm, romantic way to spend a Sunday morning.",
+    "category": "live-music"
   },
   {
-    "title": "Lila Iké — The Masquerade",
-    "date": "2026-05-09",
-    "time": "Doors 7:00 PM / Show 8:00 PM",
-    "location": "The Loft at The Masquerade, 1374 West Peachtree St NW, Atlanta, GA",
-    "price": "$25-$35",
-    "description": "Jamaican reggae star Lila Iké brings her soulful, captivating voice to Atlanta. Intimate venue with The Loft's great sound — ideal for couples who love reggae, island vibes, and live music.",
-    "category": "music"
-  },
-  {
-    "title": "Xscape: The Mother's Day Love Affair",
-    "date": "2026-05-10",
-    "time": "Doors 6:30 PM / Show 7:30 PM",
-    "location": "Fox Theatre, 660 Peachtree St NE, Atlanta, GA 30308",
-    "price": "Varies (tickets available at foxtheatre.org)",
-    "description": "R&B legends XSCAPE return home to Atlanta for one night only, joined by K. Michelle and Donell Jones. Celebrate Mother's Day with the queens of R&B at the gorgeous, iconic Fox Theatre — a truly unforgettable date night.",
-    "category": "music"
-  },
-  {
-    "title": "Comedy Double Header — Teju Babyface & Sheyeto Productions",
-    "date": "2026-05-10",
-    "time": "6:00 PM - 10:00 PM",
-    "location": "3100 Avalon Ridge Pl NW, Peachtree Corners, GA",
+    "title": "SALSAtlanta Bachata Nights",
+    "date": "2026-05-03",
+    "time": "Doors 7:00 PM",
+    "location": "Academy Ballroom ATL, 800 Miami Cir NE, Atlanta, GA 30324",
     "price": "Varies",
-    "description": "Two comedians, double the laughs. Hosted by Teju Babyface Organization with Sheyeto Productions — a well-curated comedy night perfect for couples who want a fun, laid-back evening with great food and non-stop laughter.",
+    "description": "Bachata Nights at Academy Ballroom — smooth, sensual, and a blast to dance. Great atmosphere for couples learning Latin dance styles together. Beginner-friendly with instructors on hand.",
+    "category": "dancing"
+  },
+  {
+    "title": "Euro Atlanta — I Love Reggae Fridays",
+    "date": "2026-05-08",
+    "time": "Doors 9:00 PM",
+    "location": "Euro Atl, 1265 Powers Ferry Rd, Marietta, GA 30067",
+    "price": "Free entry / Free parking",
+    "description": "Reggae, Dancehall, Soca, and AfroBeats all night at Euro Atlanta. Free entry, free parking, and incredible Jamaican food — oxtails that fall off the bone, snapper that snaps. Great drinks, great vibes, and no cover charge. Every Friday night — a reliable, fun date option.",
+    "category": "afrobeat-reggae"
+  },
+  {
+    "title": "Cold & Idle Heirs — The Masquerade",
+    "date": "2026-05-10",
+    "time": "Doors 7:00 PM",
+    "location": "The Masquerade Atlanta, 695 North Ave NE, Atlanta, GA 30308",
+    "price": "Varies",
+    "description": "Atlanta's iconic indie venue hosts Cold for a special show with Idle Heirs and Intension. Great underground vibe, affordable tickets, and walking distance from Virginia-Highland bars for pre-show or post-show drinks. Perfect for couples who like alternative rock and a low-key night.",
+    "category": "live-music"
+  },
+  {
+    "title": "BAILAtlanta — Dance Weekend Continues",
+    "date": "2026-05-15",
+    "time": "Varies",
+    "location": "Academy Ballroom ATL, 800 Miami Cir NE, Atlanta, GA 30324",
+    "price": "Varies",
+    "description": "The BAILAtlanta dance weekend continues with more workshops, DJ sets, and salsa parties. Register ahead for the full experience. A memorable weekend for couples who love dance, music, and culture.",
+    "category": "dancing"
+  },
+  {
+    "title": "Dustin Nickerson — Helium Comedy Club",
+    "date": "2026-05-15",
+    "time": "7:00 PM (Fri) / 6:00 PM (Sat)",
+    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
+    "price": "Couple's Package: $90 (2 premium seats + $45 food/bev credit each)",
+    "description": "Seattle-born comic whose marriage-and-parenting humor will make you both cry laughing. The Couple's Package gets you two premium seats plus a $90 food and beverage credit. Great date night — laughs, food, and no kids around. 18+ venue.",
     "category": "comedy"
   },
   {
-    "title": "AfroVibez 2026 — 5th Annual Africa Day Celebration",
+    "title": "Dustin Nickerson — Helium Comedy Club",
+    "date": "2026-05-16",
+    "time": "6:00 PM",
+    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
+    "price": "Couple's Package: $90",
+    "description": "Catch Dustin Nickerson on Saturday night for the same great Couple's Package deal. Arrive early for best seats and grab dinner at the club before the show. One of the best comedy date nights in Atlanta.",
+    "category": "comedy"
+  },
+  {
+    "title": "Dustin Nickerson — Helium Comedy Club",
     "date": "2026-05-17",
-    "time": "TBD",
-    "location": "MOWA, 1705 Commerce Dr NW, Atlanta, GA 30318",
-    "price": "Varies",
-    "description": "Atlanta's premier Afrobeat and African heritage celebration. Dress code is Red, Yellow/Gold, or Green — representing Pan-African pride. Great live performances, food, vendors, and a vibrant community vibe perfect for couples who love African culture and music.",
-    "category": "music"
+    "time": "6:00 PM (Sun show)",
+    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
+    "price": "Couple's Package: $90",
+    "description": "Sunday night comedy — a quieter, more intimate show for couples. The Couple's Package is an absolute steal at $90 for two premium seats and a full food/bev credit. One of the most underrated date nights in the city.",
+    "category": "comedy"
   },
   {
-    "title": "Atlanta Jazz Festival — Memorial Day Weekend",
-    "date": "2026-05-23",
-    "time": "1:00 PM - 9:00 PM (daily)",
-    "location": "Piedmont Park, Atlanta, GA",
+    "title": "Euro Atlanta — I Love Reggae Fridays",
+    "date": "2026-05-16",
+    "time": "Doors 9:00 PM",
+    "location": "Euro Atl, 1265 Powers Ferry Rd, Marietta, GA 30067",
+    "price": "Free entry / Free parking",
+    "description": "Reggae, Dancehall, Soca, and AfroBeats all night at Euro Atlanta. Free entry, free parking, and incredible Jamaican food — oxtails that fall off the bone, snapper that snaps. Great drinks, great vibes, and no cover charge. Every Friday night.",
+    "category": "afrobeat-reggae"
+  },
+  {
+    "title": "Unbound Narratives: Embodied Language — Atlanta Contemporary",
+    "date": "2026-05-17",
+    "time": "Gallery hours (check website)",
+    "location": "Atlanta Contemporary, 535 Means St NW, Atlanta, GA 30318",
     "price": "Free",
-    "description": "One of the largest FREE jazz festivals in the country, featuring headliners like The Roots, Esperanza Spalding, Kamasi Washington, and PJ Morton across three days. Bring a blanket, grab food from vendors, and enjoy world-class jazz under the open sky — perfect for a romantic picnic-style date.",
-    "category": "music"
+    "description": "A striking group exhibition at Atlanta Contemporary exploring language through the body. Thought-provoking, visually rich, and completely free. After the gallery, walk the West Side Provisions district for dinner. Great for couples who love art and conversation.",
+    "category": "art-gallery"
   },
   {
-    "title": "Date Night All White — Live Sax & Romantic Dinner",
-    "date": "2026-05-30",
-    "time": "8:00 PM - 2:00 AM",
-    "location": "675 Evans St SW, Atlanta, GA 30310 (Historic Post Office)",
-    "price": "Varies",
-    "description": "Atlanta's No. 1 couples event returns! Elegant all-white dress code affair with live saxophonist Trey Daniels, DJ Ron Allen, candlelit dinner for two by Chef Yvette, ultra-premium cocktails, 360 photo booth, and caricature artists. A luxurious, sensual night built for couples who want to truly connect and celebrate their relationship.",
-    "category": "date-night"
+    "title": "Euro Atlanta — I Love Reggae Fridays",
+    "date": "2026-05-22",
+    "time": "Doors 9:00 PM",
+    "location": "Euro Atl, 1265 Powers Ferry Rd, Marietta, GA 30067",
+    "price": "Free entry / Free parking",
+    "description": "Reggae, Dancehall, Soca, and AfroBeats all night at Euro Atlanta. Free entry, free parking, and incredible Jamaican food — oxtails that fall off the bone, snapper that snaps. Great drinks, great vibes, and no cover charge. Every Friday night.",
+    "category": "afrobeat-reggae"
   }
 ]
