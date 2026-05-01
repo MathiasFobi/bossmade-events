@@ -1,39 +1,21 @@
 [
   {
-    "title": "Florence + The Machine — Everybody Scream Tour",
-    "date": "2026-05-01",
-    "time": "7:30 PM",
-    "location": "State Farm Arena, 1 State Farm Dr, Atlanta, GA 30303",
-    "price": "Varies (tickets via Live Nation)",
-    "description": "Florence + The Machine brings their theatrical, breathtaking performance to State Farm Arena. Perfect for couples who love indie pop, dramatic vocals, and an unforgettable concert experience. Arrive early, dress fancy, and let her voice sweep you off your feet.",
-    "category": "live-music"
-  },
-  {
-    "title": "Green Market — Piedmont Park Farmers Market",
+    "title": "WigWag Art & Music Festival",
     "date": "2026-05-02",
-    "time": "9:00 AM - 1:00 PM",
-    "location": "Piedmont Park, 1345 Piedmont Ave NE, Atlanta, GA 30309",
-    "price": "Free",
-    "description": "Atlanta's beloved weekly farmers market with fresh produce, local artisan goods, and good coffee. Great Saturday morning date — stroll the park, grab fresh food, and support local vendors. Arrive early to beat the crowd.",
-    "category": "vegetarian-food"
+    "time": "11:00 AM – 9:00 PM",
+    "location": "Avondale Estates Arts District, Washington St, Avondale Estates, GA",
+    "price": "Free / VIP available",
+    "description": "The 5th annual WigWag Art & Music Festival fills the Avondale Estates Arts District with live music, local art vendors, food trucks, and community vibes. Headlined by Blair Crimmins and the Hookers. Free to attend — bring a date, grab a drink, and explore the arts scene. VIP tickets include drinks, snacks, a limited edition screen-printed poster, t-shirt, and indoor restroom access.",
+    "category": "art-gallery"
   },
   {
-    "title": "BAILAtlanta — Cuban Dance Weekend",
-    "date": "2026-05-02",
-    "time": "Varies (schedule on salsacasino.com)",
-    "location": "Academy Ballroom ATL, 800 Miami Cir NE, Atlanta, GA 30324",
-    "price": "Varies (registration required)",
-    "description": "Atlanta's premier Cuban salsa and dance weekend featuring 14 dance workshops, 4 DJs, professional instructors, and multiple parties. Whether you're seasoned dancers or curious beginners, this is a vibrant, sexy, and welcoming scene — perfect for couples who want to learn to dance together.",
-    "category": "dancing"
-  },
-  {
-    "title": "Garden Grooves — Atlanta Botanical Garden",
+    "title": "Comedy & Candles Rooftop Night: Love In The Dark",
     "date": "2026-05-03",
-    "time": "10:00 AM",
-    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE, Atlanta, GA 30309",
-    "price": "Included with Garden Admission",
-    "description": "A morning of live music and good vibes in one of Atlanta's most beautiful settings. Bring your partner, walk through the gardens, and enjoy the curated tunes. A calm, romantic way to spend a Sunday morning.",
-    "category": "live-music"
+    "time": "7:00 PM – 11:00 PM",
+    "location": "REVERB Hotel Rooftop, 770 NE Atlanta Ave, Atlanta, GA 30306",
+    "price": "Varies (Eventbrite)",
+    "description": "Stand-up comedy under the stars on the REVERB Hotel rooftop, paired with candle making. Presented by HYPERS CLUB — intimate, fun, and genuinely romantic. Great for couples who want something different from the typical bar date. Tickets sell out; grab them early.",
+    "category": "comedy"
   },
   {
     "title": "SALSAtlanta Bachata Nights",
@@ -41,8 +23,17 @@
     "time": "Doors 7:00 PM",
     "location": "Academy Ballroom ATL, 800 Miami Cir NE, Atlanta, GA 30324",
     "price": "Varies",
-    "description": "Bachata Nights at Academy Ballroom — smooth, sensual, and a blast to dance. Great atmosphere for couples learning Latin dance styles together. Beginner-friendly with instructors on hand.",
+    "description": "Smooth, sensual bachata at Atlanta's premier Latin dance venue. Beginner-friendly with instructors on hand. Great vibe, great music, and a short walk from Virginia-Highland for post-dance drinks. Perfect for couples wanting to learn a new dance together.",
     "category": "dancing"
+  },
+  {
+    "title": "Hissy Fit Comedy Night",
+    "date": "2026-05-08",
+    "time": "8:00 PM",
+    "location": "Wild Heaven Beer, 120B Ottley Dr SE, Atlanta, GA 30316",
+    "price": "$12 general admission",
+    "description": "Catch some of Atlanta's best comics at Wild Heaven Beer in East Atlanta. Presented by Hissy Fit Comedy and West End Comedy Fest. Affordable, fun, and the brewery has excellent craft beer. 18+ show. Great low-key Friday night date.",
+    "category": "comedy"
   },
   {
     "title": "Euro Atlanta — I Love Reggae Fridays",
@@ -50,79 +41,43 @@
     "time": "Doors 9:00 PM",
     "location": "Euro Atl, 1265 Powers Ferry Rd, Marietta, GA 30067",
     "price": "Free entry / Free parking",
-    "description": "Reggae, Dancehall, Soca, and AfroBeats all night at Euro Atlanta. Free entry, free parking, and incredible Jamaican food — oxtails that fall off the bone, snapper that snaps. Great drinks, great vibes, and no cover charge. Every Friday night — a reliable, fun date option.",
+    "description": "Reggae, Dancehall, Soca, and AfroBeats all night at Euro Atlanta. Free entry, free parking, and incredible Jamaican food — oxtails that fall off the bone, snapper that snaps. Great drinks, great vibes, and no cover charge. One of Atlanta's most reliable free date nights.",
     "category": "afrobeat-reggae"
   },
   {
-    "title": "Cold & Idle Heirs — The Masquerade",
-    "date": "2026-05-10",
-    "time": "Doors 7:00 PM",
-    "location": "The Masquerade Atlanta, 695 North Ave NE, Atlanta, GA 30308",
-    "price": "Varies",
-    "description": "Atlanta's iconic indie venue hosts Cold for a special show with Idle Heirs and Intension. Great underground vibe, affordable tickets, and walking distance from Virginia-Highland bars for pre-show or post-show drinks. Perfect for couples who like alternative rock and a low-key night.",
-    "category": "live-music"
-  },
-  {
-    "title": "BAILAtlanta — Dance Weekend Continues",
+    "title": "BAILAtlanta — Cuban Dance Weekend",
     "date": "2026-05-15",
-    "time": "Varies",
+    "time": "Schedule on salsacasino.com",
     "location": "Academy Ballroom ATL, 800 Miami Cir NE, Atlanta, GA 30324",
-    "price": "Varies",
-    "description": "The BAILAtlanta dance weekend continues with more workshops, DJ sets, and salsa parties. Register ahead for the full experience. A memorable weekend for couples who love dance, music, and culture.",
+    "price": "Varies (registration required)",
+    "description": "Atlanta's premier Cuban salsa and dance weekend returns with 14 dance workshops, 4 DJs, 7 professional instructors, multiple parties, and live dance performances. May 15-17. Whether you're seasoned dancers or curious beginners, the atmosphere is vibrant, welcoming, and date-perfect. Register ahead.",
     "category": "dancing"
   },
   {
-    "title": "Dustin Nickerson — Helium Comedy Club",
+    "title": "Breakaway Music Festival Atlanta",
     "date": "2026-05-15",
-    "time": "7:00 PM (Fri) / 6:00 PM (Sat)",
-    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
-    "price": "Couple's Package: $90 (2 premium seats + $45 food/bev credit each)",
-    "description": "Seattle-born comic whose marriage-and-parenting humor will make you both cry laughing. The Couple's Package gets you two premium seats plus a $90 food and beverage credit. Great date night — laughs, food, and no kids around. 18+ venue.",
-    "category": "comedy"
+    "time": "Gates open afternoon",
+    "location": "Center Parc Stadium, 501 Capitol Ave SW, Atlanta, GA 30315",
+    "price": "From $149 (tickets via breakawayfestival.com)",
+    "description": "Atlanta's biggest EDM festival returns to Center Parc Stadium with headliners John Summit, Kaskade, FISHER, and Mau P. Electronic music, food vendors, and a high-energy atmosphere. Great for couples who love to dance and want an all-day festival experience. GA, Floor, and VIP options available.",
+    "category": "live-music"
   },
   {
-    "title": "Dustin Nickerson — Helium Comedy Club",
+    "title": "Breakaway Music Festival Atlanta — Day 2",
     "date": "2026-05-16",
-    "time": "6:00 PM",
-    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
-    "price": "Couple's Package: $90",
-    "description": "Catch Dustin Nickerson on Saturday night for the same great Couple's Package deal. Arrive early for best seats and grab dinner at the club before the show. One of the best comedy date nights in Atlanta.",
-    "category": "comedy"
-  },
-  {
-    "title": "Dustin Nickerson — Helium Comedy Club",
-    "date": "2026-05-17",
-    "time": "6:00 PM (Sun show)",
-    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
-    "price": "Couple's Package: $90",
-    "description": "Sunday night comedy — a quieter, more intimate show for couples. The Couple's Package is an absolute steal at $90 for two premium seats and a full food/bev credit. One of the most underrated date nights in the city.",
-    "category": "comedy"
+    "time": "Gates open afternoon",
+    "location": "Center Parc Stadium, 501 Capitol Ave SW, Atlanta, GA 30315",
+    "price": "From $149 (tickets via breakawayfestival.com)",
+    "description": "Second day of Breakaway Festival with the same headliners. Electronic music festival at Center Parc Stadium — great energy, outdoor setting, and dancing all day. Bring your partner, grab a drink, and lose yourselves in the music. VIP tiers include shaded lounges and fast bar access.",
+    "category": "live-music"
   },
   {
     "title": "Euro Atlanta — I Love Reggae Fridays",
-    "date": "2026-05-16",
+    "date": "2026-05-15",
     "time": "Doors 9:00 PM",
     "location": "Euro Atl, 1265 Powers Ferry Rd, Marietta, GA 30067",
     "price": "Free entry / Free parking",
-    "description": "Reggae, Dancehall, Soca, and AfroBeats all night at Euro Atlanta. Free entry, free parking, and incredible Jamaican food — oxtails that fall off the bone, snapper that snaps. Great drinks, great vibes, and no cover charge. Every Friday night.",
-    "category": "afrobeat-reggae"
-  },
-  {
-    "title": "Unbound Narratives: Embodied Language — Atlanta Contemporary",
-    "date": "2026-05-17",
-    "time": "Gallery hours (check website)",
-    "location": "Atlanta Contemporary, 535 Means St NW, Atlanta, GA 30318",
-    "price": "Free",
-    "description": "A striking group exhibition at Atlanta Contemporary exploring language through the body. Thought-provoking, visually rich, and completely free. After the gallery, walk the West Side Provisions district for dinner. Great for couples who love art and conversation.",
-    "category": "art-gallery"
-  },
-  {
-    "title": "Euro Atlanta — I Love Reggae Fridays",
-    "date": "2026-05-22",
-    "time": "Doors 9:00 PM",
-    "location": "Euro Atl, 1265 Powers Ferry Rd, Marietta, GA 30067",
-    "price": "Free entry / Free parking",
-    "description": "Reggae, Dancehall, Soca, and AfroBeats all night at Euro Atlanta. Free entry, free parking, and incredible Jamaican food — oxtails that fall off the bone, snapper that snaps. Great drinks, great vibes, and no cover charge. Every Friday night.",
+    "description": "Reggae, Dancehall, Soca, and AfroBeats all night at Euro Atlanta. Free entry, free parking, and incredible Jamaican food — oxtails that fall off the bone, snapper that snaps. Great drinks, great vibes, and no cover charge. One of Atlanta's most reliable free date nights.",
     "category": "afrobeat-reggae"
   }
 ]
