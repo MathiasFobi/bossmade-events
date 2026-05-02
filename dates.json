@@ -1,32 +1,32 @@
 [
   {
-    "emoji": "🎤",
-    "category": "comedy",
-    "title": "Best of Atlanta Comedy Showcase — Laughing Skull Lounge",
-    "description": "Laugh until your face hurts at Atlanta's premier comedy club. The Saturday night showcase features 4–6 of the city's best stand-up comics. Doors open at 7:30 PM, show starts at 8 PM. 21+ only. Great date energy — close tables, dark room, big laughs. Afterparty potential at nearby East Atlanta Village bars.",
-    "budget": "$20–$35 per person",
-    "location": "Laughing Skull Lounge, 878-1 Main St, Atlanta (East Atlanta Village) — Sat Apr 25, 8 PM",
-    "vibe": "Intimate, hilarious, high-energy — perfect for a couple who loves to laugh",
-    "validUntil": "2026-04-27"
-  },
-  {
     "emoji": "🪩",
     "category": "dancing",
-    "title": "Nonsense ATL — Atlanta Disco Society Night",
-    "description": "Atlanta Disco Society is back with a glamour-and-disco night at Wild Heaven Beer. Dress to impress, hit the dance floor, lose yourself in 70s–80s disco grooves. 10 PM – 3 AM. Pull up with your best moves or learn on the floor — either way, it's a memorable night out. Great for couples who love to dance and dress up.",
-    "budget": "$10–$20",
-    "location": "Wild Heaven Beer, 1200 Innovation Dr, Atlanta — Sat Apr 25, 10 PM–3 AM",
-    "vibe": "Glamorous, retro-disco, high-energy dancing — velvet rope energy",
-    "validUntil": "2026-04-27"
+    "title": "Soca De Mayo Festival — Rum Punch Brunch",
+    "description": "Soca music, Caribbean vibes, dancing, and rum punch — all afternoon. Morris Brown College hosts Atlanta's hottest pre-summer festival. Doors open 4 PM, live sets run through 11 PM. Outdoor stage, food vendors, cocktails. High-energy dancing vibe, great way to end the week and start the weekend. Bring dancing shoes.",
+    "budget": "$25–$45 per person",
+    "location": "Morris Brown College, 660 Campus View Ave NW, Atlanta — Sat May 2, 4 PM–11 PM",
+    "vibe": "Caribbean, high-energy, festival — for couples who want to move and groove",
+    "validUntil": "2026-05-03"
   },
   {
     "emoji": "🎨",
     "category": "art",
-    "title": "Paint a Butterfly Together — Painting with a Twist",
-    "description": "A guided 2-hour painting session where you and your partner create matching 16x20 canvases. No experience needed — the instructor walks you through every step. BYOB friendly. "Wildflowers with a Butterfly" is Saturday at noon, "A New Beginning" is Sunday at 7 PM — take your pick. Super low-pressure, super cute date activity.",
-    "budget": "$40 per person",
-    "location": "Painting with a Twist, 1230 Caroline St NE, Atlanta — Sat Apr 25, 12 PM or Sun Apr 26, 7 PM",
-    "vibe": "Creative, chill, wholesome — couples who create together, stay together",
-    "validUntil": "2026-04-27"
+    "title": "WigWag Art & Music Fest — Avondale Estates",
+    "description": "A full-day art and music festival just 15 min east of Atlanta. Local artists, live bands, food trucks, maker vendors. 11 AM–9 PM in the heart of Avondale Estates. Perfect for a daytime stroll through art + an evening of live music. Free to attend, food/art purchases extra. Dog-friendly. A super well-rounded date that hits art, music, and good food.",
+    "budget": "Free to attend, $10–$30 for food/art",
+    "location": "Washington St, Avondale Estates, GA — Sat May 2, 11 AM–9 PM",
+    "vibe": "Outdoorsy, artsy, community — great for a chill daytime walk turning into live music evening",
+    "validUntil": "2026-05-03"
+  },
+  {
+    "emoji": "🍄",
+    "category": "vegetarian",
+    "title": "Atlanta Mushroom Market — Wild Heaven Beer",
+    "description": "Atlanta's monthly specialty mushroom and local food market. Vendors from across the Southeast, local mushrooms, artisan goods, and Wild Heaven Beer on tap. Noon–7 PM. Bring a tote bag and graze your way through — vegetarian and local-food heaven. After, grab a pint at Wild Heaven's beautiful taproom. Free entry.",
+    "budget": "Free to attend, $15–$40 for purchases + $6 pints",
+    "location": "Wild Heaven Beer, 1200 Innovation Dr, Decatur — Sun May 3, 12–7 PM",
+    "vibe": "Local food, community market, relaxed afternoon — perfect low-key date for foodies",
+    "validUntil": "2026-05-03"
   }
 ]
