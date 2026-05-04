@@ -1,29 +1,11 @@
 [
   {
-    "title": "Kelontae Gavin Live at City Winery",
-    "date": "2026-05-03",
-    "time": "8:00 PM",
-    "location": "City Winery Atlanta, 987 Memorial Dr SE, Atlanta, GA",
-    "price": "From $120",
-    "description": "Gospel and R&B sensation Kelontae Gavin performs at City Winery. Intimate venue with wine, charcuterie, and great acoustics. Perfect for couples who love live music in a cozy, upscale setting. Arrive early for dinner and drinks before the show.",
-    "category": "live-music"
-  },
-  {
-    "title": "Vegan Soul Sunday – Hydration & Fresh Food",
-    "date": "2026-05-03",
-    "time": "12:00 PM – 5:00 PM",
-    "location": "Atlanta (check Eventnoire for location)",
-    "price": "Free / pay what you can",
-    "description": "Weekly vegan food gathering with plant-based dishes, fresh juices, and community vibes. Great low-key date idea for couples interested in healthy eating and connecting over good food. relaxed atmosphere, no pressure — just good vibes and great food.",
-    "category": "vegetarian-food"
-  },
-  {
-    "title": "Ichiko Aoba & Charlie Martin – Symphony Hall Atlanta",
+    "title": "Ichiko Aoba – Live at Symphony Hall",
     "date": "2026-05-04",
     "time": "8:00 PM",
     "location": "Symphony Hall Atlanta, 1280 Peachtree St NE, Atlanta, GA",
     "price": "From $67",
-    "description": "Japanese singer-songwriter Ichiko Aoba performs her ethereal, atmospheric folk music at Symphony Hall. A deeply romantic, cinematic experience — couples who appreciate atmospheric music and elegant venues will find this unforgettable.",
+    "description": "Japanese singer-songwriter Iké Aoba performs her ethereal, atmospheric folk at Symphony Hall. A deeply romantic, cinematic experience — couples who love atmospheric music and elegant venues will find this unforgettable.",
     "category": "live-music"
   },
   {
@@ -32,17 +14,8 @@
     "time": "5:00 PM – 10:00 PM",
     "location": "Virtue Rooftop (above 5Church Midtown), 84 5th St NW, Atlanta, GA",
     "price": "Free to attend / drinks extra",
-    "description": "Weekly jazz night on one of Atlanta's most scenic rooftops. Perfect Tuesday evening date — start with dinner at 5Church below, then head up for jazz with skyline views. Great energy, saxophonist Loyd Watson Jr. performs. Weather-dependent, call ahead.",
+    "description": "Weekly jazz night on one of Atlanta's most scenic rooftops. Start with dinner at 5Church below, then head up for jazz with skyline views. Great energy with saxophonist Loyd Watson Jr. Weather-dependent.",
     "category": "live-music"
-  },
-  {
-    "title": "Scott Pilgrim vs. The World Drag Dinner",
-    "date": "2026-05-07",
-    "time": "8:00 PM – 10:00 PM",
-    "location": "Lore Atlanta, Atlanta, GA",
-    "price": "$35–$50",
-    "description": "Epic drag show experience inspired by Scott Pilgrim. Dinner, drinks, and incredible performances — a super fun, memorable date night that's different from anything else. Great energy, hilarious hosts, and perfect for couples who love quirky entertainment.",
-    "category": "comedy"
   },
   {
     "title": "ATL Bachatuesdays at Academy Ballroom",
@@ -50,25 +23,25 @@
     "time": "8:30 PM – 12:30 AM",
     "location": "Academy Ballroom Atlanta, 6250 Lake Dr, Atlanta, GA",
     "price": "$5–$12",
-    "description": "Atlanta's best weekly salsa and bachata social dance night. All skill levels welcome — beginners can grab a lesson early, then dance the night away. Great couples activity if you want to learn to move together. Energetic crowd, good DJs, and a fun late-night vibe.",
+    "description": "Atlanta's best weekly salsa and bachata social dance night. All skill levels welcome — beginners grab a lesson early, then dance the night away. Great couples activity with an energetic crowd and fun late-night vibe.",
     "category": "dancing"
   },
   {
-    "title": "The Classic Improv Show – Whole World Improv Theatre",
-    "date": "2026-05-08",
-    "time": "8:00 PM – 9:30 PM",
-    "location": "Whole World Improv Theatre, 1231 Euclid Ave NE, Atlanta, GA 30306",
-    "price": "Varies (check artsatl.org)",
-    "description": "Award-winning improv comedy show — actors create scenes on the spot based on audience suggestions. Fun, interactive, and different every time. Great for couples who enjoy spontaneous humor and want to support Atlanta's local arts scene.",
+    "title": "Matt O'Brien – Live at Helium Comedy Club",
+    "date": "2026-05-07",
+    "time": "7:00 PM & 9:30 PM",
+    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
+    "price": "Check heliumcomedy.com",
+    "description": "Comedy standout Matt O'Brien (America's Got Talent, Conan, Comedy Central) brings his set to Helium. Intimate club, great sightlines, food and drinks. Perfect for a funny, low-key date night.",
     "category": "comedy"
   },
   {
-    "title": "The Classic Improv Show – Whole World Improv Theatre",
-    "date": "2026-05-09",
-    "time": "8:00 PM – 9:30 PM",
-    "location": "Whole World Improv Theatre, 1231 Euclid Ave NE, Atlanta, GA 30306",
-    "price": "Varies (check artsatl.org)",
-    "description": "Award-winning improv comedy show — actors create scenes on the spot based on audience suggestions. Fun, interactive, and different every time. Great for couples who enjoy spontaneous humor and want to support Atlanta's local arts scene.",
+    "title": "Scott Pilgrim vs. The World Drag Dinner",
+    "date": "2026-05-07",
+    "time": "8:00 PM – 10:00 PM",
+    "location": "Lore Atlanta, Atlanta, GA",
+    "price": "$35–$50",
+    "description": "Epic drag show inspired by Scott Pilgrim. Dinner, drinks, and incredible performances — a super fun, memorable date night. Great energy, hilarious hosts, perfect for couples who love quirky entertainment.",
     "category": "comedy"
   },
   {
@@ -77,34 +50,25 @@
     "time": "7:00 PM & 9:15 PM",
     "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
     "price": "Special event pricing (check heliumcomedy.com)",
-    "description": "TV personality and beloved comedian Rickey Smiley brings his stand-up to Atlanta. Helium is the city's top comedy club — intimate setting, great sightlines, solid food and drinks. Friday and Saturday shows. Call ahead for ticket availability.",
+    "description": "TV personality and beloved comedian Rickey Smiley brings his stand-up to Atlanta. Helium is the city's top comedy club — intimate setting, great sightlines, solid food and drinks.",
     "category": "comedy"
   },
   {
-    "title": "Rickey Smiley – Special Event at Helium Comedy Club",
-    "date": "2026-05-09",
-    "time": "7:00 PM & 9:30 PM",
-    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
-    "price": "Special event pricing (check heliumcomedy.com)",
-    "description": "TV personality and beloved comedian Rickey Smiley brings his stand-up to Atlanta. Helium is the city's top comedy club — intimate setting, great sightlines, solid food and drinks. Friday and Saturday shows. Call ahead for ticket availability.",
-    "category": "comedy"
+    "title": "Latin Fridays at Sanctuary Nightclub",
+    "date": "2026-05-08",
+    "time": "Doors 8:00 PM",
+    "location": "Sanctuary Nightclub, 96 5th St NW, Atlanta, GA",
+    "price": "$15 cover",
+    "description": "Atlanta's premier Friday night Latin dance party. Salsa, bachata, merengue, reggaeton, and Latin pop on multiple floors. Full bar, great crowd — perfect for couples who want to dance the night away.",
+    "category": "dancing"
   },
   {
-    "title": "40th Annual Sweet Auburn Springfest",
+    "title": "40th Annual Sweet Auburn Springfest – Day 1",
     "date": "2026-05-09",
     "time": "11:00 AM – 9:00 PM",
     "location": "Auburn Avenue, Downtown Atlanta, GA",
     "price": "Free",
-    "description": "One of Atlanta's largest free outdoor festivals celebrating Black culture, music, food, and community. Live music, food vendors, art exhibits, and family-friendly activities. Great for couples who want a free, vibrant day out exploring Atlanta's historic Sweet Auburn district.",
-    "category": "live-music"
-  },
-  {
-    "title": "40th Annual Sweet Auburn Springfest – Day 2",
-    "date": "2026-05-10",
-    "time": "11:00 AM – 9:00 PM",
-    "location": "Auburn Avenue, Downtown Atlanta, GA",
-    "price": "Free",
-    "description": "Second day of Atlanta's signature community festival. More live music, food, and cultural celebrations. Perfect for a full-day date — bring a blanket, grab food from vendors, and enjoy the vibes. One of the best free events in Atlanta.",
+    "description": "One of Atlanta's largest free outdoor festivals celebrating Black culture, music, food, and community. Live music, food vendors, art exhibits, and family-friendly activities. Great for couples who want a vibrant free day out.",
     "category": "live-music"
   },
   {
@@ -113,7 +77,7 @@
     "time": "Doors 7:00 PM",
     "location": "The Masquerade (The Loft), 1374 West Peachtree St NW, Atlanta, GA",
     "price": "Tickets at masqueradeatlanta.com",
-    "description": "Jamaican reggae star Lila Iké brings her captivating voice and modern reggae sound to The Loft. Intimate venue with great acoustics and cocktails — no arena crowds, just pure music in a cool space. Perfect for couples who love reggae and want a special night out.",
+    "description": "Jamaican reggae star Lila Iké brings her captivating voice to The Loft. Intimate venue with great acoustics and cocktails — no arena crowds, just pure music in a cool space. Perfect for reggae-loving couples.",
     "category": "reggae"
   },
   {
@@ -122,44 +86,26 @@
     "time": "10:00 PM",
     "location": "City Winery Atlanta, 987 Memorial Dr SE, Atlanta, GA",
     "price": "Tickets at comedy.tickets.com",
-    "description": "Legendary comedian Bruce Bruce delivers his signature high-energy stand-up at City Winery. Wine, laughs, and an intimate date night atmosphere. Shows fill up fast — book early for the best seats. Great for couples who love comedy.",
+    "description": "Legendary comedian Bruce Bruce delivers his high-energy stand-up at City Winery. Wine, laughs, and an intimate date night atmosphere. Shows fill up fast — book early.",
     "category": "comedy"
   },
   {
-    "title": "Atlanta's Soul Healing Picnic: Mother's Day Edition",
+    "title": "Sandy Springs Farmers Market",
     "date": "2026-05-09",
-    "time": "12:00 PM – 11:00 PM",
-    "location": "Westside Park, Atlanta, GA",
-    "price": "Varies (check event page)",
-    "description": "Outdoor picnic experience with soul food, live music, games, and community vibes. Great outdoor date idea — pack a blanket, enjoy the food vendors, and soak in the atmosphere. Especially festive for Mother's Day weekend.",
+    "time": "8:30 AM – 12:30 PM",
+    "location": "Sandy Springs Farmers Market, Atlanta, GA",
+    "price": "Free",
+    "description": "Weekly Saturday farmers market with local produce, artisan goods, and food vendors. Great relaxed morning date — grab coffee, walk around, and pick up fresh goods together.",
     "category": "vegetarian-food"
   },
   {
-    "title": "Latin Fridays at Sanctuary Nightclub",
-    "date": "2026-05-08",
-    "time": "Doors 8:00 PM",
-    "location": "Sanctuary Nightclub, 96 5th St NW, Atlanta, GA",
-    "price": "$15 cover",
-    "description": "Atlanta's premier Friday night Latin dance party. Salsa, bachata, merengue, reggaeton, and Latin pop on multiple floors. Full bar, great crowd, and always a good time. Perfect for couples who want to dance the night away.",
-    "category": "dancing"
-  },
-  {
-    "title": "Big Dog Improv Fest: Saturday Show",
-    "date": "2026-05-16",
-    "time": "7:30 PM – 10:30 PM",
-    "location": "Red Light Cafe, 553 Amsterdam Ave NE, Atlanta, GA 30306",
-    "price": "Varies (check event page)",
-    "description": "Two-night improv comedy festival featuring Atlanta's best improv performers. Saturday night show at Red Light Cafe — intimate venue, great lineups, and lots of laughs. Perfect for couples who love comedy and want to discover rising talent.",
-    "category": "comedy"
-  },
-  {
-    "title": "Unbound Narratives: Embodied Language – Final Days",
-    "date": "2026-05-17",
-    "time": "Exhibition runs through May 17; check website for hours",
-    "location": "Atlanta Contemporary, 92 Georgia Ave SE, Atlanta, GA 30312",
-    "price": "Free admission",
-    "description": "Group exhibition exploring embodied language through diverse artistic expressions. Final weekend of this acclaimed show. Perfect cultural date — couples can wander through galleries together, grab coffee at the on-site café, and explore the surrounding area. Free admission.",
-    "category": "art-gallery"
+    "title": "40th Annual Sweet Auburn Springfest – Day 2",
+    "date": "2026-05-10",
+    "time": "11:00 AM – 9:00 PM",
+    "location": "Auburn Avenue, Downtown Atlanta, GA",
+    "price": "Free",
+    "description": "Second day of Atlanta's signature community festival. More live music, food, and cultural celebrations. Pack a blanket, grab food from vendors, and enjoy the vibes. One of the best free events in Atlanta.",
+    "category": "live-music"
   },
   {
     "title": "ATL Bachatuesdays at Academy Ballroom",
@@ -167,25 +113,70 @@
     "time": "8:30 PM – 12:30 AM",
     "location": "Academy Ballroom Atlanta, 6250 Lake Dr, Atlanta, GA",
     "price": "$5–$12",
-    "description": "Atlanta's best weekly salsa and bachata social dance night. All skill levels welcome — beginners can grab a lesson early, then dance the night away. Great couples activity if you want to learn to move together. Energetic crowd, good DJs, and a fun late-night vibe.",
+    "description": "Atlanta's best weekly salsa and bachata social dance night. All skill levels welcome — beginners grab a lesson early, then dance the night away. Great couples activity with an energetic crowd and fun late-night vibe.",
     "category": "dancing"
   },
   {
-    "title": "ATL Bachatuesdays at Academy Ballroom",
-    "date": "2026-05-19",
-    "time": "8:30 PM – 12:30 AM",
-    "location": "Academy Ballroom Atlanta, 6250 Lake Dr, Atlanta, GA",
-    "price": "$5–$12",
-    "description": "Atlanta's best weekly salsa and bachata social dance night. All skill levels welcome — beginners can grab a lesson early, then dance the night away. Great couples activity if you want to learn to move together. Energetic crowd, good DJs, and a fun late-night vibe.",
+    "title": "Martin Amini – Special Event at Helium Comedy Club",
+    "date": "2026-05-15",
+    "time": "7:00 PM & 9:15 PM",
+    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
+    "price": "Check heliumcomedy.com",
+    "description": "Stand-up comedian Martin Amini brings his unique voice to Helium. Great date night — intimate club, good food and drinks, and non-stop laughs. One of Atlanta's best comedy venues.",
+    "category": "comedy"
+  },
+  {
+    "title": "Slow Drag – Audio Gumbo Monthly Dance Party",
+    "date": "2026-05-16",
+    "time": "Doors 9:00 PM",
+    "location": "Atlanta (check audio-gumbo.com for venue)",
+    "price": "Tickets at audio-gumbo.com",
+    "description": "Monthly dance party celebrating Black intimacy and culture through 70s slow jams. A romantic, unique dance experience you won't find anywhere else in the city. Perfect for couples who want something different.",
     "category": "dancing"
   },
   {
-    "title": "Reggae Fest Massive ATL – Mavado, Busy Signal, Beenie Man & More",
-    "date": "2026-05-23",
-    "time": "Doors 7:00 PM",
-    "location": "State Farm Arena, 1 State Farm Dr, Atlanta, GA 30303",
-    "price": "Tickets at statefarmarena.com",
-    "description": "Huge reggae festival featuring Mavado, Busy Signal, Beenie Man, Spice, Elephant Man, and more. State Farm Arena transforms into an island party with non-stop reggae vibes. Great for couples who love reggae and want to experience a big concert together. Food, drinks, and incredible energy.",
-    "category": "reggae"
+    "title": "ECHOES Exhibition – Kai Lin Art (Final Days)",
+    "date": "2026-05-15",
+    "time": "Exhibition ends May 15; check kailinart.com for hours",
+    "location": "Kai Lin Art, 92 Georgia Ave SE, Atlanta, GA 30312",
+    "price": "Free admission",
+    "description": "Final days of ECHOES, a group exhibition exploring themes of return and interruption. Opening night was May 1 with a mixer on May 9. Perfect cultural date — wander through galleries together and grab coffee nearby.",
+    "category": "art-gallery"
+  },
+  {
+    "title": "Gordon Parks: The South in Color – Jackson Fine Art",
+    "date": "2026-05-16",
+    "time": "Check jacksonfineart.com for hours",
+    "location": "Jackson Fine Art, 3115 Piedmont Rd NE, Atlanta, GA 30305",
+    "price": "Free admission",
+    "description": "Acclaimed exhibition of Gordon Parks' color photography capturing the American South. A powerful, moving show — couples who appreciate photography and history will find this deeply resonant.",
+    "category": "art-gallery"
+  },
+  {
+    "title": "Druid Hills Farmers Market",
+    "date": "2026-05-16",
+    "time": "9:00 AM – 12:00 PM",
+    "location": "Druid Hills Farmers Market, Atlanta, GA",
+    "price": "Free",
+    "description": "Weekly Saturday morning farmers market in the beautiful Druid Hills neighborhood. Local produce, plants, artisan foods, and live music. Great relaxed date for couples who love good food and neighborhood vibes.",
+    "category": "vegetarian-food"
+  },
+  {
+    "title": "AfroVibez 2026 – 5th Annual Africa Day Celebration at MOWA",
+    "date": "2026-05-17",
+    "time": "Check vipsocio.com for time",
+    "location": "MOWA (Museum of West African Art), Atlanta, GA",
+    "price": "Check vipsocio.com for tickets",
+    "description": "5th Annual Africa Day Celebration featuring African music, art, food, and culture. Live performances, vendors, and community celebration. Great cultural date for couples interested in African heritage and diaspora arts.",
+    "category": "afrobeat"
+  },
+  {
+    "title": "AfroPianoWednesdays ATL – DJ Shine D'Beast",
+    "date": "2026-05-13",
+    "time": "Doors 8:00 PM",
+    "location": "TerangaCity, Atlanta, GA",
+    "price": "Check eventbrite.com",
+    "description": "Afrobeat and piano-infused DJ night featuring DJ Shine D'Beast. One of Atlanta's best recurring Afrobeat parties. Great energy, full bar, and a fun, lively crowd. Perfect for couples who love to dance.",
+    "category": "afrobeat"
   }
 ]
