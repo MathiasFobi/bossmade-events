@@ -1,119 +1,137 @@
 [
   {
-    "title": "Best of Atlanta Comedy Showcase",
-    "date": "2026-05-09",
-    "time": "8:00 PM (doors 7:30 PM)",
-    "location": "Laughing Skull Lounge, 878 Peachtree St, Atlanta",
-    "price": "$45-55",
-    "description": "Intimate 74-seat venue inside the iconic Vortex Bar & Grill. The best locally touring and nationally touring comedians doing their best 10-minute sets. Great energy, relaxed vibe — perfect for a couple who loves to laugh together. Seats assigned at door.",
-    "category": "comedy"
-  },
-  {
-    "title": "Piedmont Park Green Market",
-    "date": "2026-05-09",
-    "time": "9:00 AM - 1:00 PM",
-    "location": "Piedmont Park, Atlanta",
-    "price": "Free",
-    "description": "Atlanta's iconic Saturday farmers market. Walk the vendors, grab fresh food, people-watch. Low-key, cute, no pressure — great morning date. Food trucks, local produce, artisan goods.",
-    "category": "food"
-  },
-  {
-    "title": "Atlanta Botanical Garden: Frog Feeding",
-    "date": "2026-05-09",
-    "time": "10:00 AM",
-    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE",
-    "price": "Free with garden admission",
-    "description": "Fun, quirky morning activity at the Botanical Garden. Learn about frogs, explore the exhibits — a nice add-on to a morning market stroll in Piedmont Park.",
-    "category": "food"
-  },
-  {
     "title": "Xscape: The Mother's Day Love Affair",
     "date": "2026-05-10",
     "time": "7:30 PM (doors 6:30 PM)",
     "location": "Fox Theatre, 660 Peachtree St NE, Atlanta",
-    "price": "Varies",
-    "description": "Iconic R&B group Xscape reunites for a Mother's Day concert at the gorgeous Fox Theatre. Great for couples who love 90s R&B — smooth harmonies, nostalgia, and a legendary venue. Book early!",
-    "category": "music"
+    "price": "Varies (tickets available)",
+    "description": "Iconic 90s R&B group Xscape reunites for a Mother's Day celebration. Perfect for couples who grew up on their music. An intimate, nostalgic night at the stunning Fox Theatre — one of Atlanta's most romantic venues.",
+    "category": "live-music"
   },
   {
-    "title": "Friday Jazz at the High",
-    "date": "2026-05-15",
-    "time": "6:00 PM - 9:50 PM",
-    "location": "High Museum of Art, 1280 Peachtree St NE, Atlanta",
-    "price": "$10 members / $30 non-members",
-    "description": "Live jazz at the High every third Friday. This month features Rafael Pereira and friends on the Sifly Piazza and Orkin Terrace. Enjoy drinks, light bites, docent-led tours, and exploring the galleries. Perfect romantic evening — art, music, wine.",
-    "category": "music"
+    "title": "Raue + Olive Vox @ The Masquerade",
+    "date": "2026-05-10",
+    "time": "Doors 7:00 PM",
+    "location": "Altar at The Masquerade, 1374 West Peachtree St NW, Atlanta",
+    "price": "$12-15",
+    "description": "Indie/alternative rock night at Atlanta's legendary Masquerade. Great energy, solid crowd, and the Altar room has an intimate vibe perfect for a date who loves live music.",
+    "category": "live-music"
   },
   {
-    "title": "Daft Punk Night",
-    "date": "2026-05-16",
-    "time": "9:00 PM",
-    "location": "Hell at The Masquerade, 695 Crest Ave NE, Atlanta",
-    "price": "$$",
-    "description": "Dance all night to Daft Punk hits, remixes, French house classics, and electronic anthems with immersive visuals. 18+. Masquerade is one of Atlanta's best dance venues — great energy, packed floor, perfect for couples who love to move.",
+    "title": "Comedy Double Header feat. Teju Babyface",
+    "date": "2026-05-10",
+    "time": "6:00 PM - 10:00 PM",
+    "location": "3100 Avalon Ridge Pl NW, Peachtree Corners, GA",
+    "price": "$25",
+    "description": "Two-bonus laugh track with Teju Babyface Organization & Sheyeto Productions. A well-curated double-header lineup — great for a date that loves to laugh together.",
+    "category": "comedy"
+  },
+  {
+    "title": "ATL BachaTuesdays — Salsa & Bachata Social",
+    "date": "2026-05-12",
+    "time": "8:30 PM - 12:30 AM",
+    "location": "Academy Ballroom, 800 Miami Cir NE, Atlanta",
+    "price": "$5-12",
+    "description": "Weekly Tuesday salsa and bachata social dance night. Great for beginners and experienced dancers alike. Free lesson often included. Perfect low-pressure date — you can dance close and nobody's watching too hard.",
     "category": "dancing"
   },
   {
-    "title": "Slow Drag — Audio Gumbo x Black Intimacy Dance Party",
-    "date": "2026-05-16",
-    "time": "Evening (TBA)",
-    "location": "Atlanta (Audio Gumbo)",
-    "price": "$$",
-    "description": "Monthly dance party inspiring Black intimacy and celebrating Black culture through 70s slow jams. 'Nothing like it in the city. A vibe!!!!' — loved by attendees. Ideal for couples who want a deeper, more intentional dance experience. Check audio-gumbo.com for details.",
-    "category": "dancing"
+    "title": "Jazz On The Rooftop — Virtue Rooftop",
+    "date": "2026-05-12",
+    "time": "5:00 PM - 10:00 PM",
+    "location": "Virtue Rooftop (above 5Church Midtown), 46 4th St NW, Atlanta",
+    "price": "Free/cover",
+    "description": "Weekly rooftop jazz series with incredible Midtown views. Ideal for a Tuesday date — grab a cocktail, sit close, and enjoy live jazz as the sun goes down. Romantic without being cheesy.",
+    "category": "live-music"
   },
   {
-    "title": "Cocktails in the Garden",
+    "title": "Jazz In The Sky — Colony Square Helipad",
+    "date": "2026-05-12",
+    "time": "6:00 PM - 8:00 PM",
+    "location": "Colony Square, 1197 Peachtree St NE, Atlanta",
+    "price": "Limited spots (first-come)",
+    "description": "Elevated jazz experience atop Colony Square's Helipad with panoramic Midtown views. Intimate, limited-capacity event — very romantic for a couples evening out.",
+    "category": "live-music"
+  },
+  {
+    "title": "Uptown Comedy Corner: Guy'z Nite Out",
+    "date": "2026-05-13",
+    "time": "9:00 PM - 11:00 PM",
+    "location": "Uptown Comedy Corner, 4730 Frontage Rd, Forest Park, GA",
+    "price": "$20",
+    "description": "Atlanta's original comedy club delivers a solid mid-week laugh. Guy'z Nite Out is a great date choice — dim lights, good food, and guaranteed laughter. Less crowded than weekend shows.",
+    "category": "comedy"
+  },
+  {
+    "title": "MAJOR. — City Winery Atlanta",
     "date": "2026-05-14",
-    "time": "5:00 PM - 9:00 PM",
-    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE",
-    "price": "Included with garden admission",
-    "description": "Garden's popular after-hours event — specialty cocktails, live music, explore the Niki in the Garden exhibition dramatically lit at night, Canopy Walk, and the Earth Goddess sculpture. Every Thursday through July 30. Great date vibe — atmospheric, beautiful, not too pricey.",
-    "category": "food"
+    "time": "8:00 PM",
+    "location": "City Winery Atlanta, 650 2nd St NW, Atlanta",
+    "price": "$97",
+    "description": "R&B/soul artist MAJOR. performs at City Winery's intimate space. If you two love smooth R&B and want a classy evening with wine, dinner, and live music — this is a premium date night pick.",
+    "category": "live-music"
   },
   {
-    "title": "Cocktails in the Garden (Ongoing)",
-    "date": "2026-05-21",
-    "time": "5:00 PM - 9:00 PM",
-    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE",
-    "price": "Included with garden admission",
-    "description": "Every Thursday at the Garden — specialty cocktails, live music, explore exhibits at night. Romantic setting, beautiful lights, good food from Longleaf Restaurant. Ongoing through July.",
-    "category": "food"
+    "title": "Best of Atlanta Comedy Showcase",
+    "date": "2026-05-16",
+    "time": "8:00 PM (doors 7:30 PM)",
+    "location": "Laughing Skull Lounge, 855 8th St NW, Atlanta",
+    "price": "$15-20",
+    "description": "Weekly showcase of Atlanta's best up-and-coming comedians. Laughing Skull is a 21+ venue with a fun, unpretentious vibe. Great for couples who don't take themselves too seriously.",
+    "category": "comedy"
   },
   {
-    "title": "Reggae Fest Massive ATL",
-    "date": "2026-05-23",
-    "time": "8:00 PM (doors 7:00 PM)",
-    "location": "State Farm Arena, 191 Peachtree St NE, Atlanta",
-    "price": "$$$",
-    "description": "Massive reggae/dancehall lineup featuring Mavado, Busy Signal, Beenie Man, Spice, Elephant Man, Ding Dong, Vanessa Bling, Serani, Tony Matterhorn & T.O.K. at State Farm Arena. If you love island music and dancing, this is the event of the month. Big energy, great vibes for couples who love to dance.",
-    "category": "music"
-  },
-  {
-    "title": "HELD: Black Women and The Womb Opening",
-    "date": "2026-05-08",
-    "time": "7 PM - 11 PM",
-    "location": "Nina Baldwin Gallery, Atlanta",
-    "price": "Free",
-    "description": "Powerful opening night celebrating Black women through art. Great conversation starter. Intimate gallery setting — ideal for a thoughtful, cultured date. Don't miss it if you're in Atlanta this weekend.",
-    "category": "art"
-  },
-  {
-    "title": "Spruill Gallery: 'Returns' Exhibition",
-    "date": "2026-05-09",
-    "time": "11:00 AM - 3:00 PM (Wed-Sun)",
-    "location": "Spruill Gallery, 4681 Ashford Dunwoody Rd, Dunwoody",
-    "price": "Free",
-    "description": "Group exhibition featuring Hamidullah — runs through May at Spruill Gallery. Wed-Sun, 11-3. Low-key, cultured date. Walk around, grab coffee after in Dunwoody. Great way to spend an afternoon together.",
-    "category": "art"
-  },
-  {
-    "title": "Salsa & Bachata Night — Hangeo Thursdays",
-    "date": "2026-05-21",
-    "time": "7:00 PM",
-    "location": "290 Hilderbrand Dr, Suite A5, Atlanta",
-    "price": "$$",
-    "description": "Latin dance social — beginners welcome! Salsa and Bachata night. Great way to break a sweat together and learn something new. Perfect for couples who want to get active and learn to dance. Every Thursday.",
+    "title": "ATL BachaTuesdays — Salsa & Bachata Social",
+    "date": "2026-05-19",
+    "time": "8:30 PM - 12:30 AM",
+    "location": "Academy Ballroom, 800 Miami Cir NE, Atlanta",
+    "price": "$5-12",
+    "description": "Another edition of Atlanta's favorite weekly latin dance social. The crowd is friendly, the music is great, and it's an affordable way to spend a Tuesday night together.",
     "category": "dancing"
+  },
+  {
+    "title": "Jazz On The Rooftop — Virtue Rooftop",
+    "date": "2026-05-19",
+    "time": "5:00 PM - 10:00 PM",
+    "location": "Virtue Rooftop (above 5Church Midtown), 46 4th St NW, Atlanta",
+    "price": "Free/cover",
+    "description": "Another week, another rooftop jazz session. The Virtue Rooftop is a hidden gem in Midtown — perfect for couples who want something low-key but memorable.",
+    "category": "live-music"
+  },
+  {
+    "title": "Politically inCorrect — Fine Art Exhibition",
+    "date": "2026-05-20",
+    "time": "Various (gallery hours)",
+    "location": "Railroad ATL Future Gallery, 255 Ted Turner Drive SW, Atlanta",
+    "price": "Free",
+    "description": "A bold group fine art exhibition exploring social and political themes through powerful visual art. A great cultural date for couples who like to talk, think, and be provoked. Free to attend.",
+    "category": "art-galleries"
+  },
+  {
+    "title": "R.A.S Memorial Weekend — 100% Reggae Afrobeat Soca",
+    "date": "2026-05-23",
+    "time": "10:00 PM - 4:00 AM",
+    "location": "Underground Atlanta, 50 Lower Alabama St SW, Atlanta",
+    "price": "TBD",
+    "description": "Memorial Weekend kick-off with pure reggae, Afrobeat, and soca energy. Underground Atlanta is a one-of-a-kind venue with history and character. Get dressed up, dance close, and enjoy the Caribbean vibes all night long.",
+    "category": "afrobeat-reggae"
+  },
+  {
+    "title": "Reggae Fest Massive ATL — Mavado, Busy Signal, Spice & More",
+    "date": "2026-05-23",
+    "time": " Doors open evening",
+    "location": "State Farm Arena, 191 Peachtree St NE, Atlanta",
+    "price": "TBD (premium act)",
+    "description": "The biggest reggae event of the year in Atlanta. Mavado, Busy Signal, Beenie Man, Spice, Elephant Man, and more on one stage. For couples who love to dance and enjoy Caribbean culture — this is the experience.",
+    "category": "afrobeat-reggae"
+  },
+  {
+    "title": "Reggae Fest 2026 — Day 2",
+    "date": "2026-05-24",
+    "time": "Afternoon-Evening",
+    "location": "State Farm Arena, 191 Peachtree St NE, Atlanta",
+    "price": "TBD",
+    "description": "Second day of Atlanta's premier reggae festival. Even if you miss day one, day two delivers the same incredible lineup. A full afternoon/evening date that turns into a full night out.",
+    "category": "afrobeat-reggae"
   }
 ]
