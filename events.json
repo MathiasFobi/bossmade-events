@@ -1,200 +1,137 @@
 [
   {
-    "title": "The Poko Party — Afrobeat & African Rhythms",
-    "date": "2026-05-17",
-    "time": "7:00 PM – 2:00 AM",
-    "location": "District Atlanta, 35 Woodward Way SE, Atlanta 30313",
-    "price": "Varies",
-    "description": "High-energy Afrobeat party with an all-female DJ lineup. Known for its electric atmosphere and culture-celebrating crowd. Great for couples who love to dance and feel the rhythm of the continent.",
-    "category": "Afrobeat/reggae"
-  },
-  {
-    "title": "Friday Jazz — High Museum of Art",
+    "title": "Breakaway Music Festival",
     "date": "2026-05-15",
-    "time": "6:00 PM – 10:00 PM",
-    "location": "High Museum of Art, 1280 Peachtree St NE, Atlanta 30309",
-    "price": "$30 general admission",
-    "description": "Live jazz in one of Atlanta's most iconic art spaces. Bring your honey, grab a cocktail, and let the music set the mood. Perfect sophisticated date night with art and sound.",
-    "category": "live music"
+    "time": "Doors open 4PM",
+    "location": "Center Parc Stadium, Atlanta",
+    "price": "From $149",
+    "description": "Headlined by John Summit, Kaskade, FISHER, and Mau P. Two days of EDM and electronic music. Perfect for couples who love to dance and enjoy a festival vibe together.",
+    "category": "music"
   },
   {
-    "title": "ATL BACHATuesdays — Latin Dance Social",
-    "date": "2026-05-19",
-    "time": "8:30 PM – 12:30 AM",
-    "location": "Academy Ballroom, 800 Miami Cir NE, Atlanta GA 30324",
-    "price": "$5–$12",
-    "description": "Atlanta's best weekly bachata and salsa social. All levels welcome with a free beginner lesson. Couples can learn a new dance together or show off their moves. Excellent energy every week.",
-    "category": "dancing"
-  },
-  {
-    "title": "Salsa ATL's Tropical Elegance — Saturday Latin Night",
+    "title": "Euro Atlanta: I Love Reggae Night",
     "date": "2026-05-16",
-    "time": "8:00 PM – 1:00 AM",
-    "location": "Atlanta area venues",
-    "price": "Varies",
-    "description": "Elegant tropical-themed Latin dance night featuring salsa, bachata, and merengue. Dress to impress, dance the night away. A glamorous date-night option.",
-    "category": "dancing"
+    "time": "Nighttime (free all night)",
+    "location": "Euro Atlanta",
+    "price": "Free",
+    "description": "Reggae, Dancehall, Soca, Afrobeats with great drinks and even better vibes. Free entry makes this an easy, low-pressure date option with awesome music.",
+    "category": "music"
   },
   {
-    "title": "Free Salsa & Bachata Lessons — El Super Pan BatteryATL",
+    "title": "Best of Atlanta Comedy Showcase",
+    "date": "2026-05-16",
+    "time": "8:00 PM (doors 7:30 PM)",
+    "location": "Laughing Skull Lounge, Atlanta",
+    "price": "Varies",
+    "description": "Top local comedians in one show. Laughing Skull is an intimate venue — great for couples who share a sense of humor and want a memorable night out.",
+    "category": "comedy"
+  },
+  {
+    "title": "Jim Breuer: Find The Funny",
     "date": "2026-05-17",
-    "time": "6:30 PM – 9:30 PM",
-    "location": "El Super Pan, Battery ATL, 2644 Cobb Pkwy SE, Smyrna 30080",
-    "price": "Free",
-    "description": "Free salsa and bachata dance lessons at El Super Pan followed by open dancing. Caribbean vibes, great food, and no cover charge. Fun low-key date idea.",
+    "time": "8:00 PM",
+    "location": "Buckhead Theatre, Atlanta",
+    "price": "Varies",
+    "description": "SNL legend and comedy veteran Jim Breuer brings his tour to Atlanta. A solid date-night pick — big name, good energy, memorable laughs.",
+    "category": "comedy"
+  },
+  {
+    "title": "The Poko Party",
+    "date": "2026-05-17",
+    "time": "7:00 PM",
+    "location": "District Atlanta",
+    "price": "Varies",
+    "description": "Electrifying all-female DJ lineup serving high-energy African rhythms. Known for its vibrant, cult following atmosphere — perfect for couples who love to dance and celebrate culture.",
+    "category": "music"
+  },
+  {
+    "title": "ATL BachaTuesdays",
+    "date": "2026-05-19",
+    "time": "8:30 PM - 12:30 AM",
+    "location": "Academy Ballroom, 800 Miami Cir NE, Atlanta",
+    "price": "$5-$12",
+    "description": "Weekly Bachata and Salsa social. Great for beginners and experienced dancers alike. Affordable, fun, and a natural ice-breaker — holding someone on a dance floor never hurts a date.",
     "category": "dancing"
   },
   {
-    "title": "R.A.S Memorial Weekend — Reggae, Afrobeat & Soca",
+    "title": "Atlanta Jazz Festival (Memorial Day Weekend)",
     "date": "2026-05-23",
-    "time": "10:00 PM – 3:00 AM",
-    "location": "Atlanta area venue (TBA)",
-    "price": "Varies",
-    "description": "100% Reggae, Afrobeat & Soca memorial weekend celebration. Electric island vibes all night long. Perfect for couples who want to dance to Caribbean rhythms in a high-energy crowd.",
-    "category": "Afrobeat/reggae"
+    "time": "All day",
+    "location": "Piedmont Park / Multiple Venues",
+    "price": "Free (many events)",
+    "description": "Grammy-stacked lineup celebrating its 49th year. Atlanta's premier free jazz festival — ideal for a laid-back daytime date with picnic vibes and world-class music.",
+    "category": "music"
   },
   {
-    "title": "Atlanta Caribbean Carnival — Parade of Bands",
+    "title": "R.A.S Memorial Weekend: 100% Reggae Afrobeats Soca",
     "date": "2026-05-23",
-    "time": "12:00 PM – 4:00 PM (festival runs till 10 PM)",
-    "location": "Peachtree Street → Rodney Cook Sr. Park, Vine City, Atlanta",
-    "price": "Free to watch; festival entry varies",
-    "description": "The signature Caribbean event of the year. Vibrant street parade with elaborate feather costumes, soca trucks, dancers, and DJs. Festival village has live music, Caribbean food, and cultural showcases. A must-see experience.",
-    "category": "Afrobeat/reggae"
-  },
-  {
-    "title": "J'ouvert — Caribbean Carnival Opening",
-    "date": "2026-05-22",
-    "time": "6:00 PM – 1:00 AM",
-    "location": "Underground Atlanta, Downtown Atlanta",
+    "time": "Evening",
+    "location": "Atlanta",
     "price": "Varies",
-    "description": "Dawn-inspired street celebration kicking off carnival weekend. Paint, powder, soca music, and high energy. Pre-carnival warmup perfect for adventurous couples.",
-    "category": "Afrobeat/reggae"
+    "description": "A memorial weekend celebration dedicated to reggae, Afrobeats, and Soca. Culture, rhythm, and community in one event. Great for couples who want to dance, celebrate heritage, and have a great time.",
+    "category": "music"
   },
   {
-    "title": "EPIC FEST Atlanta Carnival — 6 Events 6 Themes",
-    "date": "2026-05-21",
-    "time": "9:00 PM – late",
-    "location": "Atlanta area venue",
-    "price": "Varies",
-    "description": "Six themes, six events, one epic weekend. Part of Atlanta's Caribbean carnival season — high-energy parties, live music, and cultural celebrations. Great for couples who love festival culture.",
-    "category": "Afrobeat/reggae"
-  },
-  {
-    "title": "Best of Atlanta Comedy Showcase — Laughing Skull Lounge",
-    "date": "2026-05-14",
-    "time": "8:00 PM (doors 7:30 PM)",
-    "location": "Laughing Skull Lounge, 878 Peachtree St NE, Atlanta 30309",
-    "price": "Varies",
-    "description": "Laugh together at one of Atlanta's top comedy venues. Featuring the best local and touring stand-up comedians. Perfect low-pressure date night — guaranteed laughs.",
-    "category": "comedy shows"
-  },
-  {
-    "title": "Open Mic Night — Laughing Skull Lounge",
-    "date": "2026-05-27",
-    "time": "8:00 PM (doors 7:30 PM)",
-    "location": "Laughing Skull Lounge, 878 Peachtree St NE, Atlanta 30309",
-    "price": "Varies",
-    "description": "Fun open mic comedy night at Atlanta's premier comedy club. You never know what you'll see — the spontaneity makes it a great adventurous date night.",
-    "category": "comedy shows"
-  },
-  {
-    "title": "Guy'z Nite Out Comedy Experience — Uptown Comedy Corner",
-    "date": "2026-05-13",
-    "time": "9:00 PM – 11:00 PM",
-    "location": "Uptown Comedy Corner, 4730 Frontage Rd, Forest Park, GA",
-    "price": "Varies",
-    "description": "Atlanta's original comedy club delivers a fun night of stand-up. Low-key, intimate, and genuinely funny. Great for couples looking for a relaxed, entertaining evening.",
-    "category": "comedy shows"
-  },
-  {
-    "title": "'Returns' Exhibition — Spruill Gallery",
-    "date": "Runs through May 2026",
-    "time": "Gallery hours: Wed–Sun, 11 AM – 3 PM",
-    "location": "Spruill Gallery, 4683 Buford Hwy NE, Dunwoody, GA",
-    "price": "Free",
-    "description": "Group exhibition featuring Hamidullah exploring reimagined narratives through contemporary art. Thought-provoking and peaceful setting — great for couples who appreciate meaningful art conversations.",
-    "category": "art galleries"
-  },
-  {
-    "title": "Once the Ocean Floor — Haines Gallery",
-    "date": "May 2026 (check gallery for specific dates)",
-    "time": "Gallery hours vary",
-    "location": "Haines Gallery, Atlanta",
-    "price": "Free",
-    "description": "Photography group exhibition featuring John Chiara, Linda Connor, David Maisel, and Meghann Riepenhoff. Works across a range of photographic processes exploring the ocean floor theme. Beautiful and contemplative.",
-    "category": "art galleries"
-  },
-  {
-    "title": "Draw, Paint & Connect — Stormwater Studios",
-    "date": "2026-05-16",
-    "time": "11:00 AM – 3:00 PM",
-    "location": "Stormwater Studios, Atlanta",
-    "price": "Free",
-    "description": "About Face Group art session encouraging visitors to draw, paint, and connect. A creative, interactive gallery experience. Great for couples who want to express their artistic side together.",
-    "category": "art galleries"
-  },
-  {
-    "title": "Unbound Narratives: Embodied Language — Atlanta Contemporary",
-    "date": "Runs through May 17, 2026",
-    "time": "Varies",
-    "location": "Atlanta Contemporary, 535 Means St NW, Atlanta 30318",
-    "price": "Free",
-    "description": "Exhibition by Bethany Collins and February James exploring language, identity, and embodiment. Free admission and genuinely fascinating — a great conversation-starter for couples.",
-    "category": "art galleries"
-  },
-  {
-    "title": "Plant-Based Date Night Cooking Class — Cozymeal",
-    "date": "Various dates (May 2026)",
-    "time": "2.5-hour class",
-    "location": "Atlanta area, Various Chefs",
-    "price": "$109 per person",
-    "description": "A romantic 2.5-hour cooking class focused on plant-based cuisine. Cook together, eat together, learn together. All-inclusive experience — a unique and delicious date idea.",
-    "category": "vegetarian food events"
-  },
-  {
-    "title": "Vegan & Friends — Weekly Vegan Meet-Up",
-    "date": "Every Wednesday (May 13, 20, 27)",
-    "time": "6:00 PM – 10:00 PM",
-    "location": "Varies (Atlanta area)",
-    "price": "Free admission",
-    "description": "Atlanta's weekly vegan movement — a vibrant community meet-up celebrating plant-based living. Great for couples interested in vegetarian cuisine, meeting like-minded people, and having a fun casual evening.",
-    "category": "vegetarian food events"
-  },
-  {
-    "title": "Green Market — Piedmont Park Farmers Market",
-    "date": "2026-05-16",
-    "time": "9:00 AM – 1:00 PM",
-    "location": "Piedmont Park, Atlanta 30309",
-    "price": "Free admission",
-    "description": "Atlanta's original farmers market with 20+ years running. Fresh local produce, artisan goods, live music buskers. Grab breakfast, stroll the park, and soak in the local scene. Classic free date morning.",
-    "category": "vegetarian food events"
-  },
-  {
-    "title": "Cocktails in the Garden — Atlanta Botanical Garden",
-    "date": "Every Thursday (May 14, 21)",
-    "time": "5:00 PM – 9:00 PM",
-    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE, Atlanta 30309",
-    "price": "Included with Garden Admission",
-    "description": "After-hours garden party with specialty cocktails, live music throughout the garden, exhibitions lit up at night, and food from Longleaf Restaurant. Magical and romantic atmosphere perfect for couples.",
-    "category": "fun date ideas"
-  },
-  {
-    "title": "Brew at the Zoo — Zoo Atlanta",
+    "title": "Reggae Fest Massive ATL",
     "date": "2026-05-23",
-    "time": "VIP early entry 4:30 PM; Main event 5:30–9:00 PM",
-    "location": "Zoo Atlanta, 800 Cherokee Ave SE, Atlanta 30315",
+    "time": "Evening",
+    "location": "State Farm Arena, Atlanta",
     "price": "Varies",
-    "description": "Adults-only evening at the zoo with craft brews, live music, animal encounters, and food trucks. Unique date night combining wildlife and craft beverages. Great value and unforgettable.",
-    "category": "fun date ideas"
+    "description": "Featuring Mavado, Busy Signal, Beenie Man, Spice, Elephant Man and more legends of reggae/dancehall. Major production at a world-class venue — a can't-miss for reggae fans.",
+    "category": "music"
   },
   {
-    "title": "Love on the Lake! — Painting with a Twist",
+    "title": "Birthday Bash ATL: T.I., Gucci Mane, 2 Chainz & More",
     "date": "2026-05-24",
-    "time": "6:00 PM – 8:00 PM",
-    "location": "Painting with a Twist, Kennesaw (Atlanta area)",
-    "price": "Varies by package",
-    "description": "Couples painting class with a beautiful lake theme on a 16x20 canvas. BYOB, instructor-guided, no experience needed. A creative, romantic way to spend a Sunday evening together.",
-    "category": "fun date ideas"
+    "time": "Evening",
+    "location": "State Farm Arena, Atlanta",
+    "price": "Varies",
+    "description": "Atlanta hip-hop legends on one stage. T.I., Gucci Mane, 2 Chainz, Waka Flocka and more. The ultimate ATL rap experience — electric for couples who love hip-hop.",
+    "category": "music"
+  },
+  {
+    "title": "Salsa ATL's Tropical Elegance Saturday Latin Night",
+    "date": "2026-05-23",
+    "time": "Nighttime",
+    "location": "La Industria, Atlanta",
+    "price": "Varies",
+    "description": "Monthly Latin dance night with Salsa and Bachata. Tropical elegance theme — great vibes, great music, and a fun excuse to get close on the dance floor.",
+    "category": "dancing"
+  },
+  {
+    "title": "ECHOES Exhibition at Kai Lin Art",
+    "date": "2026-05-15",
+    "time": "Gallery hours (Free admission)",
+    "location": "Kai Lin Art, Atlanta",
+    "price": "Free",
+    "description": "Third exhibition of 2026 running through May 15. Free, public opening and mixer on select dates. Perfect cultured date — grab coffee, walk through, and talk about art together.",
+    "category": "art"
+  },
+  {
+    "title": "Castleberry Hill Second Friday Art Stroll",
+    "date": "2026-05-08",
+    "time": "6PM - 9PM",
+    "location": "Castleberry Hill District, Atlanta",
+    "price": "Free",
+    "description": "One of Atlanta's longest-running monthly art walks. Rotating gallery exhibitions, open studios, and pop-up installations. Stroll the neighborhood, discover art, grab a drink — ideal low-key date.",
+    "category": "art"
+  },
+  {
+    "title": "Gordon Parks: The South in Color",
+    "date": "2026-05-14",
+    "time": "Gallery hours (check with venue)",
+    "location": "Jackson Fine Art, Atlanta",
+    "price": "Free",
+    "description": "Powerful photography exhibition running through June 13. Gordon Parks' documentation of the American South — moving, beautiful, and conversation-starting. Great for art-loving couples.",
+    "category": "art"
+  },
+  {
+    "title": "Atlanta Creative Arts Pop-Up",
+    "date": "2026-05-22",
+    "time": "8 AM - 6 PM",
+    "location": "Woodruff Arts Center, Atlanta",
+    "price": "Varies",
+    "description": "Three-day creative arts pop-up at the Woodruff Arts Center. Art, crafts, vendors, and creative energy — a full day activity that gives plenty to explore and talk about together.",
+    "category": "art"
   }
 ]
