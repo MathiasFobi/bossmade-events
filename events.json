@@ -1,21 +1,48 @@
 [
   {
+    "title": "Sting 3.0 Tour",
+    "date": "2026-05-15",
+    "time": "8:00 PM",
+    "location": "Synovus Bank Amphitheater at Chastain Park, Atlanta",
+    "price": "Varies",
+    "description": "Legendary musician Sting brings his 3.0 Tour to Atlanta's premier amphitheater. Expect hits spanning The Police solo career. Elegant outdoor venue, great for a sophisticated date night under the stars.",
+    "category": "music"
+  },
+  {
     "title": "Breakaway Music Festival",
     "date": "2026-05-15",
-    "time": "Doors open 4PM",
+    "time": "Doors 4 PM",
     "location": "Center Parc Stadium, Atlanta",
     "price": "From $149",
-    "description": "Headlined by John Summit, Kaskade, FISHER, and Mau P. Two days of EDM and electronic music. Perfect for couples who love to dance and enjoy a festival vibe together.",
+    "description": "Headlined by John Summit, Kaskade, FISHER, and Mau P. Two-day EDM festival — huge production, light shows, food trucks. Wear comfortable shoes and dance all night. Great festival-couple energy.",
     "category": "music"
   },
   {
     "title": "Euro Atlanta: I Love Reggae Night",
     "date": "2026-05-16",
     "time": "Nighttime (free all night)",
-    "location": "Euro Atlanta",
+    "location": "Euro Atlanta, 1265 Powers Ferry Rd, Marietta",
     "price": "Free",
-    "description": "Reggae, Dancehall, Soca, Afrobeats with great drinks and even better vibes. Free entry makes this an easy, low-pressure date option with awesome music.",
+    "description": "Reggae, Dancehall, Soca, Afrobeats with great drinks and oxtails that fall off the bone. Free entry and free parking. Casual, high-vibe atmosphere perfect for couples who just want to enjoy good music and good company.",
     "category": "music"
+  },
+  {
+    "title": "Like Glue Fridays",
+    "date": "2026-05-16",
+    "time": "9:00 PM - 2:00 AM",
+    "location": "Avenue Kitchen & Cocktail, 587 North Ave NW, Atlanta",
+    "price": "Free before 11 PM with RSVP; $20 without",
+    "description": "Atlanta's favorite weekly Afro-Caribbean party now in its 9th year. Reggae, Dancehall, Soca, Afrobeat & Top 40. Great food, great vibes, $20 onsite parking. A lively date-night option for couples who like to dance.",
+    "category": "music"
+  },
+  {
+    "title": "Soil Festival 2026",
+    "date": "2026-05-16",
+    "time": "11:00 AM - 4:00 PM",
+    "location": "Maddox Park, 1115 Donald Lee Hollowell Pkwy NW, Atlanta",
+    "price": "Tickets cover admission, food, beverages, workshops",
+    "description": "Atlanta's premier urban agriculture event — locally sourced food, farmers market, composting workshops, beekeeping demos, kids zone, beer garden, yoga, and more. A wonderful wholesome date for food-and nature-loving couples.",
+    "category": "food"
   },
   {
     "title": "Best of Atlanta Comedy Showcase",
@@ -23,8 +50,17 @@
     "time": "8:00 PM (doors 7:30 PM)",
     "location": "Laughing Skull Lounge, Atlanta",
     "price": "Varies",
-    "description": "Top local comedians in one show. Laughing Skull is an intimate venue — great for couples who share a sense of humor and want a memorable night out.",
+    "description": "Top local comedians in one intimate show. Laughing Skull is one of Atlanta's best small comedy venues — the closer you are, the more you'll laugh. Great for couples who share a sense of humor and want a memorable night out.",
     "category": "comedy"
+  },
+  {
+    "title": "The Poko Party",
+    "date": "2026-05-17",
+    "time": "7:00 PM (doors)",
+    "location": "District Atlanta, 971 Marietta St NW, Atlanta",
+    "price": "$20",
+    "description": "An all-female DJ lineup celebrating African rhythms — Afrobeats, Amapiano, Dancehall. District Atlanta has world-class production with 300 floating kinetic orbs and immersive LED walls. Cultured, high-energy, electric atmosphere for couples who love to dance.",
+    "category": "music"
   },
   {
     "title": "Jim Breuer: Find The Funny",
@@ -32,106 +68,79 @@
     "time": "8:00 PM",
     "location": "Buckhead Theatre, Atlanta",
     "price": "Varies",
-    "description": "SNL legend and comedy veteran Jim Breuer brings his tour to Atlanta. A solid date-night pick — big name, good energy, memorable laughs.",
+    "description": "SNL legend and comedy veteran Jim Breuer brings his Find The Funny tour to Atlanta. Big-name comedian, great energy, memorable set. Solid date-night pick — laughs guaranteed.",
     "category": "comedy"
   },
   {
-    "title": "The Poko Party",
-    "date": "2026-05-17",
-    "time": "7:00 PM",
-    "location": "District Atlanta",
-    "price": "Varies",
-    "description": "Electrifying all-female DJ lineup serving high-energy African rhythms. Known for its vibrant, cult following atmosphere — perfect for couples who love to dance and celebrate culture.",
+    "title": "Cocktails in the Garden",
+    "date": "2026-05-21",
+    "time": "5:00 PM - 9:00 PM",
+    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE, Atlanta",
+    "price": "Included with Garden Admission",
+    "description": "Adults-only evening in the garden with drinks, music, and beautiful scenery. Rotating food and cocktail vendors. Relaxed, romantic atmosphere — one of the most underrated date nights in Atlanta.",
+    "category": "date"
+  },
+  {
+    "title": "Like Glue Fridays",
+    "date": "2026-05-22",
+    "time": "9:00 PM - 2:00 AM",
+    "location": "Avenue Kitchen & Cocktail, 587 North Ave NW, Atlanta",
+    "price": "Free before 11 PM with RSVP; $20 without",
+    "description": "Weekly Afro-Caribbean party every Friday. Reggae, Dancehall, Soca, Afrobeat & Top 40. Great food, great vibes. $20 onsite parking. Perfect for couples who want a fun night out without breaking the bank.",
     "category": "music"
   },
   {
-    "title": "ATL BachaTuesdays",
-    "date": "2026-05-19",
-    "time": "8:30 PM - 12:30 AM",
-    "location": "Academy Ballroom, 800 Miami Cir NE, Atlanta",
-    "price": "$5-$12",
-    "description": "Weekly Bachata and Salsa social. Great for beginners and experienced dancers alike. Affordable, fun, and a natural ice-breaker — holding someone on a dance floor never hurts a date.",
+    "title": "Salsa ATL: Tropical Elegance Saturday Latin Night",
+    "date": "2026-05-23",
+    "time": "8:30 PM lesson / 10 PM - 2 AM party",
+    "location": "Brimstone Restaurant & Tavern, 10595 Old Alabama Rd Connector, Alpharetta",
+    "price": "$15 cash / $17 card",
+    "description": "Weekly Saturday Latin night with Salsa & Bachata lesson at 8:30 PM, then open dancing until 2 AM. Food, drinks, free parking. Great for beginners and experienced dancers alike. Holding someone on a dance floor is a natural date ice-breaker.",
     "category": "dancing"
   },
   {
-    "title": "Atlanta Jazz Festival (Memorial Day Weekend)",
+    "title": "Reggae Fest Massive ATL",
     "date": "2026-05-23",
-    "time": "All day",
-    "location": "Piedmont Park / Multiple Venues",
-    "price": "Free (many events)",
-    "description": "Grammy-stacked lineup celebrating its 49th year. Atlanta's premier free jazz festival — ideal for a laid-back daytime date with picnic vibes and world-class music.",
+    "time": "Evening (doors TBA)",
+    "location": "State Farm Arena, Atlanta",
+    "price": "Varies",
+    "description": "Featuring Mavado, Busy Signal, Beenie Man, Spice, Elephant Man, Ding Dong, Vanessa Bling, Serani, Tony Matterhorn & T.O.K. — major reggae/dancehall legends on one stage. World-class production at Atlanta's top arena. The must-see show of the season for reggae fans.",
     "category": "music"
   },
   {
     "title": "R.A.S Memorial Weekend: 100% Reggae Afrobeats Soca",
     "date": "2026-05-23",
     "time": "Evening",
-    "location": "Atlanta",
+    "location": "Atlanta (area varies)",
     "price": "Varies",
-    "description": "A memorial weekend celebration dedicated to reggae, Afrobeats, and Soca. Culture, rhythm, and community in one event. Great for couples who want to dance, celebrate heritage, and have a great time.",
+    "description": "A memorial weekend celebration dedicated to reggae, Afrobeats, and Soca culture. Rhythm, community, and a great time for couples who love Caribbean and African music. Check listing for specific venue.",
     "category": "music"
   },
   {
-    "title": "Reggae Fest Massive ATL",
+    "title": "Atlanta Jazz Festival - Memorial Day Weekend",
+    "date": "2026-05-25",
+    "time": "All day (free events)",
+    "location": "Piedmont Park and surrounding venues, Atlanta",
+    "price": "Free (many events)",
+    "description": "Atlanta's premier free jazz festival celebrating its 49th year with Grammy-stacked lineups. Perfect for a laid-back daytime date — bring a blanket, pack a picnic, and enjoy world-class music in the park.",
+    "category": "music"
+  },
+  {
+    "title": "Stormwater Studios May Exhibitions",
+    "date": "2026-05-27",
+    "time": "Wed-Sun 11 AM - 3 PM",
+    "location": "Stormwater Studios, Atlanta",
+    "price": "Free",
+    "description": "Open gallery with rotating exhibitions. May features Draw, Paint, and Connect group workshops. Cool, quiet, air-conditioned space — great for a cultured, low-key date. Browse art, talk about what you see, grab coffee after.",
+    "category": "art"
+  },
+  {
+    "title": "Saturday Farmers Market at Atlantic Station",
     "date": "2026-05-23",
-    "time": "Evening",
-    "location": "State Farm Arena, Atlanta",
-    "price": "Varies",
-    "description": "Featuring Mavado, Busy Signal, Beenie Man, Spice, Elephant Man and more legends of reggae/dancehall. Major production at a world-class venue — a can't-miss for reggae fans.",
-    "category": "music"
-  },
-  {
-    "title": "Birthday Bash ATL: T.I., Gucci Mane, 2 Chainz & More",
-    "date": "2026-05-24",
-    "time": "Evening",
-    "location": "State Farm Arena, Atlanta",
-    "price": "Varies",
-    "description": "Atlanta hip-hop legends on one stage. T.I., Gucci Mane, 2 Chainz, Waka Flocka and more. The ultimate ATL rap experience — electric for couples who love hip-hop.",
-    "category": "music"
-  },
-  {
-    "title": "Salsa ATL's Tropical Elegance Saturday Latin Night",
-    "date": "2026-05-23",
-    "time": "Nighttime",
-    "location": "La Industria, Atlanta",
-    "price": "Varies",
-    "description": "Monthly Latin dance night with Salsa and Bachata. Tropical elegance theme — great vibes, great music, and a fun excuse to get close on the dance floor.",
-    "category": "dancing"
-  },
-  {
-    "title": "ECHOES Exhibition at Kai Lin Art",
-    "date": "2026-05-15",
-    "time": "Gallery hours (Free admission)",
-    "location": "Kai Lin Art, Atlanta",
-    "price": "Free",
-    "description": "Third exhibition of 2026 running through May 15. Free, public opening and mixer on select dates. Perfect cultured date — grab coffee, walk through, and talk about art together.",
-    "category": "art"
-  },
-  {
-    "title": "Castleberry Hill Second Friday Art Stroll",
-    "date": "2026-05-08",
-    "time": "6PM - 9PM",
-    "location": "Castleberry Hill District, Atlanta",
-    "price": "Free",
-    "description": "One of Atlanta's longest-running monthly art walks. Rotating gallery exhibitions, open studios, and pop-up installations. Stroll the neighborhood, discover art, grab a drink — ideal low-key date.",
-    "category": "art"
-  },
-  {
-    "title": "Gordon Parks: The South in Color",
-    "date": "2026-05-14",
-    "time": "Gallery hours (check with venue)",
-    "location": "Jackson Fine Art, Atlanta",
-    "price": "Free",
-    "description": "Powerful photography exhibition running through June 13. Gordon Parks' documentation of the American South — moving, beautiful, and conversation-starting. Great for art-loving couples.",
-    "category": "art"
-  },
-  {
-    "title": "Atlanta Creative Arts Pop-Up",
-    "date": "2026-05-22",
-    "time": "8 AM - 6 PM",
-    "location": "Woodruff Arts Center, Atlanta",
-    "price": "Varies",
-    "description": "Three-day creative arts pop-up at the Woodruff Arts Center. Art, crafts, vendors, and creative energy — a full day activity that gives plenty to explore and talk about together.",
-    "category": "art"
+    "time": "10:00 AM - 1:00 PM",
+    "location": "Atlantic Station, Atlanta",
+    "price": "Free admission",
+    "description": "One of Atlanta's best weekly farmers markets with local produce, artisan goods, food vendors, and plants. Free to browse, great people-watching. Start the morning together, grab coffee, then plan the rest of your date.",
+    "category": "food"
   }
 ]
