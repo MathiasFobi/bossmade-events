@@ -1,137 +1,137 @@
 [
   {
-    "title": "Atlanta Jazz Festival 2026",
+    "title": "Reggae Fest Massive ATL",
     "date": "2026-05-23",
-    "time": "1:00 PM - 10:00 PM",
+    "time": "7:00 PM",
+    "location": "State Farm Arena, Atlanta",
+    "price": "$$-$$$",
+    "description": "Legendary reggae lineup featuring Mavado, Busy Signal, Beenie Man, Spice, Elephant Man, Ding Dong & more. One of the biggest reggae events of the year — pure vibes and great energy for a night out.",
+    "category": "live music"
+  },
+  {
+    "title": "Atlanta Jazz Festival",
+    "date": "2026-05-23",
+    "time": "1:00 PM - 11:00 PM",
     "location": "Piedmont Park, Atlanta",
-    "price": "Free",
-    "description": "49th annual Memorial Day weekend jazz festival featuring Grammy-level artists. Perfect outdoor date with live music, food trucks, and skyline views. Artists include Kamasi Washington, Christian McBride & Ursa Major, Nate Smith, and more.",
+    "price": "FREE",
+    "description": "49th annual free jazz festival in Piedmont Park. Day-long music fest featuring national and local talent — Buddy, Nate Smith, Kamasi Washington (Sat), Esperanza Spalding, The Roots (Sun), PJ Morton (Mon). Bring a blanket, grab food vendors, enjoy the park. Perfect outdoor date.",
     "category": "live music"
   },
   {
-    "title": "Sting 3.0 Tour",
-    "date": "2026-05-15",
-    "time": "8:00 PM",
-    "location": "Synovus Bank Amphitheater at Chastain Park",
-    "price": "Varies",
-    "description": "Legendary Sting performs his greatest hits in an intimate amphitheater setting. Great excuse to get dressed up and enjoy world-class music under the stars.",
+    "title": "Birthday Bash: T.I., Gucci Mane, 2 Chainz & More",
+    "date": "2026-05-24",
+    "time": "7:00 PM",
+    "location": "State Farm Arena, Atlanta",
+    "price": "$$-$$$",
+    "description": "Atlanta hip-hop homecoming with T.I., Gucci Mane, 2 Chainz, Waka Flocka, Soulja Boy, Travis Porter and more. A legendary ATL lineup for Memorial Day Sunday.",
     "category": "live music"
   },
   {
-    "title": "Big Dog Improv Fest: Saturday Show",
-    "date": "2026-05-16",
-    "time": "7:30 PM - 10:30 PM",
-    "location": "Red Light Cafe, Atlanta",
-    "price": "$10-$15",
-    "description": "Two-night improv festival with hilarious performances. Interactive comedy is a great shared experience for couples — you'll laugh together and maybe get pulled on stage.",
-    "category": "comedy shows"
-  },
-  {
-    "title": "Dad's Garage: Improvised Action Movie",
-    "date": "2026-05-15",
-    "time": "8:00 PM",
-    "location": "Dad's Garage Theatre",
-    "price": "$15-$20",
-    "description": "Improvisers create a brand-new action movie on the spot. Fresh, funny, and completely unpredictable — a unique date night experience you won't find anywhere else.",
-    "category": "comedy shows"
-  },
-  {
-    "title": "R.A.S Memorial Weekend: Reggae Afrobeat Soca",
-    "date": "2026-05-23",
-    "time": "9:00 PM",
-    "location": "Atlanta venue TBA",
-    "price": "TBA",
-    "description": "100% Reggae, Afrobeat, and SOCA vibes for Memorial Day weekend. Dance close or dance wild — this is the perfect setting for a lively date.",
-    "category": "Afrobeat/reggae"
-  },
-  {
-    "title": "Latin Fridays (Viernes Tropicales)",
-    "date": "2026-05-15",
-    "time": "9:00 PM - 3:00 AM",
-    "location": "Sanctuary Nightclub, Atlanta",
-    "price": "$15",
-    "description": "Weekly salsa lesson followed by a full Latin social dance party. No partner needed — show up solo and leave with new moves and a great night out. Includes bachata, merengue, and more.",
+    "title": "Casita Nights — Salsa & Bachata Social",
+    "date": "2026-05-29",
+    "time": "8:00 PM - 1:00 AM",
+    "location": "1180 McKendree Church Rd, Lawrenceville",
+    "price": "$",
+    "description": "Latin dance social night — salsa, bachata, and more. Great vibe, welcoming crowd. Perfect for couples who want to dance, move, and have a fun night out. Beer/wine available.",
     "category": "dancing"
   },
   {
-    "title": "Don Toliver: Octane Tour",
-    "date": "2026-05-19",
-    "time": "7:30 PM",
-    "location": "State Farm Arena, Atlanta",
-    "price": "Varies",
-    "description": "Hyped rapper Don Toliver brings his Octane Tour to State Farm Arena. High energy, great vibes, and an unforgettable arena atmosphere.",
-    "category": "live music"
-  },
-  {
-    "title": "Cold + Idle Heirs at The Masquerade",
-    "date": "2026-05-24",
+    "title": "Helium Comedy Club — Marcus D. Wiley",
+    "date": "2026-05-29",
     "time": "7:00 PM",
-    "location": "The Masquerade - Hell, Atlanta",
-    "price": "Varies",
-    "description": "British alternative rock band Cold performs live at The Masquerade. Intimate venue, great sound, and a more underground concert experience perfect for couples who love live music.",
-    "category": "live music"
+    "location": "Helium Comedy Club, Atlanta",
+    "price": "$$",
+    "description": "Comedian Marcus D. Wiley brings his sharp, relatable humor to Helium. Great intimate setting for a couples' night — laughs, drinks, solid show.",
+    "category": "comedy"
   },
   {
-    "title": "Peachtree Road Farmers Market",
-    "date": "2026-05-16",
-    "time": "8:30 AM - 12:00 PM",
-    "location": "Peachtree Road NE, Atlanta",
-    "price": "Free admission",
-    "description": "Atlanta's premier farmers market with 70+ local vendors, artisanal foods, live music, and a weekly chef pop-up. Perfect for a relaxed morning date — grab coffee, stroll, and discover local flavors together.",
-    "category": "vegetarian food events"
+    "title": "HOME v.2: Homeland — Opening Reception",
+    "date": "2026-05-29",
+    "time": "6:30 PM - 9:00 PM",
+    "location": "Decatur Arts Alliance Gallery, Decatur",
+    "price": "FREE",
+    "description": "Opening reception for HOME v.2: Homeland exhibition running May 29–July 18. Gallery hours Thu-Sat 1-5pm. Sophisticated, low-key date — walk the exhibits, grab a glass of wine at the reception, enjoy Decatur's art scene.",
+    "category": "art"
   },
   {
-    "title": "Afro Beat & Caribbean Vibes Night",
+    "title": "Salsa Social at Callanwolde",
+    "date": "2026-06-05",
+    "time": "6:00 PM - 10:00 PM",
+    "location": "Callanwolde Fine Arts Center, Atlanta",
+    "price": "$",
+    "description": "Cuban music and dancing at the historic Callanwolde estate. Live DJ spinning salsa, bachata, merengue. Beginner-friendly, great atmosphere. Romantic setting in a beautiful historic building.",
+    "category": "dancing"
+  },
+  {
+    "title": "Helium Comedy Club — Jess Hilarious",
+    "date": "2026-06-05",
+    "time": "7:00 PM",
+    "location": "Helium Comedy Club, Atlanta",
+    "price": "$$",
+    "description": "Jess Hilarious headlines Helium for a special show. Expect raw, hilarious sets. One of the best date-night comedy experiences in Atlanta.",
+    "category": "comedy"
+  },
+  {
+    "title": "AFRO BEAT & Caribbean Vibes Night",
     "date": "2026-06-05",
     "time": "6:00 PM - 10:00 PM",
     "location": "Tago Life Center, Atlanta",
-    "price": "Varies",
-    "description": "Tropical Vibes Night bringing the best of Afrobeat and Caribbean music. Great energy, dancing, and a vibrant crowd — an exotic date night without leaving Atlanta.",
-    "category": "Afrobeat/reggae"
+    "price": "$$",
+    "description": "Tropical vibes night bringing Afrobeat and Caribbean music together. Great dancefloor energy, tropical cocktails, and a solid crowd. Excellent for couples who love to move.",
+    "category": "live music"
   },
   {
-    "title": "ECHOES Exhibition at Kai Lin Art",
-    "date": "2026-05-16",
-    "time": "Various",
-    "location": "Kai Lin Art, Atlanta",
-    "price": "Free",
-    "description": "'Echoes' exhibition exploring themes of return and interruption through contemporary art. Free admission, intimate gallery setting — perfect for an art-loving couple looking for meaningful conversation starters.",
-    "category": "art galleries"
+    "title": "Best of Atlanta Comedy Showcase",
+    "date": "2026-06-06",
+    "time": "8:00 PM (doors 7:30 PM)",
+    "location": "Laughing Skull Lounge, Atlanta",
+    "price": "$$",
+    "description": "Top Atlanta comedians in one showcase. Laughing Skull is known for intimate, high-energy shows. Must be 21+. A solid couples' night with guaranteed laughs.",
+    "category": "comedy"
   },
   {
-    "title": "Salsa Bachata Havana Nights @ La Industria",
-    "date": "2026-05-16",
-    "time": "4:00 PM - 11:00 PM",
-    "location": "La Industria, Atlanta",
-    "price": "Varies",
-    "description": "Saturday afternoon/evening salsa and bachata social with class and dancing. Great for beginners and experienced dancers alike. Food, drinks, and dancefloor vibes all in one.",
+    "title": "Saturday Night Latin Dance @ Eclipse Di Luna",
+    "date": "2026-06-06",
+    "time": "9:00 PM",
+    "location": "Eclipse Di Luna, Buckhead",
+    "price": "$",
+    "description": "GO Latin Dance hosts Saturday night salsa and bachata at Eclipse Di Luna in Buckhead. Free lesson followed by social dancing. Great food, great drinks, great dancing.",
     "category": "dancing"
   },
   {
-    "title": "9 Mile Station Rooftop Dinner",
-    "date": "2026-05-16",
-    "time": "5:00 PM - 10:00 PM",
-    "location": "Ponce City Market rooftop",
+    "title": "STAMPED: AYA x Friends — Amapiano & Afrobeats",
+    "date": "2026-06-14",
+    "time": "4:00 PM - 11:00 PM",
+    "location": "Block & Drum, Chamblee, GA",
     "price": "$$",
-    "description": "Atlanta's best rooftop views paired with seasonal plates and craft cocktails. Perched above Ponce City Market — perfect for a romantic dinner date with panoramic city skyline views.",
-    "category": "fun date ideas"
+    "description": "Amapiano, Afrobeats, and more with AYA and friends. Block & Drum is one of Atlanta's best intimate music venues. Afrobeats and amapiano are having a moment — perfect for couples who want to dance something fresh.",
+    "category": "live music"
   },
   {
-    "title": "Improv Annihilation - Season 2",
-    "date": "2026-05-20",
-    "time": "8:00 PM",
-    "location": "Dynamic El Dorado, Atlanta",
-    "price": "Varies",
-    "description": "Fast-paced improv comedy at a stylish venue. Interactive, energetic, and always surprising — a fun mid-week date night that keeps the conversation going.",
-    "category": "comedy shows"
+    "title": "Helium Comedy Club — Steph Tolev",
+    "date": "2026-06-11",
+    "time": "7:00 PM",
+    "location": "Helium Comedy Club, Atlanta",
+    "price": "$$",
+    "description": "Steph Tolev headlines for a multi-night run at Helium. One of Atlanta's top comedy clubs for a fun, lively date night. June 11-13.",
+    "category": "comedy"
   },
   {
-    "title": "Dad's Garage: Family Vacation Improv",
-    "date": "2026-05-21",
-    "time": "8:00 PM",
-    "location": "Dad's Garage Theatre at Mato",
-    "price": "$15-$20",
-    "description": "Fan-favorite improv format returning for a limited time. Improvisers dig into archives for a unique comedy experience — quirky, surprising, and perfect for couples with a sense of humor.",
-    "category": "comedy shows"
+    "title": "ROOTS + REMIX — Juneteenth Experience",
+    "date": "2026-06-19",
+    "time": "6:00 PM - 11:00 PM",
+    "location": "253 Peters St SW, Atlanta",
+    "price": "$$",
+    "description": "A Juneteenth celebration of design, identity, and sound. Presented by Spread Love & African Ancestry. Music, art, culture — great energy, great cause. Perfect for culturally curious couples.",
+    "category": "live music"
+  },
+  {
+    "title": "AFROXFEST",
+    "date": "2026-06-27",
+    "time": "11:00 AM - 9:00 PM",
+    "location": "Candler Park, Atlanta",
+    "price": "FREE",
+    "description": "The African Experience Festival brings African music, culture, and vibes to Candler Park. All-day festival with food, art, live performances. Great for couples who love outdoor festivals and cultural events.",
+    "category": "live music"
   }
 ]
