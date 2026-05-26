@@ -1,83 +1,128 @@
 [
   {
-    "title": "Marcus D. Wiley Comedy Show",
-    "date": "2026-05-30",
-    "time": "6:00 PM",
-    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
-    "price": "~$35-45",
-    "description": "Marcus D. Wiley brings his hilarious stand-up to Atlanta for a perfect date night out. Known for his clean yet side-splitting humor, Marcus has been making audiences laugh for over 20 years. Great energy, relatable stories, and an unforgettable night.",
+    "title": "Foreign Fridays ATL",
+    "date": "2026-05-29",
+    "time": "9:00 PM – 2:30 AM",
+    "location": "3681 Clairmont Rd, Atlanta",
+    "price": "$15–$25",
+    "description": "Hip-hop, Afrobeats, Reggae & R&B nightclub party. Atlanta's premier Friday night vibes with multiple genres on rotation. Dress code enforced, great rooftop energy. Perfect for couples who love to dance and enjoy a lively club scene.",
+    "category": "dancing"
+  },
+  {
+    "title": "Latin Vibes Night",
+    "date": "2026-06-03",
+    "time": "6:00 PM – 10:00 PM",
+    "location": "Tago Life Center, Atlanta",
+    "price": "$20–$35",
+    "description": "Feel the heat of tropical Latin rhythms — bachata, salsa, merengue, and more. Tago Life Center hosts Atlanta's most energetic Latin night with live DJs and a full bar. Beginner-friendly lesson at 6:30 PM, open dance floor from 8 PM onward.",
+    "category": "dancing"
+  },
+  {
+    "title": "Is This Going To Cause An Argument – Marcus & Angel Comedy",
+    "date": "2026-06-03",
+    "time": "8:00 PM",
+    "location": "City Winery Atlanta, 650 North Ave NE",
+    "price": "$48+",
+    "description": "Husband-and-wife comedy duo Marcus and Angel bring their hilarious take on relationships to City Winery. Wine, dine, and laugh together — perfect for couples who enjoy smart, relatable comedy. Full dinner menu available.",
     "category": "comedy"
   },
   {
-    "title": "Standups & Startups – ATL June Edition",
-    "date": "2026-06-04",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "Siemens Energy Innovation Center, 500 10th St NW, Atlanta, GA 30318",
-    "price": "Free",
-    "description": "Atlanta's startup community's favorite comedy night is back! Enjoy hilarious stand-up while networking with Atlanta's innovation scene. Full bar available, casual vibe — perfect for a fun and different date night that keeps the conversation flowing.",
+    "title": "Jess Hilarious – Special Event",
+    "date": "2026-06-05",
+    "time": "7:00 PM & 9:15 PM",
+    "location": "Helium Comedy Club, 1157 Peachtree St NE",
+    "price": "$25–$40",
+    "description": "Comedian Jess Hilarious (MTV, Comedy Central) performs back-to-back shows at Atlanta's top comedy club. Drinks, good food, and non-stop laughter in an intimate 21+ setting. Great for a sophisticated date night with edge.",
     "category": "comedy"
   },
   {
     "title": "Afro Beat & Caribbean Vibes Night",
     "date": "2026-06-05",
-    "time": "6:00 PM - 10:00 PM",
-    "location": "Tago Life Center, 892 Jefferson St NW, Atlanta, GA 30318",
-    "price": "$10",
-    "description": "Dance the night away with infectious Afrobeat and Caribbean rhythms! Tropical Vibes Night brings the best island energy to Midtown Atlanta. Great vibes, positive people, and non-stop dancing — ideal for couples who love to move together.",
-    "category": "afrobeat"
-  },
-  {
-    "title": "Jess Hilarious Live Comedy",
-    "date": "2026-06-06",
-    "time": "7:00 PM",
-    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
-    "price": "~$50/person (Couple's Package: $90 + credit)",
-    "description": "Comedian and The Breakfast Club co-host Jess Hilarious hits the stage for an unforgettable night of laughs! The Couple's Package includes premium seats and a $45 food/beverage credit per person. Perfect for a memorable date night.",
-    "category": "comedy"
-  },
-  {
-    "title": "Lines of Play – Soccer-Inspired Group Art Exhibition",
-    "date": "2026-06-06",
-    "time": "6:00 PM - 10:00 PM",
-    "location": "ABV Gallery, 1206 Metropolitan Ave SE, Atlanta, GA 30316",
-    "price": "Free",
-    "description": "30+ local and international artists explore soccer's energy, movement, and cultural impact in a stunning historic church venue in East Atlanta Village. A sophisticated yet fun free date idea — walk through, grab a drink, and discover amazing art together.",
-    "category": "art"
-  },
-  {
-    "title": "Smooth Jazz Nights with Milkshake Mayfield",
-    "date": "2026-06-02",
-    "time": "6:30 PM - 9:30 PM",
-    "location": "Louisiana Bistreaux Buckhead, 3312 Piedmont Rd NE, Atlanta, GA 30305",
-    "price": "No cover (food/drinks separate)",
-    "description": "World-renowned trumpeter Milkshake Mayfield and The Milkshake Quintet bring smooth jazz to Buckhead every Tuesday. Sultry, soulful, and sophisticated — this is date night done right. Reserve a table for a cozy evening of live music and elevated dining.",
+    "time": "6:00 PM – 10:00 PM",
+    "location": "Tago Life Center, Atlanta",
+    "price": "$25–$45",
+    "description": "Catch the rhythm and feel the heat — Tropical Vibes Night brings the best of Afrobeat, dancehall, soca, and Caribbean music to Atlanta. Live performances, tropical cocktails, and a packed dance floor. A vibrant couples' night out.",
     "category": "live-music"
   },
   {
-    "title": "Steph Tolev Live Comedy",
-    "date": "2026-06-12",
-    "time": "7:00 PM",
-    "location": "Helium Comedy Club, 1157 Euclid Ave NE, Atlanta, GA 30307",
-    "price": "~$35-45",
-    "description": "Award-winning comedian Steph Tolev brings her unique energy to Atlanta for a must-see show. Known from The D-List and Netflix specials. Another great comedy date night option at one of the city's best comedy venues.",
+    "title": "Best of Atlanta Comedy Showcase",
+    "date": "2026-06-06",
+    "time": "8:00 PM (doors 7:30 PM)",
+    "location": "Laughing Skull Lounge, 1556 Uppergate Dr",
+    "price": "$20",
+    "description": "Atlanta's funniest comics in one room — rotating lineup of the city's best stand-up talent. 21+ venue, full bar, no drink minimum. Laughing Skull is a beloved Atlanta institution. Perfect for couples who appreciate raw, local comedy.",
     "category": "comedy"
   },
   {
-    "title": "KOKOROKO Live at Buckhead Theatre",
-    "date": "2026-06-11",
-    "time": "8:00 PM",
-    "location": "Buckhead Theatre, 3110 Roswell Rd NE, Atlanta, GA 30305",
-    "price": "Tickets from ~$40",
-    "description": "London's Afrobeat sensation KOKOROKO brings their global sound to Atlanta! Gritty, soulful, and powerful — their music blends West African highlife, jazz, and funk. A phenomenal live music date night experience for couples who appreciate real musicianship.",
-    "category": "afrobeat"
+    "title": "The Late Night R&B Experience Tour",
+    "date": "2026-06-06",
+    "time": "8:30 PM",
+    "location": "Buckhead Theatre, 3110 Roswell Rd NE",
+    "price": "$35–$60",
+    "description": "An evening of live R&B featuring top artists on the noise complaints tour. Great for couples who love smooth vocals, slow jams, and a live concert atmosphere in Buckhead's intimate theatre setting.",
+    "category": "live-music"
   },
   {
-    "title": "Hawt Sauce! Queer Dance Party",
-    "date": "2026-06-26",
-    "time": "9:00 PM - 3:00 AM",
-    "location": "Aisle 5, 1123 Euclid Ave NE, Atlanta, GA 30307",
-    "price": "TBA",
-    "description": "Atlanta's legendary queer dance party returns! High-energy dance floor, incredible DJs, and one of the most inclusive and fun party scenes in the city. A great couples' night out if you want something bold, vibrant, and outside the box.",
+    "title": "Saturday Night Latin Dance @ Eclipse Di Luna",
+    "date": "2026-06-06",
+    "time": "9:00 PM – 1:00 AM",
+    "location": "Eclipse Di Luna, 4505 Ashford Dunwoody Rd NE, Buckhead",
+    "price": "$10–$20",
+    "description": "GO Latin Dance hosts weekly Saturday salsa and bachata at one of Buckhead's best Latin restaurants. Free lesson at 9 PM, open dancing until 1 AM. Great food, great music, no pressure — perfect for a low-key couples' dance date.",
     "category": "dancing"
+  },
+  {
+    "title": "LINES OF PLAY – ABV Gallery Group Exhibition (30+ Artists)",
+    "date": "2026-06-06",
+    "time": "6:00 PM – 10:00 PM",
+    "location": "ABV Gallery, 472 Edgewood Ave SE",
+    "price": "Free",
+    "description": "A massive group show celebrating the World Cup with 30+ artists — painting, illustration, digital art, and more. Free admission, cash bar, great crowd. Awesome for art-loving couples who want to discover new work and support local artists.",
+    "category": "art"
+  },
+  {
+    "title": "Marcia Wood Gallery Opening – Susan Ker-Seymer",
+    "date": "2026-06-06",
+    "time": "6:00 PM – 9:00 PM",
+    "location": "Marcia Wood Gallery, 424 Marletta St SW",
+    "price": "Free",
+    "description": "Opening night for Susan Ker-Seymer's exhibit at one of Atlanta's most respected contemporary galleries. Wine reception, artist meet-and-greet, elegant Midtown setting. Sophisticated and free — perfect for an upscale cultural date.",
+    "category": "art"
+  },
+  {
+    "title": "Artful ATL – Atlanta Contemporary Benefit",
+    "date": "2026-06-13",
+    "time": "6:00 PM – 10:00 PM",
+    "location": "Atlanta Contemporary, 925 Marietta St NW",
+    "price": "$30–$50",
+    "description": "Annual benefit for Atlanta Contemporary — emerging artists, art enthusiasts, live music, food and cocktails. A stylish, art-forward date night that supports Atlanta's creative community. Great vibes and a meaningful experience.",
+    "category": "art"
+  },
+  {
+    "title": "Salsa Social @ Callanwolde Fine Arts Center",
+    "date": "2026-06-12",
+    "time": "8:00 PM – 11:00 PM",
+    "location": "Callanwolde Fine Arts Center, 980 Briarcliff Rd NE",
+    "price": "$15",
+    "description": "Monthly salsa social with a live band and DJ — dance in the beautiful historic mansion setting of Callanwolde. All levels welcome, great community vibe, and a covered outdoor dance floor. Romantic and low-pressure.",
+    "category": "dancing"
+  },
+  {
+    "title": "Vegan Takeover – Kamayan Filipino Restaurant",
+    "date": "2026-06-14",
+    "time": "1:00 PM – 4:00 PM",
+    "location": "5150 Buford Hwy NE A230, Doraville",
+    "price": "$25–$35",
+    "description": "Plant-based Filipino feast at Kamayan — vegan lumpia, adobo, sisig, and more. A fun, adventurous food date for couples who want to explore vegan cuisine with bold Filipino flavors. Walk-ins welcome, cash only.",
+    "category": "vegetarian-food"
+  },
+  {
+    "title": "SABOR @ Block & Drum",
+    "date": "2026-06-04",
+    "time": "7:00 PM – 10:00 PM",
+    "location": "Block & Drum, Chamblee",
+    "price": "$20",
+    "description": "Latin jazz, salsa, and live percussion at Block & Drum in Chamblee. Intimate venue, incredible musicians, full bar and small plates. Great for couples who want a more intimate live music experience away from the big crowds.",
+    "category": "live-music"
   }
 ]
