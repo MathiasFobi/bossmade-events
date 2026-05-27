@@ -18,7 +18,7 @@
     "category": "dancing"
   },
   {
-    "title": "Is This Going To Cause An Argument – Marcus & Angel Comedy",
+    "title": "Marcus & Angel Comedy – Is This Going To Cause An Argument?",
     "date": "2026-06-03",
     "time": "8:00 PM",
     "location": "City Winery Atlanta, 650 North Ave NE",
@@ -27,7 +27,16 @@
     "category": "comedy"
   },
   {
-    "title": "Jess Hilarious – Special Event",
+    "title": "SABOR @ Block & Drum – Latin Jazz & Live Percussion",
+    "date": "2026-06-04",
+    "time": "7:00 PM – 10:00 PM",
+    "location": "Block & Drum, Chamblee",
+    "price": "$20",
+    "description": "Latin jazz, salsa, and live percussion at Block & Drum in Chamblee. Intimate venue, incredible musicians, full bar and small plates. Great for couples who want a more intimate live music experience away from the big crowds.",
+    "category": "live-music"
+  },
+  {
+    "title": "Jess Hilarious – Special Event at Helium Comedy Club",
     "date": "2026-06-05",
     "time": "7:00 PM & 9:15 PM",
     "location": "Helium Comedy Club, 1157 Peachtree St NE",
@@ -36,7 +45,7 @@
     "category": "comedy"
   },
   {
-    "title": "Afro Beat & Caribbean Vibes Night",
+    "title": "Afro Beat & Caribbean Vibes Night – Tropical Vibes",
     "date": "2026-06-05",
     "time": "6:00 PM – 10:00 PM",
     "location": "Tago Life Center, Atlanta",
@@ -45,21 +54,12 @@
     "category": "live-music"
   },
   {
-    "title": "Best of Atlanta Comedy Showcase",
-    "date": "2026-06-06",
-    "time": "8:00 PM (doors 7:30 PM)",
-    "location": "Laughing Skull Lounge, 1556 Uppergate Dr",
-    "price": "$20",
-    "description": "Atlanta's funniest comics in one room — rotating lineup of the city's best stand-up talent. 21+ venue, full bar, no drink minimum. Laughing Skull is a beloved Atlanta institution. Perfect for couples who appreciate raw, local comedy.",
-    "category": "comedy"
-  },
-  {
     "title": "The Late Night R&B Experience Tour",
     "date": "2026-06-06",
     "time": "8:30 PM",
     "location": "Buckhead Theatre, 3110 Roswell Rd NE",
     "price": "$35–$60",
-    "description": "An evening of live R&B featuring top artists on the noise complaints tour. Great for couples who love smooth vocals, slow jams, and a live concert atmosphere in Buckhead's intimate theatre setting.",
+    "description": "An evening of live R&B featuring top artists. Great for couples who love smooth vocals, slow jams, and a live concert atmosphere in Buckhead's intimate theatre setting.",
     "category": "live-music"
   },
   {
@@ -90,13 +90,13 @@
     "category": "art"
   },
   {
-    "title": "Artful ATL – Atlanta Contemporary Benefit",
-    "date": "2026-06-13",
-    "time": "6:00 PM – 10:00 PM",
-    "location": "Atlanta Contemporary, 925 Marietta St NW",
-    "price": "$30–$50",
-    "description": "Annual benefit for Atlanta Contemporary — emerging artists, art enthusiasts, live music, food and cocktails. A stylish, art-forward date night that supports Atlanta's creative community. Great vibes and a meaningful experience.",
-    "category": "art"
+    "title": "Atlanta Summer Farmers Market",
+    "date": "2026-06-12",
+    "time": "10:00 AM – 5:30 PM",
+    "location": "Grant Park, Atlanta",
+    "price": "Free admission",
+    "description": "Three-day outdoor market featuring local vendors, fresh produce, artisan goods, food trucks, and live music. Perfect for a relaxed daytime date — grab coffee, stroll the stalls, and enjoy the summer weather together.",
+    "category": "vegetarian-food"
   },
   {
     "title": "Salsa Social @ Callanwolde Fine Arts Center",
@@ -108,6 +108,15 @@
     "category": "dancing"
   },
   {
+    "title": "Artful ATL – Atlanta Contemporary Benefit",
+    "date": "2026-06-13",
+    "time": "6:00 PM – 10:00 PM",
+    "location": "Atlanta Contemporary, 925 Marietta St NW",
+    "price": "$30–$50",
+    "description": "Annual benefit for Atlanta Contemporary — emerging artists, art enthusiasts, live music, food and cocktails. A stylish, art-forward date night that supports Atlanta's creative community. Great vibes and a meaningful experience.",
+    "category": "art"
+  },
+  {
     "title": "Vegan Takeover – Kamayan Filipino Restaurant",
     "date": "2026-06-14",
     "time": "1:00 PM – 4:00 PM",
@@ -117,12 +126,12 @@
     "category": "vegetarian-food"
   },
   {
-    "title": "SABOR @ Block & Drum",
-    "date": "2026-06-04",
-    "time": "7:00 PM – 10:00 PM",
-    "location": "Block & Drum, Chamblee",
-    "price": "$20",
-    "description": "Latin jazz, salsa, and live percussion at Block & Drum in Chamblee. Intimate venue, incredible musicians, full bar and small plates. Great for couples who want a more intimate live music experience away from the big crowds.",
+    "title": "STAMPED: AYA x Friends – Amapiano & Afrobeats",
+    "date": "2026-06-14",
+    "time": "4:00 PM – 11:00 PM",
+    "location": "Block & Drum, Chamblee, GA",
+    "price": "$25–$40",
+    "description": "High-energy Sunday session with Atlanta's top Amapiano and Afrobeats DJs. Outdoor venue, great crowd energy, food and drinks. Perfect for couples who want a vibrant day-party vibe. Mavado, Busy Signal, Beenie Man and more Jamaican legends on the lineup.",
     "category": "live-music"
   }
 ]
