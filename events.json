@@ -1,137 +1,164 @@
 [
   {
-    "title": "Foreign Fridays ATL",
-    "date": "2026-05-29",
-    "time": "9:00 PM – 2:30 AM",
-    "location": "3681 Clairmont Rd, Atlanta",
-    "price": "$15–$25",
-    "description": "Hip-hop, Afrobeats, Reggae & R&B nightclub party. Atlanta's premier Friday night vibes with multiple genres on rotation. Dress code enforced, great rooftop energy. Perfect for couples who love to dance and enjoy a lively club scene.",
-    "category": "dancing"
+    "title": "Rahsaan Patterson at City Winery Atlanta",
+    "date": "2026-05-30",
+    "time": "7:00 PM",
+    "location": "City Winery Atlanta, 987 City Parkside Dr NE",
+    "price": "$$",
+    "description": "Neo-soul singer Rahsaan Patterson brings his smooth vocals and romantic energy to City Winery. Perfect for couples who love intimate R&B vibes. Wine pairings available. Doors open early for pre-show drinks.",
+    "category": "live-music"
   },
   {
-    "title": "Latin Vibes Night",
+    "title": "Latin Vibes at Tago Life Center",
     "date": "2026-06-03",
-    "time": "6:00 PM – 10:00 PM",
+    "time": "6:00 PM",
     "location": "Tago Life Center, Atlanta",
-    "price": "$20–$35",
-    "description": "Feel the heat of tropical Latin rhythms — bachata, salsa, merengue, and more. Tago Life Center hosts Atlanta's most energetic Latin night with live DJs and a full bar. Beginner-friendly lesson at 6:30 PM, open dance floor from 8 PM onward.",
+    "price": "$",
+    "description": "Tropical Latin Night with salsa, bachata, and merengue. Great for couples who want to learn or show off dance moves. Sizzling rhythms, vibrant energy, and non-stop dancing. Beginner-friendly atmosphere.",
     "category": "dancing"
   },
   {
-    "title": "Marcus & Angel Comedy – Is This Going To Cause An Argument?",
-    "date": "2026-06-03",
-    "time": "8:00 PM",
-    "location": "City Winery Atlanta, 650 North Ave NE",
-    "price": "$48+",
-    "description": "Husband-and-wife comedy duo Marcus and Angel bring their hilarious take on relationships to City Winery. Wine, dine, and laugh together — perfect for couples who enjoy smart, relatable comedy. Full dinner menu available.",
-    "category": "comedy"
-  },
-  {
-    "title": "SABOR @ Block & Drum – Latin Jazz & Live Percussion",
+    "title": "Resurgence: The Rise of Atlanta on the Global Stage",
     "date": "2026-06-04",
-    "time": "7:00 PM – 10:00 PM",
-    "location": "Block & Drum, Chamblee",
-    "price": "$20",
-    "description": "Latin jazz, salsa, and live percussion at Block & Drum in Chamblee. Intimate venue, incredible musicians, full bar and small plates. Great for couples who want a more intimate live music experience away from the big crowds.",
+    "time": "5:30 PM - 8:30 PM",
+    "location": "Atlanta Tech Village - Sylvan",
+    "price": "Free",
+    "description": "An exhibit celebrating Atlanta's emergence as a global hub — tech, culture, and creativity. Great cultural date idea. Wine and bites provided. Conversation-starting art and installations.",
+    "category": "art-gallery"
+  },
+  {
+    "title": "Amplify Decatur Festival",
+    "date": "2026-06-04-07",
+    "time": "Various",
+    "location": "Decatur Square, Atlanta",
+    "price": "Free",
+    "description": "4-day festival debuting a new concert stage. Live music, local vendors, and community vibes. Perfect for a daytime date with evening concerts. Pet-friendly, great food trucks on site.",
     "category": "live-music"
   },
   {
-    "title": "Jess Hilarious – Special Event at Helium Comedy Club",
+    "title": "Bert Kreischer: Permission to Party",
     "date": "2026-06-05",
-    "time": "7:00 PM & 9:15 PM",
-    "location": "Helium Comedy Club, 1157 Peachtree St NE",
-    "price": "$25–$40",
-    "description": "Comedian Jess Hilarious (MTV, Comedy Central) performs back-to-back shows at Atlanta's top comedy club. Drinks, good food, and non-stop laughter in an intimate 21+ setting. Great for a sophisticated date night with edge.",
+    "time": "7:00 PM",
+    "location": "Gas South Arena, 6400 Rice Lake Pkwy, Duluth",
+    "price": "$$$",
+    "description": "Comedy superstar Bert Kreischer brings his legendary party energy. Hilarious, high-energy standup perfect for couples who laugh together. Great date night for comedy fans. Big venue, full bar.",
     "category": "comedy"
   },
   {
-    "title": "Afro Beat & Caribbean Vibes Night – Tropical Vibes",
-    "date": "2026-06-05",
-    "time": "6:00 PM – 10:00 PM",
-    "location": "Tago Life Center, Atlanta",
-    "price": "$25–$45",
-    "description": "Catch the rhythm and feel the heat — Tropical Vibes Night brings the best of Afrobeat, dancehall, soca, and Caribbean music to Atlanta. Live performances, tropical cocktails, and a packed dance floor. A vibrant couples' night out.",
+    "title": "Jess Hilarious at Helium Comedy Club",
+    "date": "2026-06-05-06",
+    "time": "7:00 PM (Fri), 7:00 PM & 9:30 PM (Sat)",
+    "location": "Helium Comedy Club, 1950 N 12th St, Atlanta",
+    "price": "$$",
+    "description": "Jess Hilarious brings big energy comedy to Atlanta's premier comedy club. Weekend shows perfect for date night. Full bar service, great small venue vibe. 21+ only.",
+    "category": "comedy"
+  },
+  {
+    "title": "Best of Atlanta Comedy Showcase",
+    "date": "2026-06-06",
+    "time": "8:00 PM",
+    "location": "Laughing Skull Lounge, 878 Main St SW, Atlanta",
+    "price": "$",
+    "description": "Top Atlanta comedians in one show. Laughing Skull is intimate and consistently funny. Great cheap date idea — only $20-25 per person. Arrive early for best seats.",
+    "category": "comedy"
+  },
+  {
+    "title": "Marcia Wood Gallery Opening — Susan Ker-Seymer",
+    "date": "2026-06-06",
+    "time": "6:00 PM - 9:00 PM",
+    "location": "Marcia Wood Gallery, 585 White St SW, Atlanta",
+    "price": "Free",
+    "description": "Art gallery opening with wine and mingling. Sophisticated date vibe — great for couples who appreciate contemporary art. Free admission, all ages welcome.",
+    "category": "art-gallery"
+  },
+  {
+    "title": "LINES OF PLAY — 30+ Artist Group Exhibition at ABV Gallery",
+    "date": "2026-06-06",
+    "time": "6:00 PM - 10:00 PM",
+    "location": "ABV Gallery, Atlanta",
+    "price": "Free",
+    "description": "Massive group show celebrating World Cup with 30+ artists. Vibrant, energetic opening with great crowds. Perfect for couples who love art, sports, and culture. Free admission.",
+    "category": "art-gallery"
+  },
+  {
+    "title": "Sam Salem — In The Other Room at Helium",
+    "date": "2026-06-06",
+    "time": "7:30 PM (Sat), 7:00 PM (Sun)",
+    "location": "Helium Comedy Club, 1950 N 12th St, Atlanta",
+    "price": "$$",
+    "description": "Sam Salem brings clever, observational comedy to Helium's intimate side room. Great alternative to the main shows. Late-night energy, solid date night comedy.",
+    "category": "comedy"
+  },
+  {
+    "title": "Corinne Bailey Rae — 20th Anniversary Tour",
+    "date": "2026-06-12",
+    "time": "8:00 PM",
+    "location": "Buckhead Theatre, 3110 Roswell Rd NE, Atlanta",
+    "price": "$$$",
+    "description": "British soul queen celebrating 20 years of her iconic catalog. Romantic, smooth live music perfect for couples. Great vocals, intimate theater setting. Dinner nearby in Buckhead recommended.",
     "category": "live-music"
   },
   {
-    "title": "The Late Night R&B Experience Tour",
-    "date": "2026-06-06",
-    "time": "8:30 PM",
-    "location": "Buckhead Theatre, 3110 Roswell Rd NE",
-    "price": "$35–$60",
-    "description": "An evening of live R&B featuring top artists. Great for couples who love smooth vocals, slow jams, and a live concert atmosphere in Buckhead's intimate theatre setting.",
-    "category": "live-music"
-  },
-  {
-    "title": "Saturday Night Latin Dance @ Eclipse Di Luna",
-    "date": "2026-06-06",
-    "time": "9:00 PM – 1:00 AM",
-    "location": "Eclipse Di Luna, 4505 Ashford Dunwoody Rd NE, Buckhead",
-    "price": "$10–$20",
-    "description": "GO Latin Dance hosts weekly Saturday salsa and bachata at one of Buckhead's best Latin restaurants. Free lesson at 9 PM, open dancing until 1 AM. Great food, great music, no pressure — perfect for a low-key couples' dance date.",
+    "title": "Salsa Social at Callanwolde Fine Arts Center",
+    "date": "2026-06-12",
+    "time": "6:00 PM - 10:00 PM",
+    "location": "Callanwolde Fine Arts Center, 980 Lawrence St NE, Atlanta",
+    "price": "$",
+    "description": "Cuban music and dancing at the historic Callanwolde Mansion. Live band, dance floor, and beautiful grounds. Romantic setting for couples. All skill levels welcome — great energy.",
     "category": "dancing"
   },
   {
-    "title": "LINES OF PLAY – ABV Gallery Group Exhibition (30+ Artists)",
-    "date": "2026-06-06",
-    "time": "6:00 PM – 10:00 PM",
-    "location": "ABV Gallery, 472 Edgewood Ave SE",
-    "price": "Free",
-    "description": "A massive group show celebrating the World Cup with 30+ artists — painting, illustration, digital art, and more. Free admission, cash bar, great crowd. Awesome for art-loving couples who want to discover new work and support local artists.",
-    "category": "art"
-  },
-  {
-    "title": "Marcia Wood Gallery Opening – Susan Ker-Seymer",
-    "date": "2026-06-06",
-    "time": "6:00 PM – 9:00 PM",
-    "location": "Marcia Wood Gallery, 424 Marletta St SW",
-    "price": "Free",
-    "description": "Opening night for Susan Ker-Seymer's exhibit at one of Atlanta's most respected contemporary galleries. Wine reception, artist meet-and-greet, elegant Midtown setting. Sophisticated and free — perfect for an upscale cultural date.",
-    "category": "art"
-  },
-  {
-    "title": "Atlanta Summer Farmers Market",
-    "date": "2026-06-12",
-    "time": "10:00 AM – 5:30 PM",
-    "location": "Grant Park, Atlanta",
-    "price": "Free admission",
-    "description": "Three-day outdoor market featuring local vendors, fresh produce, artisan goods, food trucks, and live music. Perfect for a relaxed daytime date — grab coffee, stroll the stalls, and enjoy the summer weather together.",
-    "category": "vegetarian-food"
-  },
-  {
-    "title": "Salsa Social @ Callanwolde Fine Arts Center",
-    "date": "2026-06-12",
-    "time": "8:00 PM – 11:00 PM",
-    "location": "Callanwolde Fine Arts Center, 980 Briarcliff Rd NE",
-    "price": "$15",
-    "description": "Monthly salsa social with a live band and DJ — dance in the beautiful historic mansion setting of Callanwolde. All levels welcome, great community vibe, and a covered outdoor dance floor. Romantic and low-pressure.",
-    "category": "dancing"
-  },
-  {
-    "title": "Artful ATL – Atlanta Contemporary Benefit",
+    "title": "Love and Music — A Romantic Concert Experience",
     "date": "2026-06-13",
-    "time": "6:00 PM – 10:00 PM",
-    "location": "Atlanta Contemporary, 925 Marietta St NW",
-    "price": "$30–$50",
-    "description": "Annual benefit for Atlanta Contemporary — emerging artists, art enthusiasts, live music, food and cocktails. A stylish, art-forward date night that supports Atlanta's creative community. Great vibes and a meaningful experience.",
-    "category": "art"
+    "time": "7:30 PM - 9:30 PM",
+    "location": "Rehearse Live, LLC, Atlanta",
+    "price": "$$",
+    "description": "VIP Cocktail Hour at 7:30, Romantic Piano Concert at 8:30. Specifically designed for couples — immersive love and music theme. Perfect anniversary or special date night.",
+    "category": "live-music"
   },
   {
-    "title": "Vegan Takeover – Kamayan Filipino Restaurant",
-    "date": "2026-06-14",
-    "time": "1:00 PM – 4:00 PM",
-    "location": "5150 Buford Hwy NE A230, Doraville",
-    "price": "$25–$35",
-    "description": "Plant-based Filipino feast at Kamayan — vegan lumpia, adobo, sisig, and more. A fun, adventurous food date for couples who want to explore vegan cuisine with bold Filipino flavors. Walk-ins welcome, cash only.",
+    "title": "High Notes ATL — Rose Weeknd by Fine Wine Series",
+    "date": "2026-06-13",
+    "time": "4:00 PM - 10:00 PM",
+    "location": "Rose and Rye, Atlanta",
+    "price": "$$",
+    "description": "Rose wine and live music pairing experience. Sophisticated date vibes with curated wine and live performances. Rooftop or upscale indoor setting. Great for couples who love wine and good tunes.",
     "category": "vegetarian-food"
   },
   {
-    "title": "STAMPED: AYA x Friends – Amapiano & Afrobeats",
+    "title": "Juneteenth Atlanta Parade & Music Festival — Vegetarian Food Vendors 10x10",
+    "date": "2026-06-19",
+    "time": "All Day",
+    "location": "Piedmont Park, Atlanta",
+    "price": "Free",
+    "description": "14th Annual Juneteenth celebration in Piedmont Park. 10 vegetarian food vendors, live music, parade. Cultural richness and amazing food. Great for couples who love food and history.",
+    "category": "vegetarian-food"
+  },
+  {
+    "title": "STAMPED: AYA x Friends — Amapiano & Afrobeats",
     "date": "2026-06-14",
-    "time": "4:00 PM – 11:00 PM",
-    "location": "Block & Drum, Chamblee, GA",
-    "price": "$25–$40",
-    "description": "High-energy Sunday session with Atlanta's top Amapiano and Afrobeats DJs. Outdoor venue, great crowd energy, food and drinks. Perfect for couples who want a vibrant day-party vibe. Mavado, Busy Signal, Beenie Man and more Jamaican legends on the lineup.",
-    "category": "live-music"
+    "time": "4:00 PM - 11:00 PM",
+    "location": "BLOCK & DRUM, Chamblee GA",
+    "price": "$$",
+    "description": "Afrobeats, Amapiano, and more. High energy dance party with Atlanta's best. Door fee, drinks, and non-stop dancing. Great for couples who love international beats and club vibes.",
+    "category": "afrobeat"
+  },
+  {
+    "title": "Reggae on the Rooftop Festival — Juneteenth Weekend",
+    "date": "2026-06-20",
+    "time": "3:00 PM - 9:00 PM",
+    "location": "TBA Rooftop, Atlanta",
+    "price": "$$",
+    "description": "Rooftop reggae festival for Juneteenth weekend. Vibey outdoor party with island beats, food, and drinks. Perfect Saturday afternoon date — sunset vibes and good music.",
+    "category": "reggae"
+  },
+  {
+    "title": "Green Market at Piedmont Park",
+    "date": "2026-06-20",
+    "time": "9:00 AM - 1:00 PM",
+    "location": "Piedmont Park, Atlanta",
+    "price": "Free",
+    "description": "Weekly farmers market in Piedmont Park. Fresh local produce, artisan goods, vegetarian options. Great morning date — walk the park, grab coffee, shop local.",
+    "category": "vegetarian-food"
   }
 ]
