@@ -2,136 +2,100 @@
   {
     "title": "Afrobeat & Caribbean Vibes Night",
     "date": "2026-06-05",
-    "time": "6:00 PM - 10:00 PM",
-    "location": "Tago Life Center, Atlanta",
-    "price": "Free - $20",
-    "description": "Feel the heat of tropical vibes! This night brings the best of Afrobeat and Caribbean music together. Great energy, great dancing, perfect for couples who love rhythm.",
-    "category": "afrobeat"
+    "time": "6:00 PM – 10:00 PM",
+    "location": "Tago Life Center, 892 Jefferson St NW, Atlanta, GA 30318",
+    "price": "$10",
+    "description": "Dance to infectious Afrobeat and Caribbean rhythms. Perfect date night energy with island vibes, great music, and a lively atmosphere. Occurs every Friday in June.",
+    "category": "live music"
   },
   {
-    "title": "Lines of Play Opening Reception",
+    "title": "LINES OF PLAY | Group Art Exhibition (30+ Artists)",
     "date": "2026-06-06",
-    "time": "6:00 PM - 10:00 PM",
-    "location": "ABV Gallery at Mato, Atlanta",
+    "time": "6:00 PM – 10:00 PM",
+    "location": "ABV Gallery, Atlanta, GA",
     "price": "Free",
-    "description": "World Cup-themed group exhibition featuring 30+ local artists. Great conversation starter, free wine, and an excuse to wander through art with your date.",
+    "description": "Celebration of World Cup art with 30+ artists. Great way to spark conversation while exploring diverse artistic expressions. Casual, creative atmosphere perfect for couples.",
     "category": "art"
   },
   {
-    "title": "Poetry For Lovers: Custom Typewriter Poetry",
-    "date": "2026-06-05",
-    "time": "6:00 PM - 9:30 PM",
-    "location": "700 Lake Ave NE, Atlanta",
-    "price": "$35 per couple",
-    "description": "Intimate typewriter poetry experience. Create custom poems together and leave with a keepsake. Romantic, unique, and way more memorable than a typical date.",
-    "category": "date-idea"
-  },
-  {
-    "title": "Glow Nights After Hours at Georgia Aquarium",
-    "date": "2026-06-05",
-    "time": "7:00 PM - 11:00 PM",
-    "location": "Georgia Aquarium, Atlanta",
-    "price": "$45 - $60",
-    "description": "Adults-only glow party inside the aquarium. Dance, drink, and explore exhibits with neon vibes. Ultra-cool date night that beats the typical dinner reservation.",
-    "category": "dancing"
-  },
-  {
-    "title": "Young the Giant + Cold War Kids",
+    "title": "Saturday Night Live Comedy: GEMINI TAKEOVER",
     "date": "2026-06-06",
-    "time": "7:00 PM",
-    "location": "Synovus Bank Amphitheater at Chastain Park",
-    "price": "$45+",
-    "description": "Indie rock concert under the stars. Pack a picnic, bring a blanket, and enjoy great music in Atlanta's beautiful outdoor venue. Classic summer date.",
-    "category": "live-music"
+    "time": "8:30 PM – 10:30 PM",
+    "location": "4730 Frontage Rd, Forest Park, GA 30297",
+    "price": "Varies",
+    "description": "Hosted by WeightBall with headliner Ambrose Jones. 2 hours of laughs at Atlanta's Original Uptown Comedy Corner. Doors at 7:45 PM. Great for couples who love to laugh together.",
+    "category": "comedy"
   },
   {
-    "title": "Cocktails in the Garden",
-    "date": "2026-06-04",
-    "time": "5:00 PM - 9:00 PM",
-    "location": "Atlanta Botanical Garden",
-    "price": "Included with garden admission",
-    "description": "Weekly event: drinks, live music, and gorgeous garden views. Stroll through flowers, sip cocktails, and enjoy the romantic atmosphere outdoors.",
-    "category": "date-idea"
+    "title": "Sun Havana Nights: Salsa Bachata & Latin Dancing",
+    "date": "2026-06-07",
+    "time": "4:30 PM – 12:00 AM",
+    "location": "La Industria, Atlanta",
+    "price": "Varies",
+    "description": "Every Sunday salsa ATL brings Havana Nights with salsa, bachata, and Latin dancing. Perfect for couples who want to learn together or show off their moves. Great energy, food, and vibes.",
+    "category": "dancing"
   },
   {
     "title": "Atlanta Comedy Experience",
     "date": "2026-06-07",
-    "time": "7:00 PM - 11:00 PM",
+    "time": "7:00 PM – 11:00 PM",
     "location": "Atlanta Virtual Studios",
-    "price": "$20",
-    "description": "Standup comedy show with local and touring comedians. Laughter is the best medicine and perfect for a fun, low-pressure date night.",
-    "category": "comedy"
-  },
-  {
-    "title": "Helium Comedy Club: Jess Hilarious",
-    "date": "2026-06-05",
-    "time": "7:00 PM & 9:15 PM",
-    "location": "Helium Comedy Club, Atlanta",
-    "price": "$25 - $35",
-    "description": "Jess Hilarious brings her hilarious act to Atlanta. Great burgers, cold drinks, and belly laughs. Perfect for couples who don't take themselves too seriously.",
-    "category": "comedy"
-  },
-  {
-    "title": "Morgan Jay: The Goofy Guy Tour",
-    "date": "2026-06-05",
-    "time": "7:00 PM",
-    "location": "Fox Theatre, Atlanta",
     "price": "Varies",
-    "description": "Musician-comedian Morgan Jay performs at the iconic Fox Theatre. Unique blend of comedy and live music in one of Atlanta's most beautiful venues.",
+    "description": "Sunday night comedy show. Good for a relaxed date with laughs. Virtual studio setting ensures a quality experience.",
     "category": "comedy"
   },
   {
-    "title": "Salsa Bachata Havana Nights @ La Industria",
-    "date": "2026-06-14",
-    "time": "4:30 PM - 12:00 AM",
-    "location": "La Industria, Atlanta",
-    "price": "$15 - $25",
-    "description": "Sunday salsa and bachata dancing. Includes class, dinner, and social dancing. Learn together, laugh at mistakes, and end the night holding each other on the dance floor.",
+    "title": "Jazz on the Rooftop – Tuesday Nights",
+    "date": "2026-06-09",
+    "time": "7:00 PM – 10:00 PM",
+    "location": "Virtue Rooftop, Atlanta",
+    "price": "Varies",
+    "description": "Weekly rooftop jazz with Atlanta's skyline as your backdrop. Perfect for a sophisticated date night. Midweek escape with live music and good vibes. Also June 16.",
+    "category": "live music"
+  },
+  {
+    "title": "Tropical Latin Night Atlanta",
+    "date": "2026-06-12",
+    "time": "8:30 PM – 2:00 AM",
+    "location": "Sanctuary Night Club, Atlanta",
+    "price": "Varies",
+    "description": "Weekend kickoff with tropical Latin vibes. Dance the night away with bachata, salsa, and merengue. Great for couples who love to move. Also June 19.",
     "category": "dancing"
   },
   {
-    "title": "Candela: Monthly Latin Fusion Party",
-    "date": "2026-06-13",
-    "time": "10:00 PM",
-    "location": "District Atlanta",
-    "price": "$15 - $25",
-    "description": "Atlanta's hottest Latin fusion party with DJ EU, Lemnxx, and Aveza. High energy, great cocktails, and a dance floor that stays packed till 3AM.",
-    "category": "dancing"
-  },
-  {
-    "title": "Vegan Takeover at Kamayan Filipino Restaurant",
-    "date": "2026-06-14",
-    "time": "1:00 PM",
-    "location": "5150 Buford Hwy NE, Doraville",
-    "price": "$30 - $50",
-    "description": "Special vegan Filipino feast. Unique food experience for adventurous couples. Bold flavors, beautiful presentation, and something different from typical date night fare.",
-    "category": "vegetarian"
-  },
-  {
-    "title": "Love and Music - Atlanta!",
-    "date": "2026-06-13",
-    "time": "7:30 PM - 9:30 PM",
-    "location": "Rehearse Live, LLC, Atlanta",
-    "price": "$30 couple",
-    "description": "Romantic piano concert immersion. VIP cocktail hour followed by a candlelit piano performance. Perfect for couples looking for a classy, intimate evening.",
-    "category": "live-music"
-  },
-  {
-    "title": "Moms Unhinged Standup Comedy",
-    "date": "2026-06-08",
-    "time": "7:00 PM - 9:00 PM",
-    "location": "Wild Heaven Beer: West End Brewery & Gardens",
-    "price": "$20",
-    "description": "Outdoor comedy show at Atlanta's best brewery. Craft beers, food trucks, and standup comedy under the stars. Casual, fun, and great for laid-back couples.",
-    "category": "comedy"
-  },
-  {
-    "title": "Where Being Takes Root Opening Reception",
-    "date": "2026-06-04",
-    "time": "6:00 PM - 8:00 PM",
-    "location": "GSU Welch School Galleries",
-    "price": "Free",
-    "description": "Art exhibition opening at Georgia State University. Free, sophisticated, and a great way to spend a Thursday evening exploring art with your partner.",
+    "title": "Queer Games: Videogame Exhibition",
+    "date": "2026-06-12",
+    "time": "6:00 PM – 10:00 PM",
+    "location": "638 N Highland Ave NE, Atlanta",
+    "price": "Varies",
+    "description": "Videogame exhibition celebrating queer gaming culture. Interactive and conversation-starting. Runs through June 14. Great for couples who game together or want to try something different.",
     "category": "art"
+  },
+  {
+    "title": "Art of the Game: Open Reception",
+    "date": "2026-06-13",
+    "time": "7:30 PM – 9:30 PM",
+    "location": "Gallery Chimera, Atlanta",
+    "price": "Varies",
+    "description": "Opening reception exploring art of gaming. Sophisticated gallery setting perfect for cultured couples. Wine, conversation, and creative inspiration.",
+    "category": "art"
+  },
+  {
+    "title": "Live Jazz Fridays: Spring Sessions",
+    "date": "2026-06-12",
+    "time": "6:00 PM – 9:00 PM",
+    "location": "High Museum of Art",
+    "price": "Varies",
+    "description": "Juneteenth Friday Jazz at the High Museum. Combines live music with world-class art viewing. Perfect cultural date experience. Also June 19 & 26.",
+    "category": "live music"
+  },
+  {
+    "title": "Salsa Dancing Class & Taco Dinner",
+    "date": "2026-06-18",
+    "time": "6:30 PM – 8:30 PM",
+    "location": "Chicheria Mexican Kitchen, Atlanta",
+    "price": "Varies",
+    "description": "Learn salsa basics then enjoy tacos. Low-pressure way to learn together as a couple. Interactive, fun, and ends with dinner. Perfect for date night.",
+    "category": "dancing"
   }
 ]
