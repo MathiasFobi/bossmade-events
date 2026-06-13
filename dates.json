@@ -1,32 +1,34 @@
 [
   {
-    "emoji": "🎵",
-    "category": "live music",
-    "title": "Young the Giant: Victory Garden Tour with Cold War Kids — Chastain Park",
-    "description": "Indie rock under the open sky at Chastain Park amphitheater. Young the Giant brings their Victory Garden Tour with Cold War Kids as special guests. Doors open 6:30 PM. Bring a blanket or lawn chairs — it's a perfect June evening for live music outdoors. One of Atlanta's premier summer concert venues with great sightlines and sound.",
-    "budget": "$55–$80 per person",
-    "location": "Synovus Bank Amphitheater at Chastain Park, 4469 Stella Way NW, Atlanta, GA 30327",
-    "vibe": "Energetic, summery, outdoorsy — ideal for music lovers who enjoy sing-along moments and post-rock vibes",
-    "validUntil": "2026-06-07"
-  },
-  {
-    "emoji": "😂",
-    "category": "comedy",
-    "title": "Best of Atlanta Comedy Showcase — Laughing Skull Lounge",
-    "description": "Laugh your face off with Atlanta's funniest local comedians all on one stage. Sunday night showcase at the Laughing Skull — doors open at 7 PM, show at 7:30 PM. The venue is intimate, the drinks are solid, and the lineup changes weekly so it's always fresh. A perfect low-key Sunday date.",
-    "budget": "$20–$30 per person",
-    "location": "Laughing Skull Lounge, 875 Franklin Rd SE, Atlanta, GA 30316",
-    "vibe": "Funny, relaxed, intimate — great for couples who love to laugh and appreciate local talent",
-    "validUntil": "2026-06-07"
+    "emoji": "💃",
+    "category": "dancing",
+    "title": "Tropical Elegance Latin Night — Salsa & Bachata Lesson + Social",
+    "description": "Beginner-friendly salsa and bachata lesson (8–10 PM) followed by a full Latin dance social (10 PM–2 AM) at Brimstone in Alpharetta. No experience needed — it's the perfect excuse to learn something new together. Tonight only. Grab a late dinner beforehand and make a whole night of it.",
+    "budget": "$15 cover per person (includes lesson + social); dinner extra",
+    "location": "Brimstone Restaurant & Tavern, 10595 Old Alabama Rd Connector, Alpharetta, GA",
+    "vibe": "Warm, playful, high-energy — for couples who like to move and laugh at themselves",
+    "validUntil": "2026-06-14"
   },
   {
     "emoji": "🎨",
-    "category": "art",
-    "title": "LINES OF PLAY — ABV Gallery (30+ Artists, Opening Night)",
-    "description": "A group art exhibition celebrating the World Cup coming to Atlanta, featuring 30+ local and international artists. Opening night is Saturday 6–10 PM with free admission. Wine, good vibes, and incredible visual art all in one of Atlanta's most creative gallery spaces. Perfect for a Saturday evening cultural date.",
-    "budget": "Free (donations welcome)",
-    "location": "ABV Gallery, 472 Marietta St NW, Atlanta, GA 30318",
-    "vibe": "Creative, vibrant, social — conversation-starting art in a casual gallery setting, great for couples who appreciate visual arts",
-    "validUntil": "2026-06-07"
+    "category": "art + live music + comedy",
+    "title": "The Garden Party ATL — Variety Show at Bambellas Art World",
+    "description": "A variety show with live music, comedy, and burlesque at Bambellas Art World, a creative studio/gallery space. Doors 7 PM, show 7–11 PM. Hits three shared interests in one night: paintings/art on the walls, live music on stage, and comedy between sets. Intimate, expressive, very Atlanta.",
+    "budget": "Ticketed at the door (check HappeningNext for current price)",
+    "location": "BAMBELLAS ART WORLD, Atlanta, GA (details on event page)",
+    "vibe": "Bohemian, sensual, fun — for couples who want culture, laughs, and a little edge",
+    "validUntil": "2026-06-14",
+    "link": "https://happeningnext.com/event/the-garden-party-atl-eid1ef0l05pulqr"
+  },
+  {
+    "emoji": "🎷",
+    "category": "singing + food + mini getaway",
+    "title": "Sunday Jazz Brunch at C. Ellet's + Battery ATL Stroll",
+    "description": "Sunday jazz brunch at C. Ellet's inside The Battery Atlanta (11 AM–3 PM) — live vocals, walkable post-meal stroll around the Battery, then optional coffee/ice cream. Vegetarian-friendly menu. The Battery feels like a mini-getaway without leaving the city. A relaxed, low-pressure close to the weekend.",
+    "budget": "$25–$45 per person brunch + drinks",
+    "location": "C. Ellet's at The Battery Atlanta, 847 Battery Ave SE, Atlanta, GA 30339",
+    "vibe": "Easy, romantic, sunlit — for couples who like great music, good food, and a slow Sunday",
+    "validUntil": "2026-06-14",
+    "link": "https://batteryatl.com/event/jazz-brunch-at-c-ellets/2026-06-14/"
   }
 ]
