@@ -1,83 +1,38 @@
 [
   {
-    "title": "Blooms Night Market at Ponce (BeltLine)",
-    "date": "2026-06-13",
-    "time": "6:00 PM - 11:00 PM",
-    "location": "Ponce City Market, 675 Ponce de Leon Ave NE, Atlanta, GA",
-    "price": "Free entry (pay vendors)",
-    "description": "Monthly night market on the BeltLine at PCM: local makers, art, food, and live music under the string lights. Easy, walkable, low-pressure date — browse, snack, grab a drink on the rooftop afterward.",
-    "category": "date night"
-  },
-  {
-    "title": "Art of the Game — Opening Reception",
-    "date": "2026-06-13",
-    "time": "7:30 PM - 9:30 PM",
-    "location": "Gallery Chimera, 624 N Highland Ave NE, Atlanta, GA",
-    "price": "Free (registration via Eventbrite)",
-    "description": "World Cup-timed group exhibition featuring international artists exploring soccer, culture, and connection. Meet the artists, browse mixed-media works, and enjoy an intimate opening-night reception in Poncey-Highland.",
-    "category": "art"
-  },
-  {
-    "title": "Tropical Elegance Latin Night — Salsa & Bachata Lesson + Dancing",
-    "date": "2026-06-13",
-    "time": "8:00 PM - 2:00 AM (lesson 8-10 PM, social 10 PM-2 AM)",
-    "location": "Brimstone Restaurant & Tavern, 10595 Old Alabama Rd Connector, Alpharetta, GA",
-    "price": "$15 cover (includes class + social)",
-    "description": "Beginner-friendly salsa and bachata lesson followed by a full Latin dance social. No experience needed — perfect excuse to hold each other close and learn a new skill together. Runs every Saturday.",
+    "title": "STAMPED x PLAYHOUSE: ATL — Amapiano, Afrobeats & More",
+    "date": "2026-06-14",
+    "time": "4:00 PM - 11:00 PM",
+    "location": "BLOCK & DRUM, Chamblee, GA",
+    "price": "Ticketed via Eventbrite",
+    "description": "Sunday-afternoon-to-night Afrobeats/Amapiano party. Afrobeats + Amapiano + the full diaspora sound — easy Sunday day-party date if you want to skip the FOMO of Saturday night.",
     "category": "dancing"
   },
   {
-    "title": "Atlanta International Night Market: Taste the World on the BeltLine",
-    "date": "2026-06-13",
-    "time": "4:00 PM - 10:00 PM",
-    "location": "929 Lee St SW, Atlanta, GA (Westside BeltLine)",
-    "price": "Free entry (pay vendors)",
-    "description": "Travel the world on the BeltLine in one evening. Global street food, music, and a vibrant crowd. Ideal foodie date — split small plates, share a coconut, stay for sunset.",
-    "category": "food"
-  },
-  {
-    "title": "High Notes ATL — Rosé Weeknd (Fine Wine Series)",
-    "date": "2026-06-13",
-    "time": "4:00 PM - 10:00 PM",
-    "location": "Rose and Rye, Atlanta, GA",
-    "price": "Ticketed via stayhappening",
-    "description": "Rooftop rosé tasting with live music and curated wine flights. Built for couples — lounge, sip, vibe. Easy Saturday-afternoon-into-evening date.",
-    "category": "date night"
-  },
-  {
-    "title": "Love Lust Language — Live Music & Poetry Show",
-    "date": "2026-06-13",
-    "time": "8:30 PM - 12:30 AM",
-    "location": "393 Marietta St NW, Atlanta, GA",
-    "price": "Ticketed (check Eventbrite)",
-    "description": "Intimate live music + poetry experience — interactive, sensual, and built around connection. A 'lean into each other' kind of date.",
+    "title": "Afropiano Kingdom: Atlanta",
+    "date": "2026-06-20",
+    "time": "Evening (check promoter)",
+    "location": "Atlanta, GA (venue via ticket)",
+    "price": "Ticketed via AllEvents",
+    "description": "Afropiano takeover in Atlanta — heavy bass, hypnotic log-drum lines, dance-floor built for couples. If you and your date love the Amapiano/Afrobeats crossover, this one's for you.",
     "category": "live music"
   },
   {
-    "title": "Love and Music Atlanta — Romantic Piano Concert",
-    "date": "2026-06-13",
-    "time": "7:30 PM (VIP cocktail hour) / 8:30 PM (concert)",
-    "location": "Rehearse Live, LLC, Atlanta, GA",
-    "price": "Ticketed (VIP available)",
-    "description": "Cocktail hour followed by an immersive romantic piano concert. Date-night-in-a-box: dress up, slow dance in the dark, hold hands through the music.",
-    "category": "live music"
+    "title": "Atlanta's #1 World Cup After Party: AfroFuse + Congo DRC Independence",
+    "date": "2026-06-27",
+    "time": "9:30 PM - 2:30 AM",
+    "location": "Ace on Auburn Sports Bar & Grill, Atlanta, GA",
+    "price": "Ticketed (21+)",
+    "description": "AfroFuse World Cup after-party with full Afrobeats/Amapiano/Diaspora lineup celebrating Congo DRC Independence. Late-night, high-energy, dance-first date — perfect for couples who want to be the last ones on the floor.",
+    "category": "dancing"
   },
   {
-    "title": "Lil Jon Live at the Fox Theatre",
-    "date": "2026-06-14",
-    "time": "7:30 PM",
-    "location": "Fox Theatre, 660 Peachtree St NE, Atlanta, GA",
-    "price": "Ticketed (Live Nation / Ticketmaster)",
-    "description": "Atlanta's own Lil Jon brings crunk-energy to the iconic Fox. Bring earplugs, your loudest outfit, and a partner who knows every 'yeah!' from 'Get Low.' High-energy Sunday night.",
-    "category": "live music"
-  },
-  {
-    "title": "Jazz at The Strand: The Music of Sarah Vaughan",
-    "date": "2026-06-14",
-    "time": "Evening (check venue)",
-    "location": "Earl and Rachel Smith Strand Theatre, Marietta, GA",
-    "price": "Ticketed",
-    "description": "Tribute to the legendary Sarah Vaughan in an intimate historic theatre just outside Atlanta. Classic date move — cocktails downtown Marietta, then a vocal-jazz master class.",
+    "title": "I Am King: A Tribute to Men in Music",
+    "date": "2026-06-21",
+    "time": "8:00 PM",
+    "location": "City Winery Atlanta, 650 North Ave NE, Atlanta, GA",
+    "price": "From ~$24",
+    "description": "Father's Day-weekend tribute concert at City Winery — dinner + wine + a soul/R&B tribute show. A warm, seated, easy-Sunday-date format with built-in food and drinks.",
     "category": "live music"
   },
   {
@@ -135,6 +90,15 @@
     "category": "live music"
   },
   {
+    "title": "Juneteenth Atlanta Parade & Music Festival 2026",
+    "date": "2026-06-19",
+    "time": "All day (festival runs Jun 19-21, parade Jun 20 at 10 AM)",
+    "location": "Piedmont Park, Atlanta, GA",
+    "price": "Free entry",
+    "description": "14th annual Juneteenth Atlanta — three days of music, parade, vendors, food, art, family programming. Bring a blanket, walk the BeltLine to the park, share a plate from a Black-owned vendor. Culture-rich date that gives back to the city.",
+    "category": "live music"
+  },
+  {
     "title": "Sip & Savor — Wine & Charcuterie Tasting Experience",
     "date": "2026-06-20",
     "time": "4:00 PM - 7:00 PM",
@@ -150,15 +114,6 @@
     "location": "Air Roofrop (formerly Suite Lounge), 75 Luckie St NW, Atlanta, GA",
     "price": "Ticketed via Eventbrite (21+)",
     "description": "Second annual rooftop reggae/dancehall/soca/Afrobeats festival with skyline views, complimentary jerk chicken and rum punch (while supplies last), DJs, indoor + outdoor two-level setup. 6 hours of Caribbean vibes — peak date energy.",
-    "category": "live music"
-  },
-  {
-    "title": "Juneteenth Atlanta Parade & Music Festival 2026",
-    "date": "2026-06-19",
-    "time": "All day (festival runs Jun 19-21, parade Jun 20 at 10 AM)",
-    "location": "Piedmont Park, Atlanta, GA",
-    "price": "Free entry",
-    "description": "14th annual Juneteenth Atlanta — three days of music, parade, vendors, food, art, family programming. Bring a blanket, walk the BeltLine to the park, share a plate from a Black-owned vendor. Culture-rich date that gives back to the city.",
     "category": "live music"
   },
   {

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-13T08:00:00-07:00",
+  "generatedAt": "2026-06-14T07:00:00-07:00",
   "source": "Date Planner cron",
-  "dateCount": 3,
-  "windowDays": 2,
-  "categories": ["dancing", "art", "live music", "comedy", "singing", "food", "mini getaway"],
-  "notes": "Weekend of Jun 13–14, 2026. Curated for shared interests: live music, art, dancing, vegetarian food, cooking, singing, comedy, mini getaways. Prices are best-available from public listings and may vary at door."
+  "dateCount": 25,
+  "windowDays": 14,
+  "categories": ["dancing", "art", "live music", "comedy", "food", "Afrobeats", "reggae", "Amapiano", "wine"],
+  "notes": "Window: Jun 14–28, 2026. Curated for couples: live music, Afrobeat/Amapiano/reggae, art, vegetarian/plant-based food, comedy, dancing. Added new finds: STAMPED x PLAYHOUSE: ATL (Jun 14), Afropiano Kingdom (Jun 20), AfroFuse World Cup After Party (Jun 27), and I Am King tribute at City Winery (Jun 21). Prices are best-available from public listings and may vary at door."
 }
