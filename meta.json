@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-15T07:00:00-07:00",
-  "source": "Date Planner cron",
-  "dateCount": 16,
+  "generatedAt": "2026-06-17T07:20:00-07:00",
+  "source": "Atlanta Event Finder cron",
+  "dateCount": 20,
   "windowDays": 14,
-  "windowStart": "2026-06-15",
-  "windowEnd": "2026-06-29",
-  "categories": ["live music", "Afrobeats", "reggae", "art", "comedy", "dancing", "food", "date idea"],
-  "notes": "Window: Jun 15–29, 2026. Curated for couples — live music, Afrobeat/reggae, art galleries, vegetarian/vegan food, comedy, dancing, fun date ideas. Highlights: Comedy Bang! Bang! at Buckhead Theatre (Jun 16), Rhys Darby at Helium (Jun 18-20), Reggae on the Rooftop Juneteenth fest (Jun 20), Pride Night at Zoo Atlanta (Jun 20), Politan Row salsa/bachata socials (Jun 20-21), Vegan Soul Sunday Father's Day (Jun 21), Lyle Lovett at City Winery (Jun 24-25), plus three free/cheap art gallery shows to anchor low-cost dates. Prices are best-available from public listings and may vary at door."
+  "windowStart": "2026-06-17",
+  "windowEnd": "2026-06-30",
+  "categories": ["live music", "Afrobeats", "reggae", "art", "comedy", "dancing", "vegetarian", "date idea"],
+  "notes": "Window: Jun 17–30, 2026. Curated for couples — live music, Afrobeat/reggae, art galleries, vegetarian/vegan food, comedy, dancing, fun date ideas. Headline picks: Reggae on the Rooftop Juneteenth Fest (Jun 20), Atlanta BeltLine Fest FREE (Jun 20-21), AFROXFEST in Candler Park (Jun 27), Old Fourth Ward Arts Festival (Jun 20-21), illumine 2026 at Oakland Cemetery $10 (Jun 26). Several free and under-$25 options anchor the low-cost column. Prices are best-available from public listings and may vary at door."
 }
