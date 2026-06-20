@@ -1,34 +1,35 @@
 [
   {
-    "emoji": "💃",
-    "category": "dancing",
-    "title": "Tropical Elegance Latin Night — Salsa & Bachata Lesson + Social",
-    "description": "Beginner-friendly salsa and bachata lesson (8–10 PM) followed by a full Latin dance social (10 PM–2 AM) at Brimstone in Alpharetta. No experience needed — it's the perfect excuse to learn something new together. Tonight only. Grab a late dinner beforehand and make a whole night of it.",
-    "budget": "$15 cover per person (includes lesson + social); dinner extra",
-    "location": "Brimstone Restaurant & Tavern, 10595 Old Alabama Rd Connector, Alpharetta, GA",
-    "vibe": "Warm, playful, high-energy — for couples who like to move and laugh at themselves",
-    "validUntil": "2026-06-14"
+    "emoji": "🎉",
+    "category": "live music + art + food + dancing",
+    "title": "Atlanta Beltline Fest at Pittsburgh Yards — Saturday",
+    "description": "Free two-day festival at Pittsburgh Yards (James Bridges Field). Live music and DJs, local + international food vendors, art along the Beltline, and the World Cup on the big screen. Easy, walkable, low-pressure way to spend a whole Saturday together — grab a bite, catch a set, dance a little, watch a match. 10 AM–7 PM both days; Saturday is the bigger day.",
+    "budget": "FREE entry; food and drinks à la carte",
+    "location": "Pittsburgh Yards — James Bridges Field, 352 University Ave SW, Atlanta, GA",
+    "vibe": "Festive, sunny, social — for couples who like energy without pretense",
+    "validUntil": "2026-06-21",
+    "link": "https://beltline.org/things-to-do/atlanta-beltline-fest/"
   },
   {
     "emoji": "🎨",
     "category": "art + live music + comedy",
     "title": "The Garden Party ATL — Variety Show at Bambellas Art World",
-    "description": "A variety show with live music, comedy, and burlesque at Bambellas Art World, a creative studio/gallery space. Doors 7 PM, show 7–11 PM. Hits three shared interests in one night: paintings/art on the walls, live music on stage, and comedy between sets. Intimate, expressive, very Atlanta.",
+    "description": "A variety show with live music, comedy, and burlesque at Bambellas Art World, a creative studio/gallery space. Doors 7 PM, show 7–11 PM. Hits three shared interests in one night: paintings/art on the walls, live music on stage, and comedy between sets. Intimate, expressive, very Atlanta — and tonight only (Saturday).",
     "budget": "Ticketed at the door (check HappeningNext for current price)",
     "location": "BAMBELLAS ART WORLD, Atlanta, GA (details on event page)",
     "vibe": "Bohemian, sensual, fun — for couples who want culture, laughs, and a little edge",
-    "validUntil": "2026-06-14",
+    "validUntil": "2026-06-21",
     "link": "https://happeningnext.com/event/the-garden-party-atl-eid1ef0l05pulqr"
   },
   {
-    "emoji": "🎷",
-    "category": "singing + food + mini getaway",
-    "title": "Sunday Jazz Brunch at C. Ellet's + Battery ATL Stroll",
-    "description": "Sunday jazz brunch at C. Ellet's inside The Battery Atlanta (11 AM–3 PM) — live vocals, walkable post-meal stroll around the Battery, then optional coffee/ice cream. Vegetarian-friendly menu. The Battery feels like a mini-getaway without leaving the city. A relaxed, low-pressure close to the weekend.",
-    "budget": "$25–$45 per person brunch + drinks",
-    "location": "C. Ellet's at The Battery Atlanta, 847 Battery Ave SE, Atlanta, GA 30339",
-    "vibe": "Easy, romantic, sunlit — for couples who like great music, good food, and a slow Sunday",
-    "validUntil": "2026-06-14",
-    "link": "https://batteryatl.com/event/jazz-brunch-at-c-ellets/2026-06-14/"
+    "emoji": "🌱",
+    "category": "vegetarian food + art",
+    "title": "Vegan Soul Sunday (Father's Day Edition) + Gallery Hop",
+    "description": "Sunday plan: Vegan Soul Sunday at New Life Presbyterian Church, 12–4 PM — free, plant-based soul food, holistic vendors, Father’s Day edition. Pair it with a stop at a standing gallery show afterward (Seeds of Resistance opens Mon 6/22 at SFQP, or current shows at The Bakery / VINSONart). Vegetarian-friendly and art-forward without feeling try-hard.",
+    "budget": "FREE entry to Vegan Soul Sunday; gallery visits free or low-cost",
+    "location": "New Life Presbyterian Church, Atlanta (start); gallery TBA",
+    "vibe": "Warm, rooted, easygoing — for couples who like good food and slow looking",
+    "validUntil": "2026-06-21",
+    "link": "https://stayhappening.com/e/vegan-soul-sunday-real-men-cook-vegan-fathers-day-edition-62126-E118SAYQEPKJB"
   }
 ]

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-20T07:00:00-07:00",
-  "source": "Atlanta Event Finder cron",
-  "dateCount": 25,
-  "windowDays": 14,
+  "generatedAt": "2026-06-20T08:00:00-07:00",
+  "source": "Atlanta Event Finder cron — weekend date planner",
+  "dateCount": 3,
+  "windowDays": 2,
   "windowStart": "2026-06-20",
-  "windowEnd": "2026-07-03",
-  "categories": ["live music", "Afrobeats", "reggae", "art", "comedy", "dancing", "vegetarian", "date idea"],
-  "notes": "Window: Jun 20 – Jul 3, 2026. Curated for couples. New this run: Shakira at State Farm Arena (Jun 26, $$$), Anthony Hamilton + Musiq Soulchild at Mable House Barnes (Jun 27, $$), Seeds of Resistance gallery opening (Jun 22), R&B Brunch: Summer of Soul at City Winery (Jun 20), Feast Your Eyes solo show (Jun 27), LAKŌU Haitian Festival (Jun 24). Carryovers from last digest: Reggae on the Rooftop Juneteenth Fest (Jun 20), AFRO CARIBBEAN FEST at Cafe Circa (Jun 20, FREE til 11 PM), Vegan Soul Sunday (Jun 21), Salsa at Politan Row + El Super Pan (Jun 21), R.A.S World Cup Caribbean party (Jun 24), Mo Amer at Helium (Jun 26-28), Best of Atlanta Comedy (Jun 26), Get Up & Dance Latin Social (Jun 26), Vinyl Sessions + T. Murph + Dinner and A Date soul night + Jokes & Cheese (Jun 28). Standing art: GAZE at The Bakery, This Is Atlanta at VINSONart, From Afrique With Love. Prices best-available from public listings; confirm before going."
+  "windowEnd": "2026-06-21",
+  "categories": ["live music", "art", "comedy", "dancing", "vegetarian", "date idea"],
+  "notes": "Weekend of Jun 20–21, 2026. validUntil set to Sunday 6/21 so entries auto-hide after the weekend. Headline pick: Atlanta Beltline Fest at Pittsburgh Yards (FREE, Sat 10 AM–7 PM + Sun) — checks live music, art, food, dancing, and a mini-getaway feel in one stop. Night pick: The Garden Party ATL variety show at Bambellas Art World (Sat 7–11 PM) — art + live music + comedy. Sunday pick: Vegan Soul Sunday (Father's Day edition, 12–4 PM, FREE) + gallery hop. Calendar API unavailable; treat weekend as open unless otherwise booked. Standby if weather or schedules shift: Helium Comedy Club (Rhys Darby Sat 6 PM), Life Bistro vegan brunch, C. Ellet's jazz brunch at the Battery."
 }
