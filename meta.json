@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-20T08:00:00-07:00",
-  "source": "Atlanta Event Finder cron — weekend date planner",
-  "dateCount": 3,
-  "windowDays": 2,
-  "windowStart": "2026-06-20",
-  "windowEnd": "2026-06-21",
-  "categories": ["live music", "art", "comedy", "dancing", "vegetarian", "date idea"],
-  "notes": "Weekend of Jun 20–21, 2026. validUntil set to Sunday 6/21 so entries auto-hide after the weekend. Headline pick: Atlanta Beltline Fest at Pittsburgh Yards (FREE, Sat 10 AM–7 PM + Sun) — checks live music, art, food, dancing, and a mini-getaway feel in one stop. Night pick: The Garden Party ATL variety show at Bambellas Art World (Sat 7–11 PM) — art + live music + comedy. Sunday pick: Vegan Soul Sunday (Father's Day edition, 12–4 PM, FREE) + gallery hop. Calendar API unavailable; treat weekend as open unless otherwise booked. Standby if weather or schedules shift: Helium Comedy Club (Rhys Darby Sat 6 PM), Life Bistro vegan brunch, C. Ellet's jazz brunch at the Battery."
+  "generatedAt": "2026-06-21T07:00:00-07:00",
+  "source": "Atlanta Event Finder cron — 2-week couples date planner",
+  "dateCount": 26,
+  "windowDays": 14,
+  "windowStart": "2026-06-21",
+  "windowEnd": "2026-07-05",
+  "categories": ["live music", "Afrobeats", "reggae", "art", "comedy", "dancing", "vegetarian", "date idea"],
+  "notes": "Two-week couples digest for 6/21 – 7/5/2026 (with rolling summer shows extended into late July). Headline pick: Lionel Richie & Earth, Wind & Fire at State Farm Arena (Sun 7/19) — anniversary-grade, all the slow-dance songs. Friday pick: Neyo + Akon double-bill at Lakewood Amphitheatre (Sat 7/11). Vegan pick: ATL Vegan Festival in Piedmont Park (Sun 7/12, 11–5). Art pick: Art In The Beltline at Woodruff Park (weekend of 7/10–12, free). Comedy pick: Karlous Miller at Helium (Fri 7/17) or Paula Poundstone at Buckhead Theatre (Fri 6/26). Dance pick: Salsa at Politan Row (Sun 6/21 + 7/19, free entry). Rooftop reggae: Rum Punch Fest on 7/4. Calendar APIs still flaky — confirm dates/prices via the linked venue before booking."
 }
