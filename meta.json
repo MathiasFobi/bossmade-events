@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-21T07:00:00-07:00",
+  "generatedAt": "2026-06-22T07:00:00-07:00",
   "source": "Atlanta Event Finder cron — 2-week couples date planner",
-  "dateCount": 26,
+  "dateCount": 16,
   "windowDays": 14,
-  "windowStart": "2026-06-21",
-  "windowEnd": "2026-07-05",
+  "windowStart": "2026-06-22",
+  "windowEnd": "2026-07-06",
   "categories": ["live music", "Afrobeats", "reggae", "art", "comedy", "dancing", "vegetarian", "date idea"],
-  "notes": "Two-week couples digest for 6/21 – 7/5/2026 (with rolling summer shows extended into late July). Headline pick: Lionel Richie & Earth, Wind & Fire at State Farm Arena (Sun 7/19) — anniversary-grade, all the slow-dance songs. Friday pick: Neyo + Akon double-bill at Lakewood Amphitheatre (Sat 7/11). Vegan pick: ATL Vegan Festival in Piedmont Park (Sun 7/12, 11–5). Art pick: Art In The Beltline at Woodruff Park (weekend of 7/10–12, free). Comedy pick: Karlous Miller at Helium (Fri 7/17) or Paula Poundstone at Buckhead Theatre (Fri 6/26). Dance pick: Salsa at Politan Row (Sun 6/21 + 7/19, free entry). Rooftop reggae: Rum Punch Fest on 7/4. Calendar APIs still flaky — confirm dates/prices via the linked venue before booking."
+  "notes": "Two-week couples digest for 6/22 – 7/6/2026. Fresh additions this run: Mo Amer (Helium 6/26–28), Shakira at State Farm Arena (Fri 6/26 + Sun 6/28), AFROXFEST in Candler Park (Sat 6/27), Dinner and A Date soul show + Soul Sundays rooftop + Bamba Afrobeats day party + Yon Re El Herbie tribute (all Sun 6/28), R.A.S World Cup reggae/afrobeat/soca rooftop (Wed 6/24), Latin Wednesdays at Tongue & Groove (Wed 7/1). Headline couples pick: Shakira Fri 6/26 — full-arena singalong, easy walk from a downtown dinner. Comedy pick: Mo Amer at Helium or Paula Poundstone at Buckhead Theatre (both Fri 6/26). Afrobeat pick: AFROXFEST Saturday in Candler Park. Reggae pick: R.A.S World Cup on 6/24 (midweek warm-up) or Rum Punch Fest on the rooftop 7/4. Calendar APIs still flaky — confirm dates/prices via the linked venue before booking."
 }
