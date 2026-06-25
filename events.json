@@ -1,111 +1,39 @@
 [
   {
-    "title": "Noah Kahan — The Great Divide Tour",
-    "date": "2026-06-22",
-    "time": "Doors evening (see listing)",
-    "location": "Truist Park, 755 Battery Ave SE, Atlanta, GA",
-    "price": "Ticketed (Live Nation)",
-    "description": "Big-stadium folk-pop night at The Battery TONIGHT — pair with a Battery pre-dinner stroll for a full Monday date.",
-    "category": "live music"
-  },
-  {
-    "title": "R.A.S World Cup Atlanta — 100% Reggae · Afrobeat · Soca",
-    "date": "2026-06-24",
+    "title": "Rum Punch Fest — Reggae on the Rooftop (4th of July Weekend)",
+    "date": "2026-07-04",
     "time": "10:00 PM – 3:00 AM",
-    "location": "Air Rooftop Bar ATL, Atlanta, GA",
+    "location": "Cafe Circa, Atlanta, GA",
     "price": "Ticketed (see listing)",
-    "description": "Midweek Caribbean rooftop — reggae, Afrobeats and soca under one DJ rotation. Late-night date that turns into a 4th-of-July-weekend warm-up.",
+    "description": "Independence Day reggae rooftop with rum punch and skyline views. Fireworks + Caribbean food + dancing = the loudest, easiest 4th-of-July date in town.",
     "category": "reggae"
   },
   {
-    "title": "HELIUM COMEDY: Mo Amer",
-    "date": "2026-06-26",
-    "time": "7:00 PM / 9:15 PM (Fri) · 7:00 PM / 9:30 PM (Sat) · 7:00 PM (Sun)",
-    "location": "Helium Comedy Club, 10 North Hwy N, Alpharetta, GA",
-    "price": "Ticketed (see Helium)",
-    "description": "Mo Amer (Netflix/Mo) — storytelling-style stand-up with global bite. Great 'let me pick something funny for us' date.",
-    "category": "comedy"
-  },
-  {
-    "title": "Paula Poundstone at Buckhead Theatre",
-    "date": "2026-06-26",
-    "time": "8:00 PM",
-    "location": "Buckhead Theatre, 3110 Roswell Rd NE, Atlanta, GA",
-    "price": "Ticketed (Live Nation; upgrades for lounge/bottomless popcorn)",
-    "description": "Living-legend observational comedian at a sit-down Buckhead theatre. Date-night classic: dinner in Buckhead, then laugh for 90 minutes.",
-    "category": "comedy"
-  },
-  {
-    "title": "Shakira — Las Mujeres Ya No Lloran World Tour (World Cup Edition)",
-    "date": "2026-06-26",
-    "time": "8:30 PM",
-    "location": "State Farm Arena, 1 State Farm Dr, Atlanta, GA",
-    "price": "Ticketed (State Farm Arena)",
-    "description": "Full arena spectacle with a Latin-pop setlist that demands a sing-along date. Pair with a downtown dinner first, walk to the arena.",
+    "title": "Wednesday Jazz Jam w/ the Gordon Vernick Quartet",
+    "date": "2026-07-01",
+    "time": "Evening (see Red Light Café)",
+    "location": "Red Light Café, Atlanta, GA",
+    "price": "Cover (see listing)",
+    "description": "Listening-room jazz jam in a candlelit Midtown room. The kind of midweek date that feels grown-up without trying too hard.",
     "category": "live music"
   },
   {
-    "title": "AFROXFEST — The African Experience Festival",
-    "date": "2026-06-27",
-    "time": "11:00 AM – 9:00 PM",
-    "location": "Candler Park, Atlanta, GA",
-    "price": "Ticketed (Eventbrite)",
-    "description": "All-day Afrobeats + pan-African culture festival in Candler Park. Wear something bright, graze the food stalls, dance between sets.",
-    "category": "Afrobeats"
+    "title": "Latin Wednesdays at Tongue & Groove",
+    "date": "2026-07-01",
+    "time": "9:00 PM – 3:00 AM",
+    "location": "Tongue & Groove, Atlanta, GA",
+    "price": "Cover (see listing)",
+    "description": "Weekly Latin social — salsa, bachata, reggaetón under the Buckhead lights. Built for couples who want a midweek dance date.",
+    "category": "dancing"
   },
   {
-    "title": "Dinner and A Date: A Night of Soul — Live Music Show",
-    "date": "2026-06-28",
-    "time": "8:00 PM – 12:00 AM",
-    "location": "Apache XLR, Atlanta, GA",
-    "description": "Date-night-themed soul show — built-for-couples Sunday with dinner + a live band. Easy win if you're not sure what to plan.",
-    "price": "Ticketed (HappeningNext)",
-    "category": "live music"
-  },
-  {
-    "title": "SOUL SUNDAYS on the Rooftop at REVERB",
-    "date": "2026-06-28",
-    "time": "4:00 PM – 11:00 PM",
-    "location": "Reverb by Hard Rock Downtown Atlanta, Atlanta, GA",
-    "price": "Ticketed (Eventbrite)",
-    "description": "Rooftop soul + R&B Sunday with skyline views. Golden-hour to dark-transition date — sunset, cocktails, slow songs.",
-    "category": "live music"
-  },
-  {
-    "title": "Bamba Afrobeats & Kompa Day Party",
-    "date": "2026-06-28",
-    "time": "Daytime (see listing)",
-    "location": "Atlanta, GA (venue on AllEvents)",
-    "price": "Ticketed (see listing)",
-    "description": "Sunday Afrobeats + Haitian Kompa day party — daylight dancefloor before the workweek. Couples who want movement without the late-night hangover.",
-    "category": "Afrobeats"
-  },
-  {
-    "title": "Yon Re El & Friends Play Herbie! — Jazz/Funk/Soul Tribute",
-    "date": "2026-06-28",
-    "time": "6:30 PM – 8:30 PM",
-    "location": "599 N Central Ave, Hapeville, GA",
-    "price": "Ticketed (HappeningNext)",
-    "description": "Herbie Hancock tribute in a small Hapeville room — jazz heads + funk + soul. Date that ends with 'I didn't know Atlanta had this.'",
-    "category": "live music"
-  },
-  {
-    "title": "Vinyl Sessions: June Edition — Listening Night",
-    "date": "2026-06-28",
+    "title": "First Friday at First \"LIVE\" — Rod Harris, Jr.",
+    "date": "2026-07-03",
     "time": "7:00 PM – 9:00 PM",
-    "location": "Marcus Bar & Grille, Atlanta, GA",
+    "location": "125 Ellis St NE, Atlanta, GA",
     "price": "Ticketed (see listing)",
-    "description": "Curated vinyl-DJ listening night — quiet enough to actually talk, musical enough to feel like a 'thing.' Built for a real-conversation date.",
+    "description": "Intimate live-jazz series — sax-led trio in a small room. Wine in, conversation starter, new favorite song out.",
     "category": "live music"
-  },
-  {
-    "title": "SOLARA: Return to the Light — 404 Found ATL",
-    "date": "2026-07-02",
-    "time": "4:00 PM – 8:00 PM",
-    "location": "Binders Art Supplies and Frames, Buckhead, Atlanta, GA",
-    "price": "See listing",
-    "description": "Afternoon art-marker opening in Buckhead — easy to walk, look, and turn into dinner + drinks. Built for a 'first real date' that doesn't try too hard.",
-    "category": "art"
   },
   {
     "title": "Afrobeats to the World — Atlanta",
@@ -117,30 +45,282 @@
     "category": "Afrobeats"
   },
   {
-    "title": "First Friday at First \"LIVE\" — Rod Harris, Jr.",
-    "date": "2026-07-03",
-    "time": "7:00 PM – 9:00 PM",
-    "location": "First \"LIVE\" venue, Atlanta, GA (see Eventbrite)",
-    "price": "Ticketed (Eventbrite)",
-    "description": "Intimate live-jazz series kickoff — sax-led trio in a small room. The kind of Friday that starts with wine and ends with a new favorite song.",
+    "title": "NE-YO & AKON — Nights Like This Tour 2026",
+    "date": "2026-07-11",
+    "time": "8:00 PM",
+    "location": "Lakewood Amphitheatre, Atlanta, GA",
+    "price": "Ticketed (Live Nation)",
+    "description": "R&B double-headliner at Lakewood — sing-along setlist from start to finish. Pre-show dinner on the Southside, then lose your voice together.",
     "category": "live music"
   },
   {
-    "title": "Rum Punch Fest — Reggae on the Rooftop (4th of July Weekend)",
-    "date": "2026-07-04",
-    "time": "10:00 PM – 3:00 AM",
+    "title": "Styx & Chicago — The Windy Cities Tour",
+    "date": "2026-07-17",
+    "time": "7:00 PM",
+    "location": "Ameris Bank Amphitheatre, Alpharetta, GA",
+    "price": "Ticketed (Live Nation)",
+    "description": "Classic-rock double-bill under the stars in Alpharetta. Patio-dinner-then-amphitheatre date — 'name that song' the whole drive home.",
+    "category": "live music"
+  },
+  {
+    "title": "Lionel Richie & Earth, Wind & Fire — Sing a Song All Night Long",
+    "date": "2026-07-19",
+    "time": "7:30 PM",
+    "location": "State Farm Arena, Atlanta, GA",
+    "price": "Ticketed (Live Nation)",
+    "description": "Legacy-pop doubleheader — every song is a sing-along. Walk from a downtown dinner to the arena and dance the night away.",
+    "category": "live music"
+  },
+  {
+    "title": "Margaritaville Presents Jimmy Buffett's Coral Reefer Band",
+    "date": "2026-07-18",
+    "time": "8:00 PM",
+    "location": "Synovus Bank Amphitheater at Chastain Park, Atlanta, GA",
+    "price": "Ticketed (Live Nation)",
+    "description": "Chastain Park picnic-concert date — blanket, wine, cheese, parrotheads. The most romantic Friday-night-in-Atlanta formula.",
+    "category": "live music"
+  },
+  {
+    "title": "Phillippia & Yoshi — R&B Singers at Perfect Note Atlanta",
+    "date": "2026-07-18",
+    "time": "8:00 PM – 10:00 PM",
+    "location": "Perfect Note Atlanta, Atlanta, GA",
+    "price": "Ticketed (VIP or GA — dinner separate)",
+    "description": "Intimate R&B dinner-and-a-show setting. Easy date formula — order dinner, sit close, listen to great vocals.",
+    "category": "live music"
+  },
+  {
+    "title": "WHINE CUP 2026 — Free Entry + Rum Punch til 11 PM",
+    "date": "2026-07-11",
+    "time": "Evening (see listing)",
     "location": "Cafe Circa, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Independence Day reggae rooftop with rum punch and skyline views. Fireworks + Caribbean food + dancing = the loudest, easiest 4th-of-July date in town.",
+    "price": "Free entry (RSVP)",
+    "description": "Dancehall + soca + Afrobeats rooftop party. Free entry with RSVP, rum punch until 11 — the lowest-effort, highest-fun Saturday in Atlanta.",
     "category": "reggae"
   },
   {
-    "title": "Latin Wednesdays at Tongue & Groove",
-    "date": "2026-07-01",
-    "time": "9:00 PM – 3:00 AM",
-    "location": "Tongue & Groove, Atlanta, GA",
+    "title": "Atlanta's Afro Caribbean Fest",
+    "date": "2026-07-11",
+    "time": "3:00 PM – 8:00 PM",
+    "location": "Embr Lounge, Atlanta, GA",
+    "price": "Free until 5 PM with RSVP",
+    "description": "21+ indoor + outdoor Afrobeats, reggae and R&B day party. Daylight dancefloor date — home before midnight, no regrets.",
+    "category": "Afrobeats"
+  },
+  {
+    "title": "Believe the Hype Saturdays @ Panache ATL",
+    "date": "2026-07-11",
+    "time": "10:00 PM – 3:00 AM",
+    "location": "Panache ATL, Marietta, GA",
     "price": "Cover (see listing)",
-    "description": "Weekly Latin social — salsa, bachata, reggaetón under the Buckhead lights. Built for couples who want a midweek dance date.",
+    "description": "Atlanta's hottest Afrobeats lounge — full rotation Saturdays in Marietta. Late-night dress-up, dance-til-close date.",
+    "category": "Afrobeats"
+  },
+  {
+    "title": "Summer Slamajama — Summer Gallery Opening",
+    "date": "2026-07-09",
+    "time": "6:00 PM – 9:00 PM (open Thu 7/9 – Sat 7/11)",
+    "location": "Anne Irwin Fine Art, Atlanta, GA",
+    "price": "Free / see listing",
+    "description": "Summer gallery opening with fresh art, light bites and conversation. Walkable, browsable, easy 'first real date' that doesn't try too hard.",
+    "category": "art"
+  },
+  {
+    "title": "GVE Rooftop Art Gala",
+    "date": "2026-07-25",
+    "time": "See GVE Magazine listing",
+    "location": "800 Rankin St NE, Midtown Atlanta, GA",
+    "price": "Ticketed (see GVE)",
+    "description": "Two-day curated rooftop art gala showcasing work to collectors in Midtown. Wine, skyline, and 'which one would we put above the couch?' conversations.",
+    "category": "art"
+  },
+  {
+    "title": "ATL Vegan Festival",
+    "date": "2026-07-12",
+    "time": "11:00 AM – 5:00 PM",
+    "location": "Piedmont Park, Atlanta, GA",
+    "price": "Ticketed (Eventbrite)",
+    "description": "Plant-based festival in Piedmont Park — six hours of vegan food stalls, demos and shopping. Picnic-blanket date that ends with full bellies and new favorite spots.",
+    "category": "vegetarian"
+  },
+  {
+    "title": "Life Space Vegan Chef Cook-Off",
+    "date": "2026-07-12",
+    "time": "2:00 PM – 5:00 PM",
+    "location": "294 Hamilton E Holmes Dr NW, Atlanta, GA",
+    "price": "See listing",
+    "description": "Live vegan chef cook-off — watch, taste, vote. Built for foodie couples who like a little friendly competition on a date.",
+    "category": "vegetarian"
+  },
+  {
+    "title": "Pizza for the Animals! @ Pizza Verdura Sincera",
+    "date": "2026-07-07",
+    "time": "5:00 PM – 9:00 PM",
+    "location": "Pizza Verdura Sincera, Atlanta, GA",
+    "price": "See listing",
+    "description": "Vegetarian pizza night benefiting an animal sanctuary. Cheap, casual, do-good date — pizza + a story to tell.",
+    "category": "vegetarian"
+  },
+  {
+    "title": "Elevated Vegan Tasting — Conscious & Curious",
+    "date": "2026-07-12",
+    "time": "12:00 PM – 4:00 PM",
+    "location": "Elevation Kitchen & Cocktails, Conyers, GA",
+    "price": "See listing",
+    "description": "Curated plant-based tasting menu in Conyers. Road-trip-with-purpose date — Sunday drive, sit-down tasting, back home by evening.",
+    "category": "vegetarian"
+  },
+  {
+    "title": "Helium Comedy — Na'im Lynn",
+    "date": "2026-07-10",
+    "time": "7:00 PM / 9:15 PM (Fri) · 7:00 PM / 9:30 PM (Sat) · 7:00 PM (Sun 7/12)",
+    "location": "Helium Comedy Club, 10 North Hwy N, Alpharetta, GA",
+    "price": "Ticketed (Helium)",
+    "description": "Storytelling-style stand-up with bite. Easy 'I just need to make us laugh' date — dinner in Alpharetta, then the club.",
+    "category": "comedy"
+  },
+  {
+    "title": "Helium Comedy — Karlous Miller",
+    "date": "2026-07-17",
+    "time": "7:00 PM / 9:15 PM (Fri) · 7:00 PM / 9:30 PM (Sat) · 7:00 PM (Sun 7/19)",
+    "location": "Helium Comedy Club, 10 North Hwy N, Alpharetta, GA",
+    "price": "Ticketed (Helium)",
+    "description": "Karlous Miller (85 South, Wild 'N Out) live — high-energy, riff-heavy comedy. Big laugh date, perfect warm-up for a late dinner.",
+    "category": "comedy"
+  },
+  {
+    "title": "Helium Comedy — James \"Murr\" Murray",
+    "date": "2026-07-24",
+    "time": "7:00 PM / 9:15 PM (Fri 7/24) · 6:00 PM / 8:30 PM (Sat 7/25)",
+    "location": "Helium Comedy Club, 10 North Hwy N, Alpharetta, GA",
+    "price": "Ticketed (Helium)",
+    "description": "Impractical Jokers' Murr on stage — confessional storytelling from the show's 'punished' one. Date that turns into quote material for weeks.",
+    "category": "comedy"
+  },
+  {
+    "title": "Helium Comedy — Bubba Dub",
+    "date": "2026-07-19",
+    "time": "7:00 PM – 9:30 PM (Sun)",
+    "location": "Helium Comedy Club, 10 North Hwy N, Alpharetta, GA",
+    "price": "Ticketed (Helium)",
+    "description": "Sunday-night laughs with Bubba Dub. Low-key weeknight reset date — dinner in Alpharetta, then home not too late.",
+    "category": "comedy"
+  },
+  {
+    "title": "HANGEO Thursdays — Salsa & Bachata Night",
+    "date": "2026-07-16",
+    "time": "7:00 PM (see listing)",
+    "location": "Atlanta, GA (HANGEO venue)",
+    "price": "Cover (see listing)",
+    "description": "Salsa + bachata social with DJs and a welcoming floor. Beginner-friendly enough to learn together, fun enough to come back.",
     "category": "dancing"
+  },
+  {
+    "title": "La Placita — Dancing Under the Stars",
+    "date": "2026-07-12",
+    "time": "6:00 PM – 10:00 PM",
+    "location": "Atlanta, GA (see golatindance)",
+    "price": "Cover (see listing)",
+    "description": "Tropical outdoor social — bring a date, bring your dancing shoes. Easy Sunday date that feels like a mini-vacation.",
+    "category": "dancing"
+  },
+  {
+    "title": "PASOFINO Dance Social",
+    "date": "2026-07-25",
+    "time": "9:30 PM – 2:00 AM",
+    "location": "Atlanta, GA (see golatindance)",
+    "price": "Cover (see listing)",
+    "description": "Jose Maldonado's PASOFINO social — late-night Latin dancefloor for couples who already know they like to dance.",
+    "category": "dancing"
+  },
+  {
+    "title": "Salsa at Politan Row — Colony Square",
+    "date": "2026-07-19",
+    "time": "3:00 PM – 7:00 PM",
+    "location": "Politan Row at Colony Square, Midtown Atlanta, GA",
+    "price": "Cover (see listing)",
+    "description": "Salsa + bachata Sunday afternoon at Politan Row. Food-hall + dancefloor combo — eat first, dance after, walk it off in Midtown.",
+    "category": "dancing"
+  },
+  {
+    "title": "Viernes Tropicales — Latin Night at Sanctuary",
+    "date": "2026-07-03",
+    "time": "Evening (see listing)",
+    "location": "Sanctuary Night Club, Atlanta, GA",
+    "price": "Cover (see listing)",
+    "description": "Tropical-themed Friday Latin night — dress up, dance late. Couples who want a Friday with energy and a DJ.",
+    "category": "dancing"
+  },
+  {
+    "title": "Fresh Pasta 101 Cooking Class",
+    "date": "2026-07-17",
+    "time": "Evening (see CoCuSocial)",
+    "location": "Atlanta, GA (CoCuSocial venue)",
+    "price": "Ticketed (CoCuSocial)",
+    "description": "Hands-on pasta-making class — make, eat, take home the skill. Built-for-two activity date with leftovers.",
+    "category": "date idea"
+  },
+  {
+    "title": "Make Your Own Sushi Cooking Class",
+    "date": "2026-07-16",
+    "time": "Evening (see CoCuSocial)",
+    "location": "Atlanta, GA (CoCuSocial venue)",
+    "price": "Ticketed (CoCuSocial)",
+    "description": "Sushi-rolling date with Chef Bryan — learn together, eat what you roll. The 'do something' date that ends in dinner.",
+    "category": "date idea"
+  },
+  {
+    "title": "Glow Nights After Hours — Georgia Aquarium",
+    "date": "2026-07-10",
+    "time": "Evening (18+, see Aquarium)",
+    "location": "Georgia Aquarium, Atlanta, GA",
+    "price": "Ticketed (members/non-member tiers)",
+    "description": "After-hours aquarium with cocktails, DJs and glowing tanks. The 'show off Atlanta to an out-of-towner' date — or just feel like kids again together.",
+    "category": "date idea"
+  },
+  {
+    "title": "Rhythm & Roots — JazzyEats Supper Club",
+    "date": "2026-07-25",
+    "time": "6:15 PM – 9:45 PM",
+    "location": "Creator's Kitchen LLC, Atlanta, GA",
+    "price": "Ticketed (see listing)",
+    "description": "Live jazz + curated supper-club menu — sit-down, multi-course, music built in. Date that requires zero planning after you book.",
+    "category": "date idea"
+  },
+  {
+    "title": "Cocktails in the Garden — Atlanta Botanical Garden",
+    "date": "2026-07-16",
+    "time": "5:00 PM – 9:00 PM",
+    "location": "Atlanta Botanical Garden, Atlanta, GA",
+    "price": "Included with Garden admission",
+    "description": "Golden-hour cocktails among the summer plantings. The walk-and-talk, picture-take, slow-down date that always works.",
+    "category": "date idea"
+  },
+  {
+    "title": "Dexter Tolson & Friends at Vibes Jazz Cafe (Red Door)",
+    "date": "2026-07-17",
+    "time": "Evening (see Jazz Near You)",
+    "location": "Vibes Jazz Cafe at The Red Door, Atlanta, GA",
+    "price": "Cover (see listing)",
+    "description": "Local jazz legend in an intimate room — the 'we just discovered our new spot' kind of Friday night date.",
+    "category": "live music"
+  },
+  {
+    "title": "Saxophonist Jessy J at Perfect Note Atlanta",
+    "date": "2026-07-11",
+    "time": "8:00 PM – 10:00 PM",
+    "location": "Perfect Note Atlanta, Atlanta, GA",
+    "price": "Ticketed (VIP or GA — dinner separate)",
+    "description": "Contemporary jazz saxophonist in a dinner-and-a-show setting. Easy date formula — order dinner, sit close, listen together.",
+    "category": "live music"
+  },
+  {
+    "title": "Andrew Dosunmu — 'The African Game' at ADAMA",
+    "date": "2026-07-01",
+    "time": "Evening (see ADAMA)",
+    "location": "ADAMA Atlanta, Atlanta, GA",
+    "price": "See ADAMA listing",
+    "description": "Photography exhibition from Andrew Dosunmu at ADAMA. Quiet, conversation-rich art date — give yourselves an hour, then dinner.",
+    "category": "art"
   }
 ]
