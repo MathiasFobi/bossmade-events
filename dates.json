@@ -1,35 +1,35 @@
 [
   {
-    "emoji": "🎉",
-    "category": "live music + art + food + dancing",
-    "title": "Atlanta Beltline Fest at Pittsburgh Yards — Saturday",
-    "description": "Free two-day festival at Pittsburgh Yards (James Bridges Field). Live music and DJs, local + international food vendors, art along the Beltline, and the World Cup on the big screen. Easy, walkable, low-pressure way to spend a whole Saturday together — grab a bite, catch a set, dance a little, watch a match. 10 AM–7 PM both days; Saturday is the bigger day.",
-    "budget": "FREE entry; food and drinks à la carte",
-    "location": "Pittsburgh Yards — James Bridges Field, 352 University Ave SW, Atlanta, GA",
-    "vibe": "Festive, sunny, social — for couples who like energy without pretense",
-    "validUntil": "2026-06-21",
-    "link": "https://beltline.org/things-to-do/atlanta-beltline-fest/"
+    "emoji": "🎨",
+    "category": "live art + music + drinks",
+    "title": "Drink and Doodle Vol. 124 at ABV Gallery",
+    "description": "Saturday-night live art event with 40+ artists drawing and painting at the same time, plus music, drinks, and a gallery you can actually buy from. You don't need to be good — paper, markers, and drinks flowing all night. Big shared-interests overlap: paintings/art made in front of you, live music in the room, and a relaxed social vibe. Pairs naturally with a late dinner afterward in West Midtown.",
+    "budget": "$10–$20 at the door; drinks extra",
+    "location": "ABV Gallery, Atlanta, GA (West Midtown)",
+    "vibe": "Loose, creative, social — for couples who want to make something together without it being a class",
+    "validUntil": "2026-06-28",
+    "link": "https://stayhappening.com/e/drink-and-doodle-vol-124-live-art-event-40-artists-E118SB0UX4RLX"
   },
   {
-    "emoji": "🎨",
-    "category": "art + live music + comedy",
-    "title": "The Garden Party ATL — Variety Show at Bambellas Art World",
-    "description": "A variety show with live music, comedy, and burlesque at Bambellas Art World, a creative studio/gallery space. Doors 7 PM, show 7–11 PM. Hits three shared interests in one night: paintings/art on the walls, live music on stage, and comedy between sets. Intimate, expressive, very Atlanta — and tonight only (Saturday).",
-    "budget": "Ticketed at the door (check HappeningNext for current price)",
-    "location": "BAMBELLAS ART WORLD, Atlanta, GA (details on event page)",
-    "vibe": "Bohemian, sensual, fun — for couples who want culture, laughs, and a little edge",
-    "validUntil": "2026-06-21",
-    "link": "https://happeningnext.com/event/the-garden-party-atl-eid1ef0l05pulqr"
+    "emoji": "💃",
+    "category": "dancing + live music + vegetarian-friendly food",
+    "title": "Saturday Tropical Elegance — Latin Night + Lesson",
+    "description": "Saturday Latin Night with a beginner salsa/bachata lesson at 8 PM, then open social dancing till late. Hosted by the Atlanta Salsa & Bachata Meetup group. Lesson means you don't need experience — they rotate partners, so it's friendly and low-pressure. Perfect for the dancing + live music combo, and you can grab a bite at a veg-friendly spot in the same corridor before or after.",
+    "budget": "Cover ~$10–$20; lesson included",
+    "location": "Atlanta (midtown venue — see Meetup link for exact address)",
+    "vibe": "Warm, physical, playful — for couples who want to actually dance, not just watch",
+    "validUntil": "2026-06-28",
+    "link": "https://www.meetup.com/salsaatlanta/events/spbzxtyjcjbkc/"
   },
   {
     "emoji": "🌱",
-    "category": "vegetarian food + art",
-    "title": "Vegan Soul Sunday (Father's Day Edition) + Gallery Hop",
-    "description": "Sunday plan: Vegan Soul Sunday at New Life Presbyterian Church, 12–4 PM — free, plant-based soul food, holistic vendors, Father’s Day edition. Pair it with a stop at a standing gallery show afterward (Seeds of Resistance opens Mon 6/22 at SFQP, or current shows at The Bakery / VINSONart). Vegetarian-friendly and art-forward without feeling try-hard.",
-    "budget": "FREE entry to Vegan Soul Sunday; gallery visits free or low-cost",
-    "location": "New Life Presbyterian Church, Atlanta (start); gallery TBA",
-    "vibe": "Warm, rooted, easygoing — for couples who like good food and slow looking",
-    "validUntil": "2026-06-21",
-    "link": "https://stayhappening.com/e/vegan-soul-sunday-real-men-cook-vegan-fathers-day-edition-62126-E118SAYQEPKJB"
+    "category": "cooking + vegetarian food + date night",
+    "title": "Plant-Based Date Night Cooking Class (Cozymeal)",
+    "description": "Hands-on plant-based cooking class built for two — 2.5 hours, chef-led, all ingredients included, you eat what you make. Hits cooking + vegetarian food + quality time in one block. Menu rotates but always fully veg, often vegan. Great daytime alternative if you want a slower, more intimate Saturday — finish around 3 PM and you've still got the whole evening.",
+    "budget": "$109/person all-inclusive",
+    "location": "Chef's venue in Atlanta (booked via Cozymeal, exact address sent on confirmation)",
+    "vibe": "Intimate, hands-on, collaborative — for couples who'd rather cook together than be waited on",
+    "validUntil": "2026-06-28",
+    "link": "https://www.cozymeal.com/cooking-class/16726/plant-based-date-night"
   }
 ]
