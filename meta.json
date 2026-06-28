@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-27T08:00:00-07:00",
-  "source": "Date Planner cron — weekend couples digest",
-  "dateCount": 3,
-  "windowDays": 2,
-  "windowStart": "2026-06-27",
-  "windowEnd": "2026-06-28",
-  "categories": ["live music", "art", "dancing", "vegetarian", "cooking", "comedy", "date idea"],
-  "notes": "Weekend of 6/27–6/28/2026. Three picks, all validUntil Sunday so they auto-hide after the weekend. 1) Drink and Doodle Vol. 124 at ABV Gallery Sat 6/27 6–10 PM — 40+ artists drawing live, music, drinks, paintings/art in motion. 2) Saturday Tropical Elegance Latin Night — beginner salsa/bachata lesson at 8 PM then open social dancing, covers dancing + live music. 3) Cozymeal Plant-Based Date Night cooking class — hands-on veg cooking, 2.5 hours, all-inclusive ~$109/person. Google Calendar not queried (no gcal/gcalcli/khal CLI available on this host); relied on event sources + previous plan in meta. Topical 4th option that's also strong if tonight opens up: Mo Amer at Helium Comedy Club 7 PM (comedy hit). Veg-friendly dinner recs in same corridors: West Midtown (after Doodle), Midtown (after Latin night)."
+  "generatedAt": "2026-06-28T07:00:00-07:00",
+  "source": "Date Planner cron — Sunday June 28, 2026 (next 2 weeks, couples focus)",
+  "dateCount": 16,
+  "windowDays": 14,
+  "windowStart": "2026-06-28",
+  "windowEnd": "2026-07-12",
+  "categories": ["live music", "art", "dancing", "vegetarian", "comedy", "date idea", "Afrobeats", "reggae"],
+  "notes": "Next 2 weeks digest (6/28–7/12). Couples focus across categories: today kickoffs (Haiti World Cup / Reggae Club @ Knock Music House, Dinner & A Date soul night @ Apache XLR), then SOLARA art opening 7/2, Afrobeats to the World @ Masquerade 7/3, Salsa at Politan Row 7/3, multiple 4th-of-July options (R&B & Rosé brunch, Stars Sips & Skyline rooftop, Stone Mountain fireworks, Rum Punch Fest reggae rooftop), Helium comedy (Na'im Lynn 7/10–12), Glow Nights after-hours aquarium 7/10, Zoo Atlanta Savanna Nights (2000s) 7/11, ATL Vegan Festival + Life Space Vegan Cook-Off 7/12, Earth Windows gallery (closing 7/25). Categories cover every requested bucket. No Google Calendar integration (no gcal/gcalcli/khal CLI available on host)."
 }

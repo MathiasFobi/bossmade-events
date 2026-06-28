@@ -1,110 +1,128 @@
 [
   {
-    "title": "Hats & Sundresses Day Party — R&B, Caribbean & Afrobeats (30+)",
-    "date": "2026-06-27",
-    "time": "1:00 PM – 8:00 PM",
-    "location": "3540 Club Dr, Lawrenceville, GA",
+    "title": "Celebration of Haiti in World Cup 2026 — Hosted by The Reggae Club",
+    "date": "2026-06-28",
+    "time": "3:00 PM – 10:00 PM",
+    "location": "Knock Music House, Atlanta, GA",
     "price": "Ticketed (see listing)",
-    "description": "Today: 30+ day party with R&B, Caribbean and Afrobeats DJs. Birthday-table energy, fly fits, easy Saturday date — just south of Atlanta.",
-    "category": "Afrobeats"
+    "description": "Today — Caribbean/reggae celebration tied to the World Cup watch. Day party with music, food, and culture. Wear your flag colors.",
+    "category": "reggae"
   },
   {
-    "title": "Poetic Jazz — Prince Tribute at The Vick at Healey",
-    "date": "2026-07-14",
-    "time": "8:00 PM – 10:00 PM",
-    "location": "The Vick at Healey, 57 Forsyth St NW, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Intimate downtown jazz tribute to Prince — vocals, bass, keys, candles. A grown-up 'dinner then music' weeknight date.",
+    "title": "Dinner & A Date: A Night of Soul Live Music",
+    "date": "2026-06-28",
+    "time": "8:00 PM – 12:00 AM",
+    "location": "Apache XLR, 393 Marietta St NW, Atlanta, GA",
+    "price": "$14.46 – $73 (admission separate from table reservations)",
+    "description": "Tonight — R&B soul band + poetry + intimate dinner setting in West Midtown. Built for a romantic date (table reservations recommended).",
     "category": "live music"
+  },
+  {
+    "title": "SOLARA: Return to the Light — Summer Group Exhibition Opening",
+    "date": "2026-07-02",
+    "time": "4:00 PM – 8:00 PM",
+    "location": "404FoundATL, Atlanta, GA",
+    "price": "Free",
+    "description": "Free art exhibition opening celebrating Atlanta's creative community. Low-key browse-and-mingle first-date energy.",
+    "category": "art"
   },
   {
     "title": "Afrobeats to the World — Atlanta",
     "date": "2026-07-03",
     "time": "9:00 PM",
-    "location": "Atlanta, GA (see ATTW site for venue)",
-    "price": "From $12 (last-batch pricing)",
-    "description": "18+ Afrobeats party night — DJs, dancefloor, international crowd. Late, loud, and the 'wear something cute, lose your voice' kind of Friday.",
+    "location": "The Masquerade – Heaven, Underground Atlanta, 75 MLK Jr Dr SW, Atlanta, GA",
+    "price": "From $12 (last-batch pricing, 18+)",
+    "description": "Big Friday-night Afrobeats party. International crowd, heavy DJs, dancefloor. Wear something cute, lose your voice.",
     "category": "Afrobeats"
+  },
+  {
+    "title": "Salsa at Politan Row at Colony Square",
+    "date": "2026-07-03",
+    "time": "3:00 PM – 7:00 PM",
+    "location": "Politan Row at Colony Square, Midtown Atlanta, GA",
+    "price": "Ticketed (see listing)",
+    "description": "Outdoor salsa + bachata Sunday social with food hall steps away. Easy afternoon-to-evening couple's flow.",
+    "category": "dancing"
   },
   {
     "title": "R&B & Rosé Brunch & Day Party at Seven Midtown",
     "date": "2026-07-04",
     "time": "2:00 PM – 9:00 PM",
-    "location": "Seven Midtown, Atlanta, GA",
+    "location": "Seven Midtown, 1100 Peachtree St NE, Atlanta, GA",
     "price": "Free entry with RSVP",
-    "description": "Independence Day R&B brunch + rosé in Midtown. Easy 4th-of-July plan: daytime dancing, fireworks at Centennial Park after.",
+    "description": "4th of July R&B + rosé day party in Midtown. Daytime dancing, easy walk to Centennial Park fireworks after.",
     "category": "Afrobeats"
+  },
+  {
+    "title": "Stars, Sips & Skyline — 4th of July Rooftop Celebration",
+    "date": "2026-07-04",
+    "time": "6:00 PM – 11:00 PM",
+    "location": "Kimpton Sylvan Atlanta – Buckhead, Atlanta, GA",
+    "price": "Ticketed (see Eventbrite)",
+    "description": "Buckhead rooftop with skyline views for the fireworks. Cocktails, sunset, sparkle. The dress-up date night.",
+    "category": "date idea"
+  },
+  {
+    "title": "Stone Mountain Park 4th of July Fireworks",
+    "date": "2026-07-04",
+    "time": "Gates late afternoon, fireworks after dark",
+    "location": "Stone Mountain Park, 1000 Robert E Lee Blvd, Stone Mountain, GA",
+    "price": "Parking fee + attractions pass",
+    "description": "Atlanta's biggest 4th fireworks show. Bring a blanket, picnic, make it a long sunset-to-fireworks date.",
+    "category": "date idea"
   },
   {
     "title": "Rum Punch Fest — Reggae on the Rooftop (4th of July Weekend)",
     "date": "2026-07-04",
     "time": "10:00 PM – 3:00 AM",
     "location": "Cafe Circa Rooftop, 464 Edgewood Ave SE, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Rooftop reggae + Afrobeats + soca + 1-hour rum punch open bar. Skyline view, late-night energy — the loudest, easiest 4th-of-July date in town.",
+    "price": "Ticketed (1-hour rum punch open bar)",
+    "description": "Rooftop reggae + Afrobeats + soca. Skyline view, late-night energy — the loudest 4th of July date in town.",
     "category": "reggae"
   },
   {
-    "title": "Keke Wyatt — City Winery Atlanta",
-    "date": "2026-07-05",
-    "time": "6:30 PM",
-    "location": "City Winery Atlanta, 650 North Ave NE, Atlanta, GA",
-    "price": "From $66",
-    "description": "R&B powerhouse with a full live band — velvety, belt-your-heart-out Sunday. Dinner-and-a-show date on the Old Fourth Ward beltline.",
-    "category": "live music"
-  },
-  {
-    "title": "Pizza for the Animals! (Pizza Verdura Sincera x Farm of the Free)",
-    "date": "2026-07-07",
-    "time": "5:00 PM – 9:00 PM",
-    "location": "Pizza Verdura Sincera, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Vegetarian pizza pop-up benefiting an animal sanctuary. Low-key Tuesday date: good pizza, good cause, easy conversation.",
-    "category": "vegetarian"
-  },
-  {
-    "title": "Isamu Noguchi: 'I am not a designer' — Opening Week at the High",
-    "date": "2026-07-08",
-    "time": "All day (museum hours)",
-    "location": "High Museum of Art, 1280 Peachtree St NE, Atlanta, GA",
-    "price": "Included with museum admission",
-    "description": "Midtown's biggest summer art date — Noguchi's first design retrospective in ~25 years, ~200 objects. Coffee at the café, sculpture garden, walkable to dinner.",
-    "category": "art"
-  },
-  {
-    "title": "Flyleaf with Lacey Sturm — 20th Anniversary Tour",
-    "date": "2026-07-08",
-    "time": "7:30 PM",
-    "location": "Tabernacle, 152 Luckie St NW, Atlanta, GA",
-    "price": "Ticketed (Live Nation)",
-    "description": "Reunion-era rock at the Tabernacle — sing-along setlist in a beautiful downtown room. Pre-show at MAX's or Parish, walk over.",
-    "category": "live music"
-  },
-  {
-    "title": "Na'im Lynn — Helium Comedy Club",
+    "title": "Na'im Lynn at Helium Comedy Club",
     "date": "2026-07-10",
-    "time": "7:00 PM (Fri) / 7:30 PM (Sat) / 7:00 PM (Sun)",
+    "time": "7:00 PM & 9:15 PM",
     "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Sharp, storytelling stand-up from a familiar TV face. Friday-date energy: dinner in Alpharetta, then laugh until your face hurts.",
+    "price": "Ticketed (see Helium)",
+    "description": "Friday night comedy. Easy dinner-then-laughs date up in Alpharetta — pair with a downtown Alpharetta stroll after.",
     "category": "comedy"
   },
   {
-    "title": "Jill Scott — To Whom This May Concern Tour (with Moonchild)",
+    "title": "Glow Nights After Hours — Georgia Aquarium",
     "date": "2026-07-10",
-    "time": "7:30 PM (also Sat 7/11)",
-    "location": "Fox Theatre, 660 Peachtree St NE, Atlanta, GA",
-    "price": "Ticketed (Fox Theatre)",
-    "description": "Neosoul residency-style show with a full live band — Jilly from Philly at the Fox. Slow-dance energy, grown-and-sexy Friday night.",
+    "time": "Evening (18+)",
+    "location": "Georgia Aquarium, 225 Baker St NW, Atlanta, GA",
+    "price": "Ticketed (see Aquarium)",
+    "description": "18+ after-hours aquarium with DJ + cocktails + glowing tanks. Built-in conversation starter for a first or 50th date.",
+    "category": "date idea"
+  },
+  {
+    "title": "Savanna Nights: 2000s Era — Zoo Atlanta",
+    "date": "2026-07-11",
+    "time": "6:00 PM – 8:30 PM (entry from 4:30 PM)",
+    "location": "Zoo Atlanta, 800 Cherokee Ave SE, Atlanta, GA",
+    "price": "$24.95 non-members / free for members (21+)",
+    "description": "Adults-only zoo night with throwback 2000s soundtrack, animal encounters, cocktails. Costumes welcome.",
     "category": "live music"
+  },
+  {
+    "title": "Na'im Lynn at Helium Comedy Club (late shows)",
+    "date": "2026-07-11",
+    "time": "7:00 PM & 9:30 PM",
+    "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
+    "price": "Ticketed (see Helium)",
+    "description": "Second night of Na'im Lynn — Saturday show, perfect dinner-and-comedy date.",
+    "category": "comedy"
   },
   {
     "title": "ATL Vegan Festival — Piedmont Park",
     "date": "2026-07-12",
     "time": "11:00 AM – 5:00 PM",
-    "location": "Piedmont Park, Atlanta, GA",
-    "price": "Ticketed (Eventbrite)",
-    "description": "Plant-based food festival in the park — samples, vendors, music. Picnic blanket date: graze, walk, people-watch, repeat.",
+    "location": "Piedmont Park, 1071 Piedmont Ave NE, Atlanta, GA",
+    "price": "Ticketed (see Eventbrite)",
+    "description": "Plant-based food festival in the park. Lazy Sunday date: vendors, samples, picnic blanket, dogs welcome.",
     "category": "vegetarian"
   },
   {
@@ -113,115 +131,16 @@
     "time": "2:00 PM – 5:00 PM",
     "location": "294 Hamilton E Holmes Dr NW, Atlanta, GA",
     "price": "Ticketed (see listing)",
-    "description": "Chefs battle it out plant-based style — tasting rounds, audience vote, low-key Sunday. Couples who cook together stay together.",
+    "description": "Vegan chef cook-off — small, intimate, foodie date energy. Pair with the ATL Vegan Festival if you're going hard.",
     "category": "vegetarian"
   },
   {
-    "title": "Elevated Vegan Tasting: Conscious & Curious",
+    "title": "Earth Windows — Noah Reyes & Yanira Vissepó (Closing Weeks)",
     "date": "2026-07-12",
-    "time": "12:00 PM – 4:00 PM",
-    "location": "Elevation Kitchen & Cocktails, Conyers, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Curated plant-based tasting menu outside the perimeter. Easy day-trip date if you want to leave the city for an afternoon.",
-    "category": "vegetarian"
-  },
-  {
-    "title": "Karlous Miller — Helium Comedy Club",
-    "date": "2026-07-17",
-    "time": "7:00 PM (Fri) / 7:30 PM (Sat) / 7:00 PM (Sun)",
-    "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Wildcards Atlanta's Karlous Miller — high-energy, crowd-work-heavy. Date that earns you bonus points for picking the funny show.",
-    "category": "comedy"
-  },
-  {
-    "title": "Tommy Davidson — City Winery Atlanta",
-    "date": "2026-07-18",
-    "time": "9:30 PM",
-    "location": "City Winery Atlanta, 650 North Ave NE, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Legendary Atlanta comedian — Black Dynamite energy, decades of material. Late-night dinner-and-show date.",
-    "category": "comedy"
-  },
-  {
-    "title": "Cocktails in the Garden — Atlanta Botanical Garden",
-    "date": "2026-07-16",
-    "time": "5:00 PM – 9:00 PM",
-    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE, Atlanta, GA",
-    "price": "Included with garden admission",
-    "description": "Thursdays in the garden — cocktails, summer light, edible-plant beds. The most 'I can't believe this is in Atlanta' romantic Thursday.",
-    "category": "date idea"
-  },
-  {
-    "title": "HANGEO — Salsa & Bachata Night (Atrium Dance Studio)",
-    "date": "2026-07-16",
-    "time": "Evening (see venue)",
-    "location": "Atrium Dance Studio, Atlanta, GA",
-    "price": "Cover (see listing)",
-    "description": "Weekly social dance — beginner-friendly lesson then open floor. Bring a partner who'll let you lead (or follow).",
-    "category": "dancing"
-  },
-  {
-    "title": "PASOFINO Dance Social",
-    "date": "2026-07-25",
-    "time": "9:30 PM – 2:00 AM",
-    "location": "Atlanta, GA (see golatindance.com)",
-    "price": "Cover (see listing)",
-    "description": "Salsa/bachata social hosted by Jose Maldonado — late-night dancing crowd. For couples who already argue about who leads.",
-    "category": "dancing"
-  },
-  {
-    "title": "Buju Banton & Stephen Marley — Roots and Rhymes Tour",
-    "date": "2026-07-25",
-    "time": "Evening (doors ~90 min before)",
-    "location": "Lakewood Amphitheatre, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Reggae royalty co-headline: Buju Banton + Stephen Marley. Outdoor amphitheater, warm July night — a once-in-a-generation Atlanta date.",
-    "category": "reggae"
-  },
-  {
-    "title": "Rhythm & Roots — JazzyEats Supper Club",
-    "date": "2026-07-25",
-    "time": "6:15 PM – 9:45 PM",
-    "location": "Creator's Kitchen LLC, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Live jazz + multi-course dinner — the easy 'I planned something' win. Saturday date with structure but no stress.",
-    "category": "live music"
-  },
-  {
-    "title": "Ink Studded Vegan Fest",
-    "date": "2026-07-25",
-    "time": "1:00 PM – 6:00 PM",
-    "location": "1879 S Stone Mountain Lithonia Rd, Lithonia, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Back-to-school vegan festival with tattoo pop-ups. Daytime, alternative, off-the-beaten-path date in the Lithonia direction.",
-    "category": "vegetarian"
-  },
-  {
-    "title": "Lavelle Dontae — Helium Comedy Club",
-    "date": "2026-07-26",
-    "time": "6:00 PM",
-    "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Sunday-night comedy special in Alpharetta. Easy close to the weekend: dinner + show + drive home smiling.",
-    "category": "comedy"
-  },
-  {
-    "title": "Not For Radio — In The Forest: North America Tour (Fox Theatre)",
-    "date": "2026-07-28",
-    "time": "8:00 PM (doors 7:00 PM)",
-    "location": "Fox Theatre, 660 Peachtree St NE, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Indie/alt show at the Fox — midweek discovery date. Walk from dinner on the BeltLine or Peachtree, then wander the Fox lobby after.",
-    "category": "live music"
-  },
-  {
-    "title": "Experience Immersive Dining by Minalto",
-    "date": "2026-07-28",
-    "time": "5:00 PM – 10:00 PM",
-    "location": "Peachtree Street NE, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Multi-sensory dinner experience — kitchen + visuals + storytelling. The 'splurge date' that you'll talk about for months.",
-    "category": "date idea"
+    "time": "Gallery hours (check venue)",
+    "location": "Cleo Project Space, Atlanta, GA",
+    "price": "Free",
+    "description": "Two-person show wrapping July 25. Quiet, contemplative gallery — great for a slow conversation date.",
+    "category": "art"
   }
 ]
