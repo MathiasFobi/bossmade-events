@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-28T07:00:00-07:00",
-  "source": "Date Planner cron — Sunday June 28, 2026 (next 2 weeks, couples focus)",
-  "dateCount": 16,
+  "generatedAt": "2026-06-29T07:00:00-07:00",
+  "source": "Atlanta Event Finder cron — Monday June 29, 2026 (next 2 weeks, couples focus)",
+  "dateCount": 20,
   "windowDays": 14,
-  "windowStart": "2026-06-28",
+  "windowStart": "2026-06-29",
   "windowEnd": "2026-07-12",
-  "categories": ["live music", "art", "dancing", "vegetarian", "comedy", "date idea", "Afrobeats", "reggae"],
-  "notes": "Next 2 weeks digest (6/28–7/12). Couples focus across categories: today kickoffs (Haiti World Cup / Reggae Club @ Knock Music House, Dinner & A Date soul night @ Apache XLR), then SOLARA art opening 7/2, Afrobeats to the World @ Masquerade 7/3, Salsa at Politan Row 7/3, multiple 4th-of-July options (R&B & Rosé brunch, Stars Sips & Skyline rooftop, Stone Mountain fireworks, Rum Punch Fest reggae rooftop), Helium comedy (Na'im Lynn 7/10–12), Glow Nights after-hours aquarium 7/10, Zoo Atlanta Savanna Nights (2000s) 7/11, ATL Vegan Festival + Life Space Vegan Cook-Off 7/12, Earth Windows gallery (closing 7/25). Categories cover every requested bucket. No Google Calendar integration (no gcal/gcalcli/khal CLI available on host)."
+  "categories": ["live music", "art", "dancing", "vegetarian", "comedy", "date idea", "Afrobeats", "reggae", "dance"],
+  "notes": "Fresh 2-week digest (6/29–7/12), couples-focused across all requested categories. Highlights: outdoor murder mystery date 7/1, Casa Bembé pottery 7/1, SOLARA art opening 7/2, Afrobeats to the World @ Masquerade 7/3, Salsa at Politan Row 7/3, multiple 4th-of-July picks (R&B & Rosé brunch, Stars Sips & Skyline rooftop, Stone Mountain fireworks, Rum Punch Fest reggae rooftop), Couples Connection mind-body 7/9, Glow Nights aquarium 7/10, Na'im Lynn comedy 7/10 & 7/11, ATL Greenhouse free house day 7/11, Afro Caribbean Fest 7/11, Savanna Nights (2000s) @ Zoo 7/11, Jessy J dinner-show 7/11, Prima Materia art opening 7/11, ATL Vegan Fest + Life Space Vegan Cook-Off 7/12. Every requested bucket covered at least once."
 }

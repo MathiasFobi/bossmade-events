@@ -1,21 +1,21 @@
 [
   {
-    "title": "Celebration of Haiti in World Cup 2026 — Hosted by The Reggae Club",
-    "date": "2026-06-28",
-    "time": "3:00 PM – 10:00 PM",
-    "location": "Knock Music House, Atlanta, GA",
-    "price": "Ticketed (see listing)",
-    "description": "Today — Caribbean/reggae celebration tied to the World Cup watch. Day party with music, food, and culture. Wear your flag colors.",
-    "category": "reggae"
+    "title": "Atlanta Outdoor Murder Mystery 2: Crime on Date Night",
+    "date": "2026-07-01",
+    "time": "Evening (see listing)",
+    "location": "Peachtree St NE @ 10th St NE, Downtown Atlanta, GA",
+    "price": "Ticketed (Fever)",
+    "description": "Outdoor interactive murder mystery built specifically for couples. Walkable downtown route, solve-it-together energy — perfect playful first or 50th date.",
+    "category": "date idea"
   },
   {
-    "title": "Dinner & A Date: A Night of Soul Live Music",
-    "date": "2026-06-28",
-    "time": "8:00 PM – 12:00 AM",
-    "location": "Apache XLR, 393 Marietta St NW, Atlanta, GA",
-    "price": "$14.46 – $73 (admission separate from table reservations)",
-    "description": "Tonight — R&B soul band + poetry + intimate dinner setting in West Midtown. Built for a romantic date (table reservations recommended).",
-    "category": "live music"
+    "title": "Sip & Sculpt Pottery Workshop @ Casa Bembé",
+    "date": "2026-07-01",
+    "time": "7:00 PM – 8:30 PM",
+    "location": "Casa Bembé Cuban Restaurant, Atlanta, GA",
+    "price": "Ticketed (Pottery with a Purpose)",
+    "description": "Wednesday-night couples pottery at a Cuban restaurant — sip, sculpt, and eat tapas after. Low-stakes creative first date.",
+    "category": "date idea"
   },
   {
     "title": "SOLARA: Return to the Light — Summer Group Exhibition Opening",
@@ -23,7 +23,7 @@
     "time": "4:00 PM – 8:00 PM",
     "location": "404FoundATL, Atlanta, GA",
     "price": "Free",
-    "description": "Free art exhibition opening celebrating Atlanta's creative community. Low-key browse-and-mingle first-date energy.",
+    "description": "Free art exhibition opening celebrating Atlanta's creative community. Low-key browse-and-mingle first-date energy with drinks flowing.",
     "category": "art"
   },
   {
@@ -31,8 +31,8 @@
     "date": "2026-07-03",
     "time": "9:00 PM",
     "location": "The Masquerade – Heaven, Underground Atlanta, 75 MLK Jr Dr SW, Atlanta, GA",
-    "price": "From $12 (last-batch pricing, 18+)",
-    "description": "Big Friday-night Afrobeats party. International crowd, heavy DJs, dancefloor. Wear something cute, lose your voice.",
+    "price": "From $12 (18+)",
+    "description": "Big Friday-night Afrobeats party at The Masquerade. International crowd, heavy DJs, dancefloor. Wear something cute, lose your voice.",
     "category": "Afrobeats"
   },
   {
@@ -41,7 +41,7 @@
     "time": "3:00 PM – 7:00 PM",
     "location": "Politan Row at Colony Square, Midtown Atlanta, GA",
     "price": "Ticketed (see listing)",
-    "description": "Outdoor salsa + bachata Sunday social with food hall steps away. Easy afternoon-to-evening couple's flow.",
+    "description": "Outdoor salsa + bachata social with food-hall steps away. Easy afternoon-into-evening couple's flow, beginners welcome.",
     "category": "dancing"
   },
   {
@@ -51,15 +51,15 @@
     "location": "Seven Midtown, 1100 Peachtree St NE, Atlanta, GA",
     "price": "Free entry with RSVP",
     "description": "4th of July R&B + rosé day party in Midtown. Daytime dancing, easy walk to Centennial Park fireworks after.",
-    "category": "Afrobeats"
+    "category": "date idea"
   },
   {
     "title": "Stars, Sips & Skyline — 4th of July Rooftop Celebration",
     "date": "2026-07-04",
     "time": "6:00 PM – 11:00 PM",
-    "location": "Kimpton Sylvan Atlanta – Buckhead, Atlanta, GA",
+    "location": "Kimpton Sylvan Atlanta – Buckhead, GA",
     "price": "Ticketed (see Eventbrite)",
-    "description": "Buckhead rooftop with skyline views for the fireworks. Cocktails, sunset, sparkle. The dress-up date night.",
+    "description": "Buckhead rooftop with skyline views for the fireworks. Cocktails, sunset, sparkle — the dress-up date night.",
     "category": "date idea"
   },
   {
@@ -81,13 +81,13 @@
     "category": "reggae"
   },
   {
-    "title": "Na'im Lynn at Helium Comedy Club",
-    "date": "2026-07-10",
-    "time": "7:00 PM & 9:15 PM",
-    "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
-    "price": "Ticketed (see Helium)",
-    "description": "Friday night comedy. Easy dinner-then-laughs date up in Alpharetta — pair with a downtown Alpharetta stroll after.",
-    "category": "comedy"
+    "title": "Couples Connection: A Mind-Body Experience",
+    "date": "2026-07-09",
+    "time": "6:30 PM – 9:00 PM",
+    "location": "Infinite Growth Counseling & Coaching LLC, Atlanta, GA",
+    "price": "Ticketed (see listing)",
+    "description": "Yoga + breathwork + partner-based exercises designed for couples. Sweat together, laugh together, leave closer.",
+    "category": "date idea"
   },
   {
     "title": "Glow Nights After Hours — Georgia Aquarium",
@@ -99,21 +99,57 @@
     "category": "date idea"
   },
   {
-    "title": "Savanna Nights: 2000s Era — Zoo Atlanta",
+    "title": "Na'im Lynn at Helium Comedy Club",
+    "date": "2026-07-10",
+    "time": "7:00 PM & 9:15 PM",
+    "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
+    "price": "Ticketed (see Helium)",
+    "description": "Friday night comedy. Easy dinner-then-laughs date up in Alpharetta — pair with a downtown Alpharetta stroll after.",
+    "category": "comedy"
+  },
+  {
+    "title": "ATL Greenhouse — Free House Music Day in Piedmont Park",
     "date": "2026-07-11",
-    "time": "6:00 PM – 8:30 PM (entry from 4:30 PM)",
+    "time": "12:00 PM – 10:00 PM",
+    "location": "Piedmont Park – The Pavilion, Atlanta, GA",
+    "price": "Free",
+    "description": "All-day free house-music festival at the Pavilion — vendors, food, drinks, lawn games. Bring blankets, picnic all day, dance into the night.",
+    "category": "dance"
+  },
+  {
+    "title": "Atlanta's Afro Caribbean Fest",
+    "date": "2026-07-11",
+    "time": "All day (see listing)",
+    "location": "Atlanta, GA (see listing)",
+    "price": "Ticketed (see AllEvents)",
+    "description": "Afro-Caribbean culture fest — soca, reggae, Afrobeats, food, dance. Cultural date day that'll get you both moving.",
+    "category": "Afrobeats"
+  },
+  {
+    "title": "Savanna Nights — 2000s Era at Zoo Atlanta",
+    "date": "2026-07-11",
+    "time": "6:00 PM – 8:30 PM (early entry 4:30 PM)",
     "location": "Zoo Atlanta, 800 Cherokee Ave SE, Atlanta, GA",
     "price": "$24.95 non-members / free for members (21+)",
-    "description": "Adults-only zoo night with throwback 2000s soundtrack, animal encounters, cocktails. Costumes welcome.",
+    "description": "Adults-only zoo night with throwback 2000s soundtrack, animal encounters, cocktails. Costumes and singalongs welcome.",
     "category": "live music"
   },
   {
-    "title": "Na'im Lynn at Helium Comedy Club (late shows)",
+    "title": "Saxophonist Jessy J — Dinner & A Show",
+    "date": "2026-07-11",
+    "time": "8:00 PM – 10:00 PM",
+    "location": "Perfect Note Atlanta, Atlanta, GA",
+    "price": "Ticketed (VIP & GA)",
+    "description": "Smooth-jax dinner + show format. VIP seats up front, GA behind. Built-in romantic pairing — order dinner, sip wine, get serenaded.",
+    "category": "live music"
+  },
+  {
+    "title": "Na'im Lynn at Helium Comedy Club — Saturday Late Show",
     "date": "2026-07-11",
     "time": "7:00 PM & 9:30 PM",
     "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
     "price": "Ticketed (see Helium)",
-    "description": "Second night of Na'im Lynn — Saturday show, perfect dinner-and-comedy date.",
+    "description": "Second night of Na'im Lynn — the late show is the loose, raunchier set. Date-night upgrade: dinner in Alpharetta + comedy.",
     "category": "comedy"
   },
   {
@@ -131,16 +167,16 @@
     "time": "2:00 PM – 5:00 PM",
     "location": "294 Hamilton E Holmes Dr NW, Atlanta, GA",
     "price": "Ticketed (see listing)",
-    "description": "Vegan chef cook-off — small, intimate, foodie date energy. Pair with the ATL Vegan Festival if you're going hard.",
+    "description": "Vegan chef cook-off — small, intimate, foodie date energy. Pair with ATL Vegan Festival if you're going hard.",
     "category": "vegetarian"
   },
   {
-    "title": "Earth Windows — Noah Reyes & Yanira Vissepó (Closing Weeks)",
-    "date": "2026-07-12",
-    "time": "Gallery hours (check venue)",
-    "location": "Cleo Project Space, Atlanta, GA",
+    "title": "Prima Materia — Group Exhibition Opening",
+    "date": "2026-07-11",
+    "time": "11:00 AM onward (gallery hours)",
+    "location": "Empire Arts Gallery, Atlanta, GA",
     "price": "Free",
-    "description": "Two-person show wrapping July 25. Quiet, contemplative gallery — great for a slow conversation date.",
+    "description": "Group show exploring artistic transformation — 'the sacred beginning of the creative act.' Easy day-of art browse, then lunch.",
     "category": "art"
   }
 ]
