@@ -1,14 +1,5 @@
 [
   {
-    "title": "Atlanta Outdoor Murder Mystery 2: Crime on Date Night",
-    "date": "2026-07-01",
-    "time": "Evening (see listing)",
-    "location": "Peachtree St NE @ 10th St NE, Downtown Atlanta, GA",
-    "price": "Ticketed (Fever)",
-    "description": "Outdoor interactive murder mystery built specifically for couples. Walkable downtown route, solve-it-together energy — perfect playful first or 50th date.",
-    "category": "date idea"
-  },
-  {
     "title": "Sip & Sculpt Pottery Workshop @ Casa Bembé",
     "date": "2026-07-01",
     "time": "7:00 PM – 8:30 PM",
@@ -43,6 +34,15 @@
     "price": "Ticketed (see listing)",
     "description": "Outdoor salsa + bachata social with food-hall steps away. Easy afternoon-into-evening couple's flow, beginners welcome.",
     "category": "dancing"
+  },
+  {
+    "title": "Live Jazz Friday's — Wine & Live Music at Taste Wine Bar",
+    "date": "2026-07-03",
+    "time": "7:00 PM – 10:00 PM",
+    "location": "Taste Wine Bar and Market, Atlanta, GA",
+    "price": "Free entry (drinks paid separately)",
+    "description": "Smooth jazz + self-serve wine = the easy Friday night date. Sit close, sip, let the sax do the flirting for you.",
+    "category": "live music"
   },
   {
     "title": "R&B & Rosé Brunch & Day Party at Seven Midtown",
@@ -81,6 +81,42 @@
     "category": "reggae"
   },
   {
+    "title": "Timba on the Shed — Cuban Music + Free Salsa Lesson",
+    "date": "2026-07-04",
+    "time": "5:00 PM onward (free lesson first)",
+    "location": "The Shed at Ponce City Market, Atlanta, GA",
+    "price": "Free",
+    "description": "Free beginner salsa lesson at 5pm, then live Cuban timba + bachata all night. BeltLine stroll + food hall = built-in date plan.",
+    "category": "dancing"
+  },
+  {
+    "title": "Pizza for the Animals! @ Pizza Verdura Sincera",
+    "date": "2026-07-07",
+    "time": "5:00 PM – 9:00 PM",
+    "location": "Pizza Verdura Sincera, Atlanta, GA",
+    "price": "Ticketed (benefits Farm of the Free Animal Sanctuary)",
+    "description": "Vegetarian pizza night benefitting an animal sanctuary. Good food, good cause, good conversation starter.",
+    "category": "vegetarian"
+  },
+  {
+    "title": "Santana & The Doobie Brothers — Oneness Tour 2026",
+    "date": "2026-07-09",
+    "time": "7:00 PM",
+    "location": "Ameris Bank Amphitheatre, 2200 Encore Pkwy, Alpharetta, GA",
+    "price": "Ticketed (Live Nation)",
+    "description": "Carlos Santana + Doobie Brothers co-headlining. Two-hour guitar-slinger date night in the Alpharetta summer air.",
+    "category": "live music"
+  },
+  {
+    "title": "Screenings on The Green — Outdoor Movie Night",
+    "date": "2026-07-09",
+    "time": "7:00 PM – 9:00 PM",
+    "location": "High Street Atlanta, The Green, Atlanta, GA",
+    "price": "Free (complimentary popcorn)",
+    "description": "First-Thursday outdoor movie series. Blanket, snacks, leaning-on-shoulders energy. The lowest-effort high-reward date.",
+    "category": "date idea"
+  },
+  {
     "title": "Couples Connection: A Mind-Body Experience",
     "date": "2026-07-09",
     "time": "6:30 PM – 9:00 PM",
@@ -88,6 +124,15 @@
     "price": "Ticketed (see listing)",
     "description": "Yoga + breathwork + partner-based exercises designed for couples. Sweat together, laugh together, leave closer.",
     "category": "date idea"
+  },
+  {
+    "title": "NE-YO & AKON — Nights Like This Tour 2026",
+    "date": "2026-07-11",
+    "time": "8:00 PM",
+    "location": "Lakewood Amphitheatre, Atlanta, GA",
+    "price": "Ticketed (Live Nation)",
+    "description": "R&B double-header. Sing-along-the-radio date that turns into a slow-dance at sunset. Stadium seats or lawn — both work.",
+    "category": "live music"
   },
   {
     "title": "Glow Nights After Hours — Georgia Aquarium",
@@ -99,7 +144,7 @@
     "category": "date idea"
   },
   {
-    "title": "Na'im Lynn at Helium Comedy Club",
+    "title": "Na'im Lynn at Helium Comedy Club — Opening Night",
     "date": "2026-07-10",
     "time": "7:00 PM & 9:15 PM",
     "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
@@ -120,9 +165,9 @@
     "title": "Atlanta's Afro Caribbean Fest",
     "date": "2026-07-11",
     "time": "All day (see listing)",
-    "location": "Atlanta, GA (see listing)",
-    "price": "Ticketed (see AllEvents)",
-    "description": "Afro-Caribbean culture fest — soca, reggae, Afrobeats, food, dance. Cultural date day that'll get you both moving.",
+    "location": "Embr Lounge, Atlanta, GA",
+    "price": "Free til 5 PM with RSVP, ticketed after (21+)",
+    "description": "Afro-Caribbean culture fest — soca, reggae, Afrobeats, food, dance. Indoor + outdoor venue, 21+ free til 5 — perfect daytime date.",
     "category": "Afrobeats"
   },
   {
@@ -139,7 +184,7 @@
     "date": "2026-07-11",
     "time": "8:00 PM – 10:00 PM",
     "location": "Perfect Note Atlanta, Atlanta, GA",
-    "price": "Ticketed (VIP & GA)",
+    "price": "Ticketed (VIP & GA, dinner separate)",
     "description": "Smooth-jax dinner + show format. VIP seats up front, GA behind. Built-in romantic pairing — order dinner, sip wine, get serenaded.",
     "category": "live music"
   },
@@ -151,6 +196,42 @@
     "price": "Ticketed (see Helium)",
     "description": "Second night of Na'im Lynn — the late show is the loose, raunchier set. Date-night upgrade: dinner in Alpharetta + comedy.",
     "category": "comedy"
+  },
+  {
+    "title": "Alex Stein at Helium Comedy Club",
+    "date": "2026-07-11",
+    "time": "7:00 PM & 9:30 PM",
+    "location": "Helium Comedy Club, 3070 Windward Plaza, Alpharetta, GA",
+    "price": "Ticketed (see Helium)",
+    "description": "Viral political-satire comedian ('Prime Time #99', 'Pimp on a Blimp'). Big energy, big laughs, easy Saturday-night date.",
+    "category": "comedy"
+  },
+  {
+    "title": "Blooms Market at Ponce — BeltLine Art Market",
+    "date": "2026-07-11",
+    "time": "Evening (see listing)",
+    "location": "The Shed at Ponce City Market, Atlanta, GA",
+    "price": "Free",
+    "description": "Monthly BeltLine art market on the Atlanta BeltLine — local artists, makers, vibes. Stroll the market, grab dinner after.",
+    "category": "art"
+  },
+  {
+    "title": "Bloomscape Art Market @ The LOLA",
+    "date": "2026-07-11",
+    "time": "1:30 PM – 4:30 PM",
+    "location": "The LOLA, Old Fourth Ward, Atlanta, GA",
+    "price": "Free",
+    "description": "Saturday-afternoon art market in O4W. Smaller, more local than Ponce — perfect for a slow browse + coffee date.",
+    "category": "art"
+  },
+  {
+    "title": "Prima Materia — Group Exhibition Opening",
+    "date": "2026-07-11",
+    "time": "7:00 PM – 10:00 PM (opening reception)",
+    "location": "Kai Lin Art, Atlanta, GA",
+    "price": "Free",
+    "description": "Group show exploring artistic transformation — 'the sacred beginning of the creative act.' Easy browse-and-mingle date energy.",
+    "category": "art"
   },
   {
     "title": "ATL Vegan Festival — Piedmont Park",
@@ -171,12 +252,21 @@
     "category": "vegetarian"
   },
   {
-    "title": "Prima Materia — Group Exhibition Opening",
-    "date": "2026-07-11",
-    "time": "11:00 AM onward (gallery hours)",
-    "location": "Empire Arts Gallery, Atlanta, GA",
-    "price": "Free",
-    "description": "Group show exploring artistic transformation — 'the sacred beginning of the creative act.' Easy day-of art browse, then lunch.",
-    "category": "art"
+    "title": "Cocktails in the Garden — Atlanta Botanical Garden",
+    "date": "2026-07-09",
+    "time": "5:00 PM – 9:00 PM",
+    "location": "Atlanta Botanical Garden, 1345 Piedmont Ave NE, Atlanta, GA",
+    "price": "Included with Garden admission",
+    "description": "Thursday-night specialty cocktails in the lit-up Garden (Niki in the Garden exhibition still on). Romantic walk + drinks = peak summer date.",
+    "category": "date idea"
+  },
+  {
+    "title": "MESSING & LEHR — Dad's Garage Improv (One-Night-Only)",
+    "date": "2026-07-01",
+    "time": "8:00 PM",
+    "location": "Dad's Garage Theatre, Atlanta, GA",
+    "price": "Ticketed (see Dad's Garage)",
+    "description": "Improv legends Susan Messing + John Lehr (a real-life couple) performing together. Meta-romantic date for the comedy-literate couple.",
+    "category": "comedy"
   }
 ]
