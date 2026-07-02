@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-07-01T07:00:00-07:00",
-  "source": "Atlanta Event Finder cron — Wednesday July 1, 2026 (next 2 weeks, couples focus)",
-  "dateCount": 16,
+  "generatedAt": "2026-07-02T07:00:00-07:00",
+  "generatedAtHuman": "Thursday, July 2, 2026 — 7:00 AM PT",
+  "source": "Atlanta Event Finder (cron)",
+  "city": "Atlanta, GA",
   "windowDays": 14,
-  "windowStart": "2026-07-01",
-  "windowEnd": "2026-07-15",
-  "categories": ["live music", "art", "dancing", "vegetarian", "comedy", "date idea", "Afrobeats", "reggae"],
-  "notes": "Fresh 2-week digest (7/1–7/15), couples-focused across all requested categories. NEW this run: NE-YO & AKON 7/11 at Lakewood, Prima Materia opening 7/11 at Empire Arts, Atlanta's Afro Caribbean Fest 7/11 at Embr Lounge, ATL Vegan Fest 7/12 at Piedmont Park, Life Space Vegan Cook-Off 7/12, Karlous Miller 7/17 at Helium, Michael Blackson 7/4 at City Winery, Latin Wednesdays at Tongue & Groove 7/8, Summer Slamajama gallery opening 7/9, Ink Studded Vegan Fest 7/25. Kept returning favorites: Afrobeats to the World 7/3, Rum Punch Fest 7/4, Na'im Lynn 7/10, Vegan Soul Sunday 7/5, Tropical Latin Night 7/10. Every requested bucket covered at least once (live music, Afrobeat/reggae, art, vegetarian, comedy, dancing, date idea)."
+  "eventCount": 17,
+  "categories": [
+    "Live Music",
+    "Afrobeat / Reggae",
+    "Art / Gallery",
+    "Vegetarian / Food",
+    "Comedy",
+    "Dancing"
+  ]
 }

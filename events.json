@@ -1,146 +1,155 @@
 [
   {
-    "title": "Afrobeats to the World — Atlanta",
+    "title": "Afrobeats to the World (18+)",
     "date": "2026-07-03",
     "time": "9:00 PM",
-    "location": "The Masquerade – Heaven, Underground Atlanta, 75 MLK Jr Dr SW, Atlanta, GA",
-    "price": "From $12 (18+)",
-    "description": "Massive Friday-night Afrobeats party with international DJs. Wear something cute, plan to dance until close — easy couples energy.",
-    "category": "Afrobeats"
+    "location": "The Masquerade – Heaven, 75 MLK Jr Dr SW, Atlanta, GA",
+    "price": "$12+",
+    "description": "High-energy Afrobeats night with DJs and dance-floor energy from start to finish. 18+ crowd, indoor venue, and one of the most fun ways to kick off the weekend. Perfect for a couple that loves to move — expect a packed floor and nonstop hits from across the diaspora.",
+    "category": "Live Music / Afrobeat"
   },
   {
-    "title": "Rum Punch Fest: Reggae on the Rooftop — July 4th Weekend",
+    "title": "Rum Punch Fest: Reggae on the Rooftop (4th of July Weekend)",
     "date": "2026-07-04",
     "time": "10:00 PM – 3:00 AM",
     "location": "Cafe Circa Rooftop, Atlanta, GA",
-    "price": "Ticketed (limited)",
-    "description": "Late-night reggae rooftop with rum punch specials, skyline views, and a holiday-weekend crowd. Perfect dancefloor date.",
-    "category": "reggae"
+    "price": "See Eventbrite (paid)",
+    "description": "Late-night rooftop reggae party for 4th of July weekend with rum punch specials, DJs, and skyline views. Late-night energy, dancing, and a built-in holiday-weekend vibe — bring a partner who can hang past midnight.",
+    "category": "Reggae / Dancing"
   },
   {
-    "title": "Michael Blackson — City Winery Atlanta",
-    "date": "2026-07-04",
-    "time": "7:00 PM",
-    "location": "City Winery Atlanta, 650 North Ave NE, Atlanta, GA",
-    "price": "From $72",
-    "description": "KISS 104.1 presents the comedic powerhouse live on the 4th. Dinner-and-a-show date: book a table, share a bottle, laugh until it hurts.",
-    "category": "comedy"
+    "title": "Reverb & Vibe: Rooftop Salsa at Sunset",
+    "date": "2026-07-05",
+    "time": "5:00 PM – 9:00 PM",
+    "location": "Reverb Hotel Atlanta, Downtown",
+    "price": "See Mambo Mayhem listing",
+    "description": "Sunset rooftop salsa social hosted by Mambo Mayhem — great for beginners and experienced dancers alike. Rooftop golden hour, Latin music, and easy instruction make this a perfect low-pressure first-dance-together date.",
+    "category": "Dancing / Latin"
   },
   {
     "title": "Vegan Soul Sunday — Spice & Herbs for Healing",
     "date": "2026-07-05",
     "time": "12:00 PM – 4:00 PM",
     "location": "New Life Presbyterian Church, Atlanta, GA",
-    "price": "Ticketed (Eventbrite)",
-    "description": "Plant-based soul food pop-up with a healing/herbalism angle. Browse vendors, eat well, and support a Black-owned food event.",
-    "category": "vegetarian"
+    "price": "See Eventbrite (low-cost)",
+    "description": "Plant-based food pop-up celebrating vegan soul food with herbs & healing theme. A chill Sunday afternoon date — sample dishes together, support local vegan chefs, and walk away full and inspired.",
+    "category": "Vegetarian / Food"
   },
   {
-    "title": "Latin Wednesdays at Tongue & Groove",
-    "date": "2026-07-08",
-    "time": "9:00 PM – 3:00 AM",
-    "location": "Tongue & Groove, Atlanta, GA",
-    "price": "Cover at door",
-    "description": "Weekly midweek salsa/bachata night at a Buckhead institution. Beginners welcome — couples can take a lesson before the floor opens.",
-    "category": "dancing"
+    "title": "Vinnie D. & Co. — Better Get It in Your Soul (Soul Jazz)",
+    "date": "2026-07-11",
+    "time": "8:00 PM – 10:30 PM",
+    "location": "Red Light Cafe, Atlanta, GA",
+    "price": "Low cover (intimate venue)",
+    "description": "A soul-jazz night in one of Atlanta's coziest listening rooms. Dim lights, great music, and a small-room vibe that practically forces good conversation between sets. Ideal for couples who like jazz and want something more intimate than a big arena show.",
+    "category": "Live Music / Jazz"
   },
   {
-    "title": "Summer Slamajama — Gallery Opening at Anne Irwin Fine Art",
-    "date": "2026-07-09",
-    "time": "6:00 PM – 9:00 PM",
-    "location": "Anne Irwin Fine Art, Atlanta, GA",
-    "price": "Free",
-    "description": "Summer-themed gallery opening — wine, browsing, and an excuse to dress up. Easy 'browse, sip, and decide where to eat after' date.",
-    "category": "art"
-  },
-  {
-    "title": "Na'im Lynn — Helium Comedy Club",
-    "date": "2026-07-10",
-    "time": "7:00 PM (Fri), 9:30 PM (Sat) — also Sun 7/12",
-    "location": "Helium Comedy Club, Atlanta, GA",
-    "price": "Ticketed (varies)",
-    "description": "Three-night run from a sharp, high-energy comic. Grab dinner nearby and make it a Friday-night double-feature.",
-    "category": "comedy"
-  },
-  {
-    "title": "NE-YO & AKON: Nights Like This Tour 2026",
+    "title": "Jill Scott — To Whom This May Concern Tour",
     "date": "2026-07-11",
     "time": "8:00 PM",
-    "location": "Lakewood Amphitheatre, Atlanta, GA",
-    "price": "Ticketed (Live Nation)",
-    "description": "R&B double-header under the stars. Sing-along date — two of the 2000s' best hook singers in one night. Tailgate-vibes encouraged.",
-    "category": "live music"
+    "location": "Fox Theatre, Midtown Atlanta",
+    "price": "$$ (premier R&B tour)",
+    "description": "Jill Scott at the historic Fox Theatre — neo-soul royalty in a venue built for date nights. Get dressed up, share a drink in the Fox's lobby, and sing along to a catalog full of love songs. One of the marquee couple's nights of the month.",
+    "category": "Live Music / R&B"
   },
   {
-    "title": "Prima Materia — Opening Reception at Empire Arts Gallery",
-    "date": "2026-07-11",
-    "time": "11:00 AM – evening",
-    "location": "Empire Arts Gallery, Atlanta, GA",
-    "price": "Free",
-    "description": "Group show exploring the origin of the creative act. Gallery openings pair great with a coffee date or a wine-bar stop after.",
-    "category": "art"
-  },
-  {
-    "title": "Atlanta's Afro Caribbean Fest",
+    "title": "Afro Caribbean Fest Atlanta",
     "date": "2026-07-11",
     "time": "3:00 PM – 8:00 PM",
     "location": "Embr Lounge, Atlanta, GA",
-    "price": "Free with RSVP (21+ until 5pm)",
-    "description": "90s/00s reggae, Afrobeats, and R&B with indoor + outdoor space. Late-afternoon start = perfect pre-dinner date.",
-    "category": "Afrobeats"
+    "price": "Free until 5 PM with RSVP (21+)",
+    "description": "Indoor + outdoor daytime party spinning '90s/'00s reggae, Afrobeats, and R&B. Free entry early, cash bar, and a mixed crowd that loves to dance. Easy, low-cost date that turns into a full night out.",
+    "category": "Afrobeat / Reggae"
+  },
+  {
+    "title": "Prima Materia — Group Exhibition Opening",
+    "date": "2026-07-11",
+    "time": "11:00 AM onward",
+    "location": "Empire Arts Gallery, Atlanta, GA",
+    "price": "Free (opening)",
+    "description": "Group show exploring the 'sacred beginning' of the creative act. A perfect Saturday-afternoon art date — slow walk, talk about what you see, then grab coffee or dinner nearby in the gallery district.",
+    "category": "Art / Gallery"
   },
   {
     "title": "ATL Vegan Festival",
     "date": "2026-07-12",
     "time": "11:00 AM – 5:00 PM",
     "location": "Piedmont Park, Atlanta, GA",
-    "price": "Free / vendor pricing",
-    "description": "Plant-based food festival in the park. Walk, snack, and share plates — easy, sunny, outdoorsy Sunday date.",
-    "category": "vegetarian"
+    "price": "Free / low-cost entry",
+    "description": "Atlanta's biggest plant-based festival — dozens of vegan food vendors, cooking demos, and live music in the park. Picnic-blanket date energy with the best of Atlanta's vegan scene in one place. Sunny, casual, and easy.",
+    "category": "Vegetarian / Food"
   },
   {
-    "title": "Life Space Vegan Chef Cook-Off",
-    "date": "2026-07-12",
-    "time": "2:00 PM – 5:00 PM",
-    "location": "294 Hamilton E Holmes Dr NW, Atlanta, GA",
-    "price": "Ticketed",
-    "description": "Live vegan cook-off — chefs battle it out while you taste. Interactive and fun if you like foodie content.",
-    "category": "vegetarian"
+    "title": "Saxophonist Jessy J (Dinner & a Show)",
+    "date": "2026-07-11",
+    "time": "8:00 PM – 10:00 PM",
+    "location": "The Perfect Note Atlanta, Duluth",
+    "price": "VIP/GA tickets (dinner separate)",
+    "description": "Contemporary jazz saxophonist Jessy J in an intimate dinner-and-a-show setting. Pair dinner with smooth jazz for a classic two-for-one date night. Worth the short drive to Duluth for the vibe.",
+    "category": "Live Music / Jazz"
   },
   {
-    "title": "Karlous Miller — Helium Comedy Club",
+    "title": "Poetic Jazz: Prince Tribute",
+    "date": "2026-07-14",
+    "time": "8:00 PM – 10:00 PM",
+    "location": "The Vick at Healey, 57 Forsyth St NW, Downtown",
+    "price": "See Poetic Jazz listing",
+    "description": "Local jazz collective puts their spin on Prince's catalog — a creative, romantic midweek date. Downtown location makes it easy to extend into a late dinner or cocktails afterward.",
+    "category": "Live Music / Jazz"
+  },
+  {
+    "title": "NE-YO & AKON — Nights Like This Tour 2026",
+    "date": "2026-07-11",
+    "time": "8:00 PM",
+    "location": "Lakewood Amphitheatre, Atlanta, GA",
+    "price": "$$ (outdoor amphitheatre)",
+    "description": "R&B/Afropop double-bill under the summer sky at Lakewood. Lawn or seats, food trucks, and sing-along hits. Great 'big summer show' date — bring a blanket and turn it into a whole evening.",
+    "category": "Live Music / R&B"
+  },
+  {
+    "title": "Karlous Miller — Special Event",
     "date": "2026-07-17",
-    "time": "7:00 PM (Fri), 9:30 PM (Sat), 7:00 PM (Sun)",
+    "time": "7:00 PM & 9:15 PM",
     "location": "Helium Comedy Club, Atlanta, GA",
-    "price": "Ticketed (varies)",
-    "description": "The 'Wild 'N Out' favorite with a long Atlanta weekend. Group-date energy — bring another couple.",
-    "category": "comedy"
+    "price": "$$ (comedy club cover)",
+    "description": "Headliner show at Helium — Karlous Miller (Wild 'N Out, 85 South) brings high-energy crowd work. Comedy-club dates are gold: laugh together, grab a drink between sets, walk out with a story.",
+    "category": "Comedy"
   },
   {
-    "title": "Tropical Latin Night Atlanta (Viernes Tropicales)",
-    "date": "2026-07-10",
-    "time": "8:30 PM – 2:00 AM",
-    "location": "Sanctuary Night Club, Atlanta, GA",
-    "price": "Cover at door",
-    "description": "Friday-night reggaetón, salsa, and bachata under one roof. Dress up, learn two steps, leave sweaty and happy.",
-    "category": "dancing"
+    "title": "Dexter Tolson & Friends (Live Jazz)",
+    "date": "2026-07-17",
+    "time": "Evening (see venue)",
+    "location": "Vibes Jazz Cafe at The Red Door, Atlanta, GA",
+    "price": "Cover (intimate venue)",
+    "description": "Local jazz favorite Dexter Tolson with a rotating set of friends. A date-night classic: cocktails, candles, and live music in a room built for it.",
+    "category": "Live Music / Jazz"
   },
   {
-    "title": "Lionel Richie & Earth, Wind & Fire — Sing a Song All Night Long",
+    "title": "Lionel Richie & Earth, Wind & Fire — Sing A Song All Night Long",
     "date": "2026-07-19",
     "time": "7:30 PM",
-    "location": "State Farm Arena, Atlanta, GA",
-    "price": "Ticketed (Live Nation)",
-    "description": "Two legends, one night, every chorus singable. Cocktail-and-arena date: dinner downtown, then the show.",
-    "category": "live music"
+    "location": "State Farm Arena, Downtown Atlanta",
+    "price": "$$ (arena tour)",
+    "description": "Two legendary catalogs in one night — disco, soul, funk, and the kind of singalong moments couples remember for years. Splurge-date material. Get dinner downtown first and make a full night of it.",
+    "category": "Live Music / Soul & Funk"
   },
   {
-    "title": "Ink Studded Vegan Fest",
-    "date": "2026-07-25",
-    "time": "1:00 PM – 6:00 PM",
-    "location": "1879 S Stone Mountain Lithonia Rd, Lithonia, GA",
-    "price": "Ticketed",
-    "description": "Vegan food + tattoo flash event — quirky 'experience' date. Drive out, eat, get matching flash tats if you're brave.",
-    "category": "date idea"
+    "title": "Summer Slamajama — Gallery Opening",
+    "date": "2026-07-09",
+    "time": "6:00 PM – 9:00 PM",
+    "location": "Anne Irwin Fine Art, Atlanta, GA",
+    "price": "Free (opening reception)",
+    "description": "Summer group show opening with art, music, and mingling. Easy Thursday-evening gallery date — meet the artists, share wine, and end with dinner in Buckhead.",
+    "category": "Art / Gallery"
+  },
+  {
+    "title": "Steel Pulse",
+    "date": "2026-07-26",
+    "time": "Evening (doors TBA)",
+    "location": "The Eastern, Atlanta, GA",
+    "price": "$$ (reggae legends)",
+    "description": "Reggae legends Steel Pulse at one of Atlanta's best-sounding mid-size rooms. Roots reggae in a proper concert hall — a meaningful date for any couple who loves the genre.",
+    "category": "Reggae / Live Music"
   }
 ]
